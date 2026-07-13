@@ -1,0 +1,43 @@
+{
+  "model": "google/gemma-2-9b-it",
+  "dtype": "bfloat16",
+  "layer": 37,
+  "sae_meta": {
+    "repo": "google/gemma-scope-9b-pt-res",
+    "subpath": "layer_37/width_16k/average_l0_11/params.npz",
+    "local_path": "<HF_CACHE>/hub/models--google--gemma-scope-9b-pt-res/snapshots/f9b689815814972562d28082f9f7d65d7e01fdc8/layer_37/width_16k/average_l0_11/params.npz",
+    "sha256": "71491ae42b5c36760cf685ccd117c6cff81c573eda8dfd6d9baa21d8dc3a521e",
+    "d_model": 3584,
+    "d_sae": 16384
+  },
+  "wikitext_n_paragraphs": 800,
+  "wikitext_min_tokens": 50,
+  "wikitext_max_tokens": 512,
+  "wikitext_dataset": "Salesforce/wikitext, wikitext-2-raw-v1, test",
+  "shuffle_seed": 42,
+  "main_seed": 0,
+  "n_features_tracked": 20,
+  "features_tracked": [
+    1346,
+    1610,
+    2067,
+    3470,
+    3863,
+    4269,
+    4314,
+    4402,
+    5596,
+    6873,
+    7187,
+    8023,
+    8358,
+    9825,
+    10089,
+    12009,
+    14003,
+    15382,
+    15577,
+    16234
+  ],
+  "elapsed_seconds": 311.12
+}

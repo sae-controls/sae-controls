@@ -1,0 +1,827 @@
+{
+  "1346": {
+    "is_random": false,
+    "is_phase2a_reused": false,
+    "n_lists": 2,
+    "ambigqa_origins": [
+      {
+        "pair_id": "1358998521849298292",
+        "disambig_idx": 0,
+        "A_question": "When was the declaration of independence officially signed?",
+        "D_question": "When is it commonly believed that the declaration of independence was officially signed?",
+        "D_answer": "July 4, 1776"
+      },
+      {
+        "pair_id": "730486789791790233",
+        "disambig_idx": 1,
+        "A_question": "When did the ussr agree to a unified germany inside of nato?",
+        "D_question": "When did the USSR formally agree to a unified Germany inside of NATO?",
+        "D_answer": "12 September 1990"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 60.75,
+        "kind": "D",
+        "pair_id": "730486789791790233",
+        "disambig_idx": 1,
+        "text": "When did the USSR formally agree to a unified Germany inside of NATO?",
+        "answer": "12 September 1990"
+      },
+      {
+        "activation": 46.5,
+        "kind": "D",
+        "pair_id": "1358998521849298292",
+        "disambig_idx": 0,
+        "text": "When is it commonly believed that the declaration of independence was officially signed?",
+        "answer": "July 4, 1776"
+      },
+      {
+        "activation": 46.0,
+        "kind": "A",
+        "pair_id": "730486789791790233",
+        "disambig_idx": null,
+        "text": "When did the ussr agree to a unified germany inside of nato?",
+        "answer": null
+      },
+      {
+        "activation": 38.0,
+        "kind": "A",
+        "pair_id": "1358998521849298292",
+        "disambig_idx": null,
+        "text": "When was the declaration of independence officially signed?",
+        "answer": null
+      },
+      {
+        "activation": 38.0,
+        "kind": "A",
+        "pair_id": "4943148846276714353",
+        "disambig_idx": null,
+        "text": "When was the peace treaty with japan signed?",
+        "answer": null
+      }
+    ]
+  },
+  "1610": {
+    "is_random": false,
+    "is_phase2a_reused": false,
+    "n_lists": 5,
+    "ambigqa_origins": [
+      {
+        "pair_id": "-8667764342638076740",
+        "disambig_idx": 0,
+        "A_question": "Where does the monarch butterfly go in the winter?",
+        "D_question": "Where does the Danaus Plexippus plexippus monarch butterfly go in the winter?",
+        "D_answer": "central Mexico"
+      },
+      {
+        "pair_id": "-992532917088482296",
+        "disambig_idx": 1,
+        "A_question": "Where did the battle of stone's river take place?",
+        "D_question": "Near which body of water did the battle of stone's river take place?",
+        "D_answer": "Stone's River"
+      },
+      {
+        "pair_id": "8243238313991869281",
+        "disambig_idx": 1,
+        "A_question": "Where do you find the black widow spider?",
+        "D_question": "Where in the United States do you find the black widow spider?",
+        "D_answer": "South and West"
+      },
+      {
+        "pair_id": "-4206381394211807490",
+        "disambig_idx": 0,
+        "A_question": "Where do tornadoes most commonly occur in the us?",
+        "D_question": "What is the nickname for where tornadoes most commonly occur in the us?",
+        "D_answer": "Tornado Alley"
+      },
+      {
+        "pair_id": "-9215089649150954539",
+        "disambig_idx": 1,
+        "A_question": "What is a symbol of the united states?",
+        "D_question": "What is the national mammal symbol of the united states?",
+        "D_answer": "North American bison"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 247.0,
+        "kind": "A",
+        "pair_id": "-4206381394211807490",
+        "disambig_idx": null,
+        "text": "Where do tornadoes most commonly occur in the us?",
+        "answer": null
+      },
+      {
+        "activation": 202.0,
+        "kind": "D",
+        "pair_id": "-4206381394211807490",
+        "disambig_idx": 0,
+        "text": "What is the nickname for where tornadoes most commonly occur in the us?",
+        "answer": "Tornado Alley"
+      },
+      {
+        "activation": 133.0,
+        "kind": "D",
+        "pair_id": "8243238313991869281",
+        "disambig_idx": 1,
+        "text": "Where in the United States do you find the black widow spider?",
+        "answer": "South and West"
+      },
+      {
+        "activation": 65.0,
+        "kind": "D",
+        "pair_id": "-4206381394211807490",
+        "disambig_idx": 1,
+        "text": "What single state is where tornadoes most commonly occur in the us?",
+        "answer": "Texas"
+      },
+      {
+        "activation": 64.5,
+        "kind": "D",
+        "pair_id": "-8667764342638076740",
+        "disambig_idx": 0,
+        "text": "Where does the Danaus Plexippus plexippus monarch butterfly go in the winter?",
+        "answer": "central Mexico"
+      }
+    ]
+  },
+  "2067": {
+    "is_random": true,
+    "is_phase2a_reused": false,
+    "n_lists": 0,
+    "ambigqa_origins": [],
+    "ambigqa_top5_activations": []
+  },
+  "3470": {
+    "is_random": false,
+    "is_phase2a_reused": false,
+    "n_lists": 3,
+    "ambigqa_origins": [
+      {
+        "pair_id": "-4280032514854961256",
+        "disambig_idx": 2,
+        "A_question": "When did the last song of ice and fire book come out?",
+        "D_question": "When did book 3 of the A Song of Ice and Fire series release in the UK?",
+        "D_answer": "August 8, 2000"
+      },
+      {
+        "pair_id": "1231213979059064331",
+        "disambig_idx": 0,
+        "A_question": "How many teams in the english premier league?",
+        "D_question": "How many teams in the english premier league at a single time?",
+        "D_answer": "20"
+      },
+      {
+        "pair_id": "5865749619390322143",
+        "disambig_idx": 1,
+        "A_question": "What is the legal smoking age in ontario?",
+        "D_question": "What is the legal age for purchasing tobacco in ontario?",
+        "D_answer": "19"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 221.0,
+        "kind": "D",
+        "pair_id": "1231213979059064331",
+        "disambig_idx": 0,
+        "text": "How many teams in the english premier league at a single time?",
+        "answer": "20"
+      },
+      {
+        "activation": 216.0,
+        "kind": "A",
+        "pair_id": "1231213979059064331",
+        "disambig_idx": null,
+        "text": "How many teams in the english premier league?",
+        "answer": null
+      },
+      {
+        "activation": 46.0,
+        "kind": "A",
+        "pair_id": "4669684566960373786",
+        "disambig_idx": null,
+        "text": "When did the afghanistan war start and end?",
+        "answer": null
+      },
+      {
+        "activation": 46.0,
+        "kind": "D",
+        "pair_id": "5865749619390322143",
+        "disambig_idx": 1,
+        "text": "What is the legal age for purchasing tobacco in ontario?",
+        "answer": "19"
+      },
+      {
+        "activation": 44.0,
+        "kind": "A",
+        "pair_id": "-7418074182739891338",
+        "disambig_idx": null,
+        "text": "When did the astros become an american league team?",
+        "answer": null
+      }
+    ]
+  },
+  "3863": {
+    "is_random": true,
+    "is_phase2a_reused": false,
+    "n_lists": 0,
+    "ambigqa_origins": [],
+    "ambigqa_top5_activations": []
+  },
+  "4269": {
+    "is_random": false,
+    "is_phase2a_reused": true,
+    "n_lists": 1,
+    "ambigqa_origins": [
+      {
+        "pair_id": "-4408792231413778149",
+        "disambig_idx": 1,
+        "A_question": "Who plays jack abbott on young and the restless?",
+        "D_question": "Who plays jack abbott on young and the restless from 1989-present?",
+        "D_answer": "Bergman"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 43.75,
+        "kind": "D",
+        "pair_id": "-4408792231413778149",
+        "disambig_idx": 1,
+        "text": "Who plays jack abbott on young and the restless from 1989-present?",
+        "answer": "Bergman"
+      },
+      {
+        "activation": 36.75,
+        "kind": "A",
+        "pair_id": "-4408792231413778149",
+        "disambig_idx": null,
+        "text": "Who plays jack abbott on young and the restless?",
+        "answer": null
+      }
+    ]
+  },
+  "4314": {
+    "is_random": false,
+    "is_phase2a_reused": false,
+    "n_lists": 1,
+    "ambigqa_origins": [
+      {
+        "pair_id": "7550329590348463483",
+        "disambig_idx": 1,
+        "A_question": "Where was the movie charlie st. cloud filmed?",
+        "D_question": "In what famous restaurant was a scene for the movie charlie st. cloud filmed?",
+        "D_answer": "'Beachcombers' restaurant"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 288.0,
+        "kind": "D",
+        "pair_id": "7550329590348463483",
+        "disambig_idx": 1,
+        "text": "In what famous restaurant was a scene for the movie charlie st. cloud filmed?",
+        "answer": "'Beachcombers' restaurant"
+      },
+      {
+        "activation": 41.75,
+        "kind": "D",
+        "pair_id": "163812951030211182",
+        "disambig_idx": 2,
+        "text": "When did the boston tea party cafe chain start?",
+        "answer": "1995"
+      }
+    ]
+  },
+  "4402": {
+    "is_random": true,
+    "is_phase2a_reused": false,
+    "n_lists": 0,
+    "ambigqa_origins": [],
+    "ambigqa_top5_activations": []
+  },
+  "5596": {
+    "is_random": false,
+    "is_phase2a_reused": true,
+    "n_lists": 5,
+    "ambigqa_origins": [
+      {
+        "pair_id": "5034120986821741302",
+        "disambig_idx": 0,
+        "A_question": "What language do they speak in beijing china?",
+        "D_question": "What language is spoken in Beijing China?",
+        "D_answer": "Mandarin"
+      },
+      {
+        "pair_id": "5034120986821741302",
+        "disambig_idx": 2,
+        "A_question": "What language do they speak in beijing china?",
+        "D_question": "What is an alternative name for the type of Mandarin that is spoken in the urban area of Beijing, China?",
+        "D_answer": "Pekinese"
+      },
+      {
+        "pair_id": "-4364138868015479936",
+        "disambig_idx": 0,
+        "A_question": "What is the language in the dominican republic?",
+        "D_question": "What is the official language in the dominican republic?",
+        "D_answer": "Spanish"
+      },
+      {
+        "pair_id": "-4364138868015479936",
+        "disambig_idx": 2,
+        "A_question": "What is the language in the dominican republic?",
+        "D_question": "What is the largest minority language in the dominican republic?",
+        "D_answer": "Haitian Creole"
+      },
+      {
+        "pair_id": "-2861479968926131209",
+        "disambig_idx": 0,
+        "A_question": "What is the origin of the name david?",
+        "D_question": "Which religion is the origin of the name david?",
+        "D_answer": "Hebrew"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 255.0,
+        "kind": "A",
+        "pair_id": "5034120986821741302",
+        "disambig_idx": null,
+        "text": "What language do they speak in beijing china?",
+        "answer": null
+      },
+      {
+        "activation": 253.0,
+        "kind": "D",
+        "pair_id": "5034120986821741302",
+        "disambig_idx": 0,
+        "text": "What language is spoken in Beijing China?",
+        "answer": "Mandarin"
+      },
+      {
+        "activation": 229.0,
+        "kind": "A",
+        "pair_id": "-4364138868015479936",
+        "disambig_idx": null,
+        "text": "What is the language in the dominican republic?",
+        "answer": null
+      },
+      {
+        "activation": 219.0,
+        "kind": "D",
+        "pair_id": "-4364138868015479936",
+        "disambig_idx": 0,
+        "text": "What is the official language in the dominican republic?",
+        "answer": "Spanish"
+      },
+      {
+        "activation": 146.0,
+        "kind": "D",
+        "pair_id": "-4364138868015479936",
+        "disambig_idx": 2,
+        "text": "What is the largest minority language in the dominican republic?",
+        "answer": "Haitian Creole"
+      }
+    ]
+  },
+  "6873": {
+    "is_random": false,
+    "is_phase2a_reused": false,
+    "n_lists": 1,
+    "ambigqa_origins": [
+      {
+        "pair_id": "-5776357118251167746",
+        "disambig_idx": 0,
+        "A_question": "When does shepard die in grey's anatomy?",
+        "D_question": "What season does  shepard die in grey's anatomy?",
+        "D_answer": "11"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 48.0,
+        "kind": "D",
+        "pair_id": "-3385826425618729333",
+        "disambig_idx": 0,
+        "text": "When did the singer Layne Staley of alice in chains die?",
+        "answer": "April 5, 2002"
+      },
+      {
+        "activation": 41.0,
+        "kind": "D",
+        "pair_id": "-5776357118251167746",
+        "disambig_idx": 0,
+        "text": "What season does  shepard die in grey's anatomy?",
+        "answer": "11"
+      },
+      {
+        "activation": 39.25,
+        "kind": "A",
+        "pair_id": "-3385826425618729333",
+        "disambig_idx": null,
+        "text": "When did the singer of alice in chains die?",
+        "answer": null
+      },
+      {
+        "activation": 38.5,
+        "kind": "D",
+        "pair_id": "-3385826425618729333",
+        "disambig_idx": 1,
+        "text": "When did the singer Mike Starr of alice in chains die?",
+        "answer": "March 8, 2011"
+      }
+    ]
+  },
+  "7187": {
+    "is_random": false,
+    "is_phase2a_reused": false,
+    "n_lists": 2,
+    "ambigqa_origins": [
+      {
+        "pair_id": "637466759495656530",
+        "disambig_idx": 0,
+        "A_question": "What is the brightest star seen from earth?",
+        "D_question": "What is the brightest star in the night sky seen from Earth?",
+        "D_answer": "Sirius"
+      },
+      {
+        "pair_id": "637466759495656530",
+        "disambig_idx": 1,
+        "A_question": "What is the brightest star seen from earth?",
+        "D_question": "What is the brightest star, seen anytime from Earth?",
+        "D_answer": "The Sun"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 110.0,
+        "kind": "D",
+        "pair_id": "637466759495656530",
+        "disambig_idx": 0,
+        "text": "What is the brightest star in the night sky seen from Earth?",
+        "answer": "Sirius"
+      },
+      {
+        "activation": 100.5,
+        "kind": "D",
+        "pair_id": "637466759495656530",
+        "disambig_idx": 1,
+        "text": "What is the brightest star, seen anytime from Earth?",
+        "answer": "The Sun"
+      },
+      {
+        "activation": 98.0,
+        "kind": "A",
+        "pair_id": "637466759495656530",
+        "disambig_idx": null,
+        "text": "What is the brightest star seen from earth?",
+        "answer": null
+      }
+    ]
+  },
+  "8023": {
+    "is_random": false,
+    "is_phase2a_reused": false,
+    "n_lists": 4,
+    "ambigqa_origins": [
+      {
+        "pair_id": "3312508149367167238",
+        "disambig_idx": 1,
+        "A_question": "Where is the talking donkey in the bible?",
+        "D_question": "In which book is the talking donkey in the bible?",
+        "D_answer": "Book of Numbers"
+      },
+      {
+        "pair_id": "8019069992407646379",
+        "disambig_idx": 0,
+        "A_question": "Who inspired the title of a raisin in the sun?",
+        "D_question": "Who is the writer whose work inspired the title of a raisin in the sun?",
+        "D_answer": "Langston Hughes"
+      },
+      {
+        "pair_id": "-29131571727052473",
+        "disambig_idx": 0,
+        "A_question": "Who wrote the girl who played with fire?",
+        "D_question": "Who wrote the book, The Girl who played with fire?",
+        "D_answer": "Stieg Larsson"
+      },
+      {
+        "pair_id": "8591400232581955800",
+        "disambig_idx": 0,
+        "A_question": "Who wrote the grapes of wrath about migrant workers?",
+        "D_question": "Who wrote the book, The Grapes of Wrath?",
+        "D_answer": "John Steinbeck"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 201.0,
+        "kind": "D",
+        "pair_id": "8591400232581955800",
+        "disambig_idx": 0,
+        "text": "Who wrote the book, The Grapes of Wrath?",
+        "answer": "John Steinbeck"
+      },
+      {
+        "activation": 191.0,
+        "kind": "A",
+        "pair_id": "8591400232581955800",
+        "disambig_idx": null,
+        "text": "Who wrote the grapes of wrath about migrant workers?",
+        "answer": null
+      },
+      {
+        "activation": 176.0,
+        "kind": "A",
+        "pair_id": "-29131571727052473",
+        "disambig_idx": null,
+        "text": "Who wrote the girl who played with fire?",
+        "answer": null
+      },
+      {
+        "activation": 169.0,
+        "kind": "D",
+        "pair_id": "-29131571727052473",
+        "disambig_idx": 0,
+        "text": "Who wrote the book, The Girl who played with fire?",
+        "answer": "Stieg Larsson"
+      },
+      {
+        "activation": 101.0,
+        "kind": "D",
+        "pair_id": "8019069992407646379",
+        "disambig_idx": 0,
+        "text": "Who is the writer whose work inspired the title of a raisin in the sun?",
+        "answer": "Langston Hughes"
+      }
+    ]
+  },
+  "8358": {
+    "is_random": true,
+    "is_phase2a_reused": false,
+    "n_lists": 0,
+    "ambigqa_origins": [],
+    "ambigqa_top5_activations": []
+  },
+  "9825": {
+    "is_random": false,
+    "is_phase2a_reused": true,
+    "n_lists": 2,
+    "ambigqa_origins": [
+      {
+        "pair_id": "8307493951745307544",
+        "disambig_idx": 0,
+        "A_question": "Who led the first voyage to circumnavigate the globe?",
+        "D_question": "Who led the first voyage to circumnavigate the globe at the beginning of the voyage?",
+        "D_answer": "Ferdinand Magellan"
+      },
+      {
+        "pair_id": "7687628139095653063",
+        "disambig_idx": 0,
+        "A_question": "Who hit the longest recorded homerun in mlb history?",
+        "D_question": "Who is the player that hit the longest recorded homerun in mlb history?",
+        "D_answer": "Babe Ruth"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 67.0,
+        "kind": "A",
+        "pair_id": "8307493951745307544",
+        "disambig_idx": null,
+        "text": "Who led the first voyage to circumnavigate the globe?",
+        "answer": null
+      },
+      {
+        "activation": 55.0,
+        "kind": "D",
+        "pair_id": "8307493951745307544",
+        "disambig_idx": 1,
+        "text": "Who led the first voyage to circumnavigate the globe at the end of the voyage?",
+        "answer": "Juan Sebasti\u00e1n Elcano"
+      },
+      {
+        "activation": 53.5,
+        "kind": "D",
+        "pair_id": "8307493951745307544",
+        "disambig_idx": 0,
+        "text": "Who led the first voyage to circumnavigate the globe at the beginning of the voyage?",
+        "answer": "Ferdinand Magellan"
+      },
+      {
+        "activation": 46.5,
+        "kind": "A",
+        "pair_id": "7687628139095653063",
+        "disambig_idx": null,
+        "text": "Who hit the longest recorded homerun in mlb history?",
+        "answer": null
+      },
+      {
+        "activation": 44.75,
+        "kind": "D",
+        "pair_id": "7687628139095653063",
+        "disambig_idx": 0,
+        "text": "Who is the player that hit the longest recorded homerun in mlb history?",
+        "answer": "Babe Ruth"
+      }
+    ]
+  },
+  "10089": {
+    "is_random": false,
+    "is_phase2a_reused": true,
+    "n_lists": 2,
+    "ambigqa_origins": [
+      {
+        "pair_id": "2422605926552012591",
+        "disambig_idx": 0,
+        "A_question": "Who cut down the trees in the lorax?",
+        "D_question": "What character cut down the trees in The Lorax?",
+        "D_answer": "The Once-ler"
+      },
+      {
+        "pair_id": "-2812739618266133094",
+        "disambig_idx": 0,
+        "A_question": "Where does american airlines fly in the uk?",
+        "D_question": "What cities does american airlines fly in the uk in England?",
+        "D_answer": "London"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 54.0,
+        "kind": "A",
+        "pair_id": "2422605926552012591",
+        "disambig_idx": null,
+        "text": "Who cut down the trees in the lorax?",
+        "answer": null
+      },
+      {
+        "activation": 50.75,
+        "kind": "D",
+        "pair_id": "2422605926552012591",
+        "disambig_idx": 0,
+        "text": "What character cut down the trees in The Lorax?",
+        "answer": "The Once-ler"
+      },
+      {
+        "activation": 39.25,
+        "kind": "D",
+        "pair_id": "-2812739618266133094",
+        "disambig_idx": 0,
+        "text": "What cities does american airlines fly in the uk in England?",
+        "answer": "London"
+      }
+    ]
+  },
+  "12009": {
+    "is_random": false,
+    "is_phase2a_reused": false,
+    "n_lists": 2,
+    "ambigqa_origins": [
+      {
+        "pair_id": "-110212191849231958",
+        "disambig_idx": 1,
+        "A_question": "What is the disorder in the movie brain on fire?",
+        "D_question": "What is the disorder that one of the doctors tells Savannah's parents that she might have in the movie Brain on Fire?",
+        "D_answer": "Schizophrenia"
+      },
+      {
+        "pair_id": "-110212191849231958",
+        "disambig_idx": 2,
+        "A_question": "What is the disorder in the movie brain on fire?",
+        "D_question": "What is the disorder that Savannah is diagnosed with in the movie Brain on Fire?",
+        "D_answer": "anti-NMDA receptor encephalitis"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 111.5,
+        "kind": "A",
+        "pair_id": "-110212191849231958",
+        "disambig_idx": null,
+        "text": "What is the disorder in the movie brain on fire?",
+        "answer": null
+      },
+      {
+        "activation": 82.5,
+        "kind": "D",
+        "pair_id": "-110212191849231958",
+        "disambig_idx": 2,
+        "text": "What is the disorder that Savannah is diagnosed with in the movie Brain on Fire?",
+        "answer": "anti-NMDA receptor encephalitis"
+      },
+      {
+        "activation": 80.0,
+        "kind": "D",
+        "pair_id": "-110212191849231958",
+        "disambig_idx": 1,
+        "text": "What is the disorder that one of the doctors tells Savannah's parents that she might have in the movie Brain on Fire?",
+        "answer": "Schizophrenia"
+      },
+      {
+        "activation": 48.25,
+        "kind": "D",
+        "pair_id": "-110212191849231958",
+        "disambig_idx": 0,
+        "text": "What disorder does Savannah think she has in the movie Brain on Fire?",
+        "answer": "Bipolar Disorder"
+      }
+    ]
+  },
+  "14003": {
+    "is_random": false,
+    "is_phase2a_reused": false,
+    "n_lists": 1,
+    "ambigqa_origins": [
+      {
+        "pair_id": "-92286117030363763",
+        "disambig_idx": 0,
+        "A_question": "When was the last time usa declared war?",
+        "D_question": "What war was the last time the USA declared war?",
+        "D_answer": "World War II"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 43.0,
+        "kind": "D",
+        "pair_id": "-92286117030363763",
+        "disambig_idx": 0,
+        "text": "What war was the last time the USA declared war?",
+        "answer": "World War II"
+      }
+    ]
+  },
+  "15382": {
+    "is_random": false,
+    "is_phase2a_reused": false,
+    "n_lists": 1,
+    "ambigqa_origins": [
+      {
+        "pair_id": "-426004910266087839",
+        "disambig_idx": 0,
+        "A_question": "What do the five stars on the australian flag stand for?",
+        "D_question": "What do the five white stars on the australian flag further from the staff stand for?",
+        "D_answer": "the Southern Cross"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 64.5,
+        "kind": "A",
+        "pair_id": "-426004910266087839",
+        "disambig_idx": null,
+        "text": "What do the five stars on the australian flag stand for?",
+        "answer": null
+      },
+      {
+        "activation": 48.25,
+        "kind": "D",
+        "pair_id": "-426004910266087839",
+        "disambig_idx": 0,
+        "text": "What do the five white stars on the australian flag further from the staff stand for?",
+        "answer": "the Southern Cross"
+      },
+      {
+        "activation": 40.25,
+        "kind": "A",
+        "pair_id": "-1674913842473024073",
+        "disambig_idx": null,
+        "text": "Which state has the most coastline in the us?",
+        "answer": null
+      }
+    ]
+  },
+  "15577": {
+    "is_random": false,
+    "is_phase2a_reused": true,
+    "n_lists": 1,
+    "ambigqa_origins": [
+      {
+        "pair_id": "-6239787073245796544",
+        "disambig_idx": 0,
+        "A_question": "When was the sound barrier broken for the first time?",
+        "D_question": "When was the sound barrier thought to be broken for the first time, but likely due to inaccurate ASI Readings?",
+        "D_answer": "1942"
+      }
+    ],
+    "ambigqa_top5_activations": [
+      {
+        "activation": 44.75,
+        "kind": "D",
+        "pair_id": "-6239787073245796544",
+        "disambig_idx": 0,
+        "text": "When was the sound barrier thought to be broken for the first time, but likely due to inaccurate ASI Readings?",
+        "answer": "1942"
+      }
+    ]
+  },
+  "16234": {
+    "is_random": true,
+    "is_phase2a_reused": false,
+    "n_lists": 0,
+    "ambigqa_origins": [],
+    "ambigqa_top5_activations": []
+  }
+}

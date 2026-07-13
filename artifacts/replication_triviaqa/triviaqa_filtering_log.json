@@ -1,0 +1,7 @@
+{
+  "n_after_presample": 5000,
+  "candidate_presample_cap": 5000,
+  "n_after_slot_detection": 2927,
+  "n_self_pairs_final": 1103,
+  "n_slot_failures": 2073
+}

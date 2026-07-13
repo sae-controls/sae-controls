@@ -1,0 +1,96 @@
+{
+  "n_k10_self_pairs": 8,
+  "base_zero_count": 7,
+  "base_one_count": 1,
+  "all_sibling_eq_wt": true,
+  "details": [
+    {
+      "pair_id": "-1188736625323195179",
+      "target_idx": 2,
+      "K": 4,
+      "n_full_overlap_siblings": 1,
+      "base_hit1": 0,
+      "targeted_hit1": 0,
+      "sibling_per_pair_mean_hit1": 0.0,
+      "wt_shuffled_per_pair_mean_hit1": 0.0,
+      "sibling_eq_wt": true
+    },
+    {
+      "pair_id": "-1188736625323195179",
+      "target_idx": 3,
+      "K": 4,
+      "n_full_overlap_siblings": 1,
+      "base_hit1": 0,
+      "targeted_hit1": 0,
+      "sibling_per_pair_mean_hit1": 0.0,
+      "wt_shuffled_per_pair_mean_hit1": 0.0,
+      "sibling_eq_wt": true
+    },
+    {
+      "pair_id": "-5983383719067050269",
+      "target_idx": 1,
+      "K": 4,
+      "n_full_overlap_siblings": 1,
+      "base_hit1": 0,
+      "targeted_hit1": 0,
+      "sibling_per_pair_mean_hit1": 0.0,
+      "wt_shuffled_per_pair_mean_hit1": 0.0,
+      "sibling_eq_wt": true
+    },
+    {
+      "pair_id": "-5983383719067050269",
+      "target_idx": 2,
+      "K": 4,
+      "n_full_overlap_siblings": 1,
+      "base_hit1": 0,
+      "targeted_hit1": 0,
+      "sibling_per_pair_mean_hit1": 0.0,
+      "wt_shuffled_per_pair_mean_hit1": 0.0,
+      "sibling_eq_wt": true
+    },
+    {
+      "pair_id": "8231050881946082043",
+      "target_idx": 1,
+      "K": 3,
+      "n_full_overlap_siblings": 1,
+      "base_hit1": 0,
+      "targeted_hit1": 0,
+      "sibling_per_pair_mean_hit1": 0.0,
+      "wt_shuffled_per_pair_mean_hit1": 0.0,
+      "sibling_eq_wt": true
+    },
+    {
+      "pair_id": "8231050881946082043",
+      "target_idx": 2,
+      "K": 3,
+      "n_full_overlap_siblings": 1,
+      "base_hit1": 0,
+      "targeted_hit1": 0,
+      "sibling_per_pair_mean_hit1": 0.0,
+      "wt_shuffled_per_pair_mean_hit1": 0.0,
+      "sibling_eq_wt": true
+    },
+    {
+      "pair_id": "8826737883107834851",
+      "target_idx": 0,
+      "K": 3,
+      "n_full_overlap_siblings": 1,
+      "base_hit1": 1,
+      "targeted_hit1": 1,
+      "sibling_per_pair_mean_hit1": 1.0,
+      "wt_shuffled_per_pair_mean_hit1": 1.0,
+      "sibling_eq_wt": true
+    },
+    {
+      "pair_id": "8826737883107834851",
+      "target_idx": 1,
+      "K": 3,
+      "n_full_overlap_siblings": 1,
+      "base_hit1": 0,
+      "targeted_hit1": 0,
+      "sibling_per_pair_mean_hit1": 0.0,
+      "wt_shuffled_per_pair_mean_hit1": 0.0,
+      "sibling_eq_wt": true
+    }
+  ]
+}

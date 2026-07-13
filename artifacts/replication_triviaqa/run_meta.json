@@ -1,0 +1,21 @@
+{
+  "substrate": "TriviaQA-Web aliases",
+  "model": "google/gemma-2-9b-it",
+  "layer": 41,
+  "sae_meta": {
+    "repo": "google/gemma-scope-9b-pt-res",
+    "subpath": "layer_41/width_16k/average_l0_10/params.npz",
+    "local_path": "<HF_CACHE>/hub/models--google--gemma-scope-9b-pt-res/snapshots/f9b689815814972562d28082f9f7d65d7e01fdc8/layer_41/width_16k/average_l0_10/params.npz",
+    "sha256": "65f7ea2b47901603fc09d5c5e8c8824b56fcfd630265b8832fca8da82a203013",
+    "d_model": 3584,
+    "d_sae": 16384
+  },
+  "filtering_log": {
+    "n_after_presample": 5000,
+    "candidate_presample_cap": 5000,
+    "n_after_slot_detection": 2927,
+    "n_self_pairs_final": 1103,
+    "n_slot_failures": 2073
+  },
+  "elapsed_seconds": 1264.05
+}

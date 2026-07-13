@@ -1,0 +1,26 @@
+{
+  "baseline": {
+    "target_censored": 755,
+    "any_sib_censored": 614,
+    "rank_censored": 934,
+    "n": 1103
+  },
+  "targeted": {
+    "target_censored": 832,
+    "any_sib_censored": 643,
+    "rank_censored": 939,
+    "n": 1103
+  },
+  "shared_only": {
+    "target_censored": 745,
+    "any_sib_censored": 625,
+    "rank_censored": 880,
+    "n": 1028
+  },
+  "unique_only": {
+    "target_censored": 766,
+    "any_sib_censored": 579,
+    "rank_censored": 907,
+    "n": 1069
+  }
+}

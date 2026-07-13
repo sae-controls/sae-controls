@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+*.swp
+
+# Local raw inputs for build_dataset.py (not redistributed; see data/raw/README.md)
+data/raw/*.jsonl
+
+# Ship the reconstructed lever-1 list (see data/raw/README.md)
+!data/raw/kau_extended.reconstructed.jsonl

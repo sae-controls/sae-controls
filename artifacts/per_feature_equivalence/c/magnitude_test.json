@@ -1,0 +1,10 @@
+{
+  "n_paired": 946,
+  "mean_uc_z": 63.777710137085144,
+  "mean_sc_z": 110.74970342964528,
+  "median_uc_z": 61.28125,
+  "median_sc_z": 106.33333333333333,
+  "mean_uc_minus_sc": -46.97199329256015,
+  "wilcoxon_two_sided_p": 3.6467975504344774e-137,
+  "wilcoxon_uc_greater_p": 1.0
+}

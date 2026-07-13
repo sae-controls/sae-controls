@@ -1,0 +1,24 @@
+{
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "layer": 31,
+  "sae_meta": {
+    "repo": "fnlp/Llama3_1-8B-Base-LXR-8x",
+    "subpath": "Llama3_1-8B-Base-L31R-8x/checkpoints/final.safetensors",
+    "local_path": "<HF_CACHE>/hub/models--fnlp--Llama3_1-8B-Base-LXR-8x/snapshots/8dbc1d85edfced43081c03c38b05514dbab1368b/Llama3_1-8B-Base-L31R-8x/checkpoints/final.safetensors",
+    "sha256": "a26dc30d15305d26d582b6e0abfdd20a4553a3b1fa9b507ae34456da56786504",
+    "d_model": 4096,
+    "d_sae": 32768,
+    "layer": 31,
+    "act_fn": "jumprelu",
+    "expansion_factor": 8,
+    "jumprelu_threshold": 2.09375,
+    "dataset_norm_metadata": 74.5,
+    "norm_applied_at_inference": false,
+    "trained_on": "Llama-3.1-8B-Base (cross-fine-tune use on -Instruct)"
+  },
+  "n_after_collision": 876,
+  "n_detected_pairs": 343,
+  "n_self_pairs_total": 842,
+  "n_slot_failures": 533,
+  "elapsed_seconds": 737.69
+}

@@ -1,0 +1,2086 @@
+{
+  "dropped_ij_count": 860,
+  "dropped_pi_count": 432,
+  "dropped_ij_examples": [
+    {
+      "pair_id": "-4469503464110108318",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 13,
+      "n_after_filter": 9
+    },
+    {
+      "pair_id": "6629199459601104475",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 13,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "6629199459601104475",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 16,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "-2558199766533138150",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 10,
+      "n_after_filter": 3
+    },
+    {
+      "pair_id": "-2558199766533138150",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 11,
+      "n_after_filter": 3
+    },
+    {
+      "pair_id": "1332897475571730747",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 14,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "1332897475571730747",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 13,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "-228017844504433803",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 13,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "-228017844504433803",
+      "target_idx": 0,
+      "sibling_idx": 2,
+      "n_dj_positives": 11,
+      "n_after_filter": 5
+    },
+    {
+      "pair_id": "-228017844504433803",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 11,
+      "n_after_filter": 5
+    },
+    {
+      "pair_id": "-228017844504433803",
+      "target_idx": 1,
+      "sibling_idx": 2,
+      "n_dj_positives": 11,
+      "n_after_filter": 2
+    },
+    {
+      "pair_id": "-228017844504433803",
+      "target_idx": 2,
+      "sibling_idx": 0,
+      "n_dj_positives": 11,
+      "n_after_filter": 5
+    },
+    {
+      "pair_id": "-228017844504433803",
+      "target_idx": 2,
+      "sibling_idx": 1,
+      "n_dj_positives": 13,
+      "n_after_filter": 4
+    },
+    {
+      "pair_id": "-2071940157427414850",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 14,
+      "n_after_filter": 9
+    },
+    {
+      "pair_id": "-2071940157427414850",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 15,
+      "n_after_filter": 9
+    },
+    {
+      "pair_id": "-8834069158837396685",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 14,
+      "n_after_filter": 5
+    },
+    {
+      "pair_id": "-8834069158837396685",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 14,
+      "n_after_filter": 5
+    },
+    {
+      "pair_id": "-8850169184954446631",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 17,
+      "n_after_filter": 7
+    },
+    {
+      "pair_id": "-8850169184954446631",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 11,
+      "n_after_filter": 4
+    },
+    {
+      "pair_id": "2437211415582489495",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 14,
+      "n_after_filter": 7
+    },
+    {
+      "pair_id": "2437211415582489495",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 13,
+      "n_after_filter": 7
+    },
+    {
+      "pair_id": "3695029494455379112",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 15,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "3695029494455379112",
+      "target_idx": 0,
+      "sibling_idx": 2,
+      "n_dj_positives": 14,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "3695029494455379112",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 15,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "3695029494455379112",
+      "target_idx": 1,
+      "sibling_idx": 2,
+      "n_dj_positives": 14,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "3695029494455379112",
+      "target_idx": 2,
+      "sibling_idx": 0,
+      "n_dj_positives": 15,
+      "n_after_filter": 7
+    },
+    {
+      "pair_id": "3695029494455379112",
+      "target_idx": 2,
+      "sibling_idx": 1,
+      "n_dj_positives": 15,
+      "n_after_filter": 7
+    },
+    {
+      "pair_id": "203297497300361195",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 14,
+      "n_after_filter": 8
+    },
+    {
+      "pair_id": "203297497300361195",
+      "target_idx": 0,
+      "sibling_idx": 2,
+      "n_dj_positives": 11,
+      "n_after_filter": 4
+    },
+    {
+      "pair_id": "203297497300361195",
+      "target_idx": 1,
+      "sibling_idx": 2,
+      "n_dj_positives": 11,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "203297497300361195",
+      "target_idx": 2,
+      "sibling_idx": 0,
+      "n_dj_positives": 17,
+      "n_after_filter": 9
+    },
+    {
+      "pair_id": "203297497300361195",
+      "target_idx": 2,
+      "sibling_idx": 1,
+      "n_dj_positives": 14,
+      "n_after_filter": 7
+    },
+    {
+      "pair_id": "-8404586620134690138",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 13,
+      "n_after_filter": 4
+    },
+    {
+      "pair_id": "-8404586620134690138",
+      "target_idx": 0,
+      "sibling_idx": 2,
+      "n_dj_positives": 14,
+      "n_after_filter": 5
+    },
+    {
+      "pair_id": "-8404586620134690138",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 13,
+      "n_after_filter": 4
+    },
+    {
+      "pair_id": "-8404586620134690138",
+      "target_idx": 1,
+      "sibling_idx": 2,
+      "n_dj_positives": 14,
+      "n_after_filter": 4
+    },
+    {
+      "pair_id": "-8404586620134690138",
+      "target_idx": 2,
+      "sibling_idx": 0,
+      "n_dj_positives": 13,
+      "n_after_filter": 5
+    },
+    {
+      "pair_id": "-8404586620134690138",
+      "target_idx": 2,
+      "sibling_idx": 1,
+      "n_dj_positives": 13,
+      "n_after_filter": 4
+    },
+    {
+      "pair_id": "115077217083176926",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 15,
+      "n_after_filter": 9
+    },
+    {
+      "pair_id": "5209515645518416566",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 11,
+      "n_after_filter": 4
+    },
+    {
+      "pair_id": "5209515645518416566",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 13,
+      "n_after_filter": 4
+    },
+    {
+      "pair_id": "-7767434984453717074",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 11,
+      "n_after_filter": 9
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 0,
+      "sibling_idx": 1,
+      "n_dj_positives": 13,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 0,
+      "sibling_idx": 2,
+      "n_dj_positives": 8,
+      "n_after_filter": 5
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 0,
+      "sibling_idx": 3,
+      "n_dj_positives": 10,
+      "n_after_filter": 7
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 1,
+      "sibling_idx": 0,
+      "n_dj_positives": 14,
+      "n_after_filter": 7
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 1,
+      "sibling_idx": 2,
+      "n_dj_positives": 8,
+      "n_after_filter": 5
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 1,
+      "sibling_idx": 3,
+      "n_dj_positives": 10,
+      "n_after_filter": 6
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 2,
+      "sibling_idx": 0,
+      "n_dj_positives": 14,
+      "n_after_filter": 9
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 2,
+      "sibling_idx": 1,
+      "n_dj_positives": 13,
+      "n_after_filter": 8
+    }
+  ],
+  "dropped_pi_pairs": [
+    {
+      "pair_id": "-4469503464110108318",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "6629199459601104475",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "6629199459601104475",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-2558199766533138150",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-2558199766533138150",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "1332897475571730747",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1332897475571730747",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-228017844504433803",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-228017844504433803",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-228017844504433803",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-2071940157427414850",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-2071940157427414850",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8834069158837396685",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8834069158837396685",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8850169184954446631",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8850169184954446631",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "2437211415582489495",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "2437211415582489495",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "3695029494455379112",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "3695029494455379112",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "3695029494455379112",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "203297497300361195",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "203297497300361195",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-8404586620134690138",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8404586620134690138",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8404586620134690138",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "115077217083176926",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "5209515645518416566",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "5209515645518416566",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-7767434984453717074",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "4670287927517272250",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "4394564786039551261",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4394564786039551261",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4641553220402437726",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4641553220402437726",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-7913382513546697336",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-7913382513546697336",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4419645678340736053",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4419645678340736053",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-7785048784558843022",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-7785048784558843022",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "2700833210227273840",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "2700833210227273840",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "7635846020280787536",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "7635846020280787536",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "7635846020280787536",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "868307689117499388",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "868307689117499388",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "868307689117499388",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-3259873796234534599",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3259873796234534599",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "6784181890405018973",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "6784181890405018973",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "6784181890405018973",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "5857670583123236363",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "5857670583123236363",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4096054819414217149",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-4017059945977385164",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3608642946871209804",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3608642946871209804",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-2812739618266133094",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "4573821560941134363",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4573821560941134363",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4213628684936305278",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4213628684936305278",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4213628684936305278",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-6976467069735792928",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-6976467069735792928",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "8091368228771358334",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5061118771119178001",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-5061118771119178001",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-6071556551920646974",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-6071556551920646974",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-6071556551920646974",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "7881974977278624555",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "7881974977278624555",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "1926852878923265818",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1926852878923265818",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4785482563925203528",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4785482563925203528",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4785482563925203528",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-7788489842099483659",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-7788489842099483659",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "6373189865465953269",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "6373189865465953269",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3838130070903898367",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3838130070903898367",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4525459824400507090",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4525459824400507090",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4525459824400507090",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "4525459824400507090",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "-8111256428109698206",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8111256428109698206",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3734738148451196286",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3734738148451196286",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3734738148451196286",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-429084175072262504",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-429084175072262504",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "5537501178739502647",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "5537501178739502647",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-2053767335388036224",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-2053767335388036224",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-7968527484942728424",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-7968527484942728424",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-7968527484942728424",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-3785663679516475986",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3785663679516475986",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3785663679516475986",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-8662977209224076028",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8662977209224076028",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8662977209224076028",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "8462960156086716818",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "8462960156086716818",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "777466859317643333",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "777466859317643333",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "777466859317643333",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "777466859317643333",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "3995924295280471054",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "3995924295280471054",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1154238807322186506",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-1154238807322186506",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1154238807322186506",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-1154238807322186506",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "6330824780567061790",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "7023125231340132393",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "7023125231340132393",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "7746279457956801420",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1854705900900914247",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-1854705900900914247",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1854705900900914247",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-3762545613032923855",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3762545613032923855",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3762545613032923855",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-3762545613032923855",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "-9181630027674451815",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-9181630027674451815",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "5541003150492151688",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "5541003150492151688",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "3228272089904198767",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "3228272089904198767",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "1663634678203437772",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1663634678203437772",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-4703782245960853258",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-4703782245960853258",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3492518758992084885",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3492518758992084885",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3492518758992084885",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-3492518758992084885",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "8216960630679687356",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "8216960630679687356",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "1354262490981360572",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1354262490981360572",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "1354262490981360572",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "7728312546062633433",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "7728312546062633433",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "3916740640435538629",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "3916740640435538629",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "3916740640435538629",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-1961100700748187013",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-2853063857316496048",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-2853063857316496048",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1126943501696505401",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-1126943501696505401",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4830017218464180368",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4830017218464180368",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5216048784243694961",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-5216048784243694961",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5216048784243694961",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "8588216614291738583",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "8588216614291738583",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "5007227883505318926",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "5007227883505318926",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8811422490046232638",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-7777910189889414373",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "9102989464711848269",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "9102989464711848269",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "9102989464711848269",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-1963096907650092531",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-1963096907650092531",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-393800408291701032",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-393800408291701032",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-4736097766420385449",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-4736097766420385449",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-4364138868015479936",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-4364138868015479936",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-4364138868015479936",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "4041116188558116374",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4041116188558116374",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4041116188558116374",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-8095783560037552991",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8095783560037552991",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-4408792231413778149",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-4408792231413778149",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-4408792231413778149",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-9057855236636061808",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-9057855236636061808",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5070492083828101308",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-5070492083828101308",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-957279769121838526",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-957279769121838526",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-957279769121838526",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-957279769121838526",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "9197612494751665156",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "9197612494751665156",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "9197612494751665156",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-8431636780146209484",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8431636780146209484",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8431636780146209484",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "8142664608069718150",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "8142664608069718150",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3098213414945179817",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3098213414945179817",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3098213414945179817",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-3098213414945179817",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "-1709670072619860200",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-1709670072619860200",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-2852606504794674770",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-2852606504794674770",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-2630336398013162262",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-2630336398013162262",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5141388445997805997",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-6357015709702983334",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-6357015709702983334",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-6357015709702983334",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-3366429069430047634",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3366429069430047634",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3366429069430047634",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-1849311176379030041",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-1849311176379030041",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1849311176379030041",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "2559466785480758118",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "2559466785480758118",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4220805167547558391",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4220805167547558391",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "1755596894603341451",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1755596894603341451",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "2704379965143304673",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "2704379965143304673",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "7592336862236916187",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "7592336862236916187",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5779516655981972767",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-5779516655981972767",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1206353367988894834",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-1206353367988894834",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1618835960549072056",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-1618835960549072056",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "3739207328084591039",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "3739207328084591039",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "-6951352961519428012",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-6951352961519428012",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8758094571677134532",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8758094571677134532",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-7817105739176402814",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-7817105739176402814",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-7817105739176402814",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-7817105739176402814",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "3659135327970800908",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "3659135327970800908",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1883232878797630956",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-1883232878797630956",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "1518043691156167742",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1518043691156167742",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-8073974649572645097",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8073974649572645097",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8073974649572645097",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "4330923083289385708",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4330923083289385708",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4330923083289385708",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "4330923083289385708",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "389267376370423320",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "389267376370423320",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "389267376370423320",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "389267376370423320",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "7308933918215095839",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "7663164334148775370",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-4212884479837818807",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-4212884479837818807",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "8020759438851523056",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "696323983676971285",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "696323983676971285",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "696323983676971285",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "1241986980009592187",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1241986980009592187",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-535460629730563264",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-535460629730563264",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "2884451201051927482",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "2884451201051927482",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "2884451201051927482",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-5983383719067050269",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-5983383719067050269",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5983383719067050269",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-5983383719067050269",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "-7090471237971566094",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-7090471237971566094",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-597023903069087846",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-597023903069087846",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "7409212130427337310",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4482920277039245803",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4482920277039245803",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1790440541261013729",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "7232363528344228164",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "7232363528344228164",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4966962956719468675",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4966962956719468675",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-6515253108883238456",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-6515253108883238456",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-6515253108883238456",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "4494680649482950157",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4494680649482950157",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-6235572561884901745",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-6235572561884901745",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "3503291891800085522",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "3503291891800085522",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "3402342479976380168",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "3402342479976380168",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8812778490478590505",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8812778490478590505",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-88437718346179973",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-88437718346179973",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-88437718346179973",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-4433676849678857659",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-4433676849678857659",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-4433676849678857659",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-8730201156743095683",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8730201156743095683",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8730201156743095683",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-9166766428537239551",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-9166766428537239551",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-9166766428537239551",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "1044801719351372838",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1044801719351372838",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5064042375502357342",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8031333510244771356",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-8031333510244771356",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8031333510244771356",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-6726269601434213805",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-6726269601434213805",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5687260239070204687",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-5687260239070204687",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5687260239070204687",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-4717538779493522205",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-4717538779493522205",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "2547299592085156135",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "2547299592085156135",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "1762865778632012403",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1762865778632012403",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3228483207040151533",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3228483207040151533",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3174453473256452321",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3174453473256452321",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "485136161994804620",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-1175934921698901476",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4263465133313804929",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4263465133313804929",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4263465133313804929",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-4895283309082201871",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-4895283309082201871",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4972333917294422959",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4972333917294422959",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "8231050881946082043",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "8231050881946082043",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "8231050881946082043",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "7798261129627673636",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "7798261129627673636",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "2048938326690984839",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "2048938326690984839",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-7156073675364108482",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "6176810312480994057",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "6176810312480994057",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "1007346118881690183",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1007346118881690183",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4007628111532937669",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-2258198823524440602",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-2258198823524440602",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-2258198823524440602",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "4519975394845720080",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4519975394845720080",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4576029033081123722",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4576029033081123722",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4576029033081123722",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "4576029033081123722",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "5941993805605944580",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "5941993805605944580",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "7687628139095653063",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "7687628139095653063",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "1658430556042744402",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1658430556042744402",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-3371237739446534800",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-3371237739446534800",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "1637466654052277256",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1637466654052277256",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "6440453208494042706",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "8826737883107834851",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "8826737883107834851",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "8826737883107834851",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "9181158827444377842",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "9181158827444377842",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1115529914633169760",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-1115529914633169760",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-1115529914633169760",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-1115529914633169760",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "6666485784043686897",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "6666485784043686897",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "3364626568000743662",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "3364626568000743662",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-29131571727052473",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-29131571727052473",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-6448136642049535265",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-6448136642049535265",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4463868541189641729",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "4463868541189641729",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "4463868541189641729",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "4463868541189641729",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "-3161293090351749948",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5899326550400808300",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-5899326550400808300",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-5899326550400808300",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "8434241301442786522",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "8434241301442786522",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-7746412316094080282",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "-7746412316094080282",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-7746412316094080282",
+      "target_idx": 2
+    },
+    {
+      "pair_id": "-7746412316094080282",
+      "target_idx": 3
+    },
+    {
+      "pair_id": "1394110700386616818",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "1394110700386616818",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "2544732396833362397",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "5865749619390322143",
+      "target_idx": 0
+    },
+    {
+      "pair_id": "5865749619390322143",
+      "target_idx": 1
+    },
+    {
+      "pair_id": "-8867264869660631865",
+      "target_idx": 1
+    }
+  ]
+}

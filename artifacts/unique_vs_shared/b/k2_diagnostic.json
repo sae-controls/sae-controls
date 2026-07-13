@@ -1,0 +1,22 @@
+{
+  "n_k2_self_pairs": 111,
+  "mean_overlap_within_k2": {
+    "mean": 1.8273273273273274,
+    "median": 2.0,
+    "min": 1.0,
+    "max": 2.0
+  },
+  "disambig_count_K_distribution_in_k2": {
+    "2": 64,
+    "3": 42,
+    "4": 5
+  },
+  "shared_feature_position_mode_enrichment": {
+    "n_shared_features_examined": 248,
+    "n_in_pm_pool": 248,
+    "n_position_suspect": 38,
+    "pm_rate_in_shared_features": 0.1532258064516129,
+    "pm_baseline_rate_full_pool": 0.3211281543790203,
+    "enrichment_ratio": 0.4771484666235896
+  }
+}

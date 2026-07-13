@@ -1,0 +1,26 @@
+{
+  "selector": "z_A_matched_sibling_CLEAN (D_j_positives \u2216 Targeted_{D_i}, greedy NN on z_A)",
+  "n_matched_forwards": 960,
+  "n_self_pairs": 671,
+  "n_dropped_ij_cells": 860,
+  "n_dropped_pi_pairs": 432,
+  "T3": {
+    "n": 671,
+    "sibling_mean": 0.27446597118728266,
+    "wt_shuf_mean": 0.2816691505216095,
+    "delta_pp": 0.7203179334326848,
+    "ci_pp": [
+      -0.9687034277198211,
+      2.459016393442623
+    ],
+    "mcnemar": {
+      "a_both_hit": 170,
+      "x_kills_only": 19,
+      "y_kills_only": 17,
+      "d_both_miss": 465,
+      "n_disc": 36,
+      "p": 0.4339697002142202
+    },
+    "wilcoxon_p": 0.1988537271520272
+  }
+}

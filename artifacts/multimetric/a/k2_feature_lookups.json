@@ -1,0 +1,127 @@
+{
+  "n_unique_shared_fids_in_shell": 175,
+  "sampled_fids": [
+    13828,
+    14061,
+    10756,
+    7355,
+    3546,
+    839,
+    178,
+    4399,
+    2555,
+    1190
+  ],
+  "lookups": [
+    {
+      "feature_id": 13828,
+      "n_lists_appearing_in": 5,
+      "neuronpedia": {
+        "available": true,
+        "source_used": "37-gemmascope-res-16k",
+        "description": "words associated with various types of \"cop\" and \"sop\" references, including names, synonyms, or categories related to them"
+      },
+      "wikitext_max_activating_top3": null,
+      "ambigqa_origin": null
+    },
+    {
+      "feature_id": 14061,
+      "n_lists_appearing_in": 10,
+      "neuronpedia": {
+        "available": true,
+        "source_used": "37-gemmascope-res-16k",
+        "description": " references to events and community involvement"
+      },
+      "wikitext_max_activating_top3": null,
+      "ambigqa_origin": null
+    },
+    {
+      "feature_id": 10756,
+      "n_lists_appearing_in": 22,
+      "neuronpedia": {
+        "available": true,
+        "source_used": "37-gemmascope-res-16k",
+        "description": "technical specifications and historical information related to engineering projects and inventions"
+      },
+      "wikitext_max_activating_top3": null,
+      "ambigqa_origin": null
+    },
+    {
+      "feature_id": 7355,
+      "n_lists_appearing_in": 6,
+      "neuronpedia": {
+        "available": true,
+        "source_used": "37-gemmascope-res-16k",
+        "description": " phrases related to popular media awards and recognition"
+      },
+      "wikitext_max_activating_top3": null,
+      "ambigqa_origin": null
+    },
+    {
+      "feature_id": 3546,
+      "n_lists_appearing_in": 133,
+      "neuronpedia": {
+        "available": true,
+        "source_used": "37-gemmascope-res-16k",
+        "description": " references to dates and temporal relationships"
+      },
+      "wikitext_max_activating_top3": null,
+      "ambigqa_origin": null
+    },
+    {
+      "feature_id": 839,
+      "n_lists_appearing_in": 4,
+      "neuronpedia": {
+        "available": true,
+        "source_used": "37-gemmascope-res-16k",
+        "description": "usage of code-related keywords and phrases, particularly in programming and financial contexts"
+      },
+      "wikitext_max_activating_top3": null,
+      "ambigqa_origin": null
+    },
+    {
+      "feature_id": 178,
+      "n_lists_appearing_in": 18,
+      "neuronpedia": {
+        "available": true,
+        "source_used": "37-gemmascope-res-16k",
+        "description": " programming code syntax and structures"
+      },
+      "wikitext_max_activating_top3": null,
+      "ambigqa_origin": null
+    },
+    {
+      "feature_id": 4399,
+      "n_lists_appearing_in": 16,
+      "neuronpedia": {
+        "available": true,
+        "source_used": "37-gemmascope-res-16k",
+        "description": " research findings related to visual cognition and memory processes"
+      },
+      "wikitext_max_activating_top3": null,
+      "ambigqa_origin": null
+    },
+    {
+      "feature_id": 2555,
+      "n_lists_appearing_in": 2,
+      "neuronpedia": {
+        "available": true,
+        "source_used": "37-gemmascope-res-16k",
+        "description": "the prefix \"re\" in words, indicating a focus on words related to repetition, renewal, or reconsideration"
+      },
+      "wikitext_max_activating_top3": null,
+      "ambigqa_origin": null
+    },
+    {
+      "feature_id": 1190,
+      "n_lists_appearing_in": 6,
+      "neuronpedia": {
+        "available": true,
+        "source_used": "37-gemmascope-res-16k",
+        "description": " the word \"or\" in various contexts"
+      },
+      "wikitext_max_activating_top3": null,
+      "ambigqa_origin": null
+    }
+  ]
+}

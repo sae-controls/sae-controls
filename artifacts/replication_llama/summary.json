@@ -1,0 +1,291 @@
+{
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "layer": 31,
+  "sae_meta": {
+    "repo": "fnlp/Llama3_1-8B-Base-LXR-8x",
+    "subpath": "Llama3_1-8B-Base-L31R-8x/checkpoints/final.safetensors",
+    "local_path": "<HF_CACHE>/hub/models--fnlp--Llama3_1-8B-Base-LXR-8x/snapshots/8dbc1d85edfced43081c03c38b05514dbab1368b/Llama3_1-8B-Base-L31R-8x/checkpoints/final.safetensors",
+    "sha256": "a26dc30d15305d26d582b6e0abfdd20a4553a3b1fa9b507ae34456da56786504",
+    "d_model": 4096,
+    "d_sae": 32768,
+    "layer": 31,
+    "act_fn": "jumprelu",
+    "expansion_factor": 8,
+    "jumprelu_threshold": 2.09375,
+    "dataset_norm_metadata": 74.5,
+    "norm_applied_at_inference": false,
+    "trained_on": "Llama-3.1-8B-Base (cross-fine-tune use on -Instruct)"
+  },
+  "chat_template_sample": [
+    {
+      "question": "Who was the first president of the United States?",
+      "prompt_chars": 339,
+      "n_tokens": 57,
+      "last_5_token_ids": [
+        128009,
+        128006,
+        78191,
+        128007,
+        271
+      ],
+      "last_5_decoded": [
+        "<|eot_id|>",
+        "<|start_header_id|>",
+        "assistant",
+        "<|end_header_id|>",
+        "\n\n"
+      ]
+    },
+    {
+      "question": "What is the capital of France?",
+      "prompt_chars": 320,
+      "n_tokens": 54,
+      "last_5_token_ids": [
+        128009,
+        128006,
+        78191,
+        128007,
+        271
+      ],
+      "last_5_decoded": [
+        "<|eot_id|>",
+        "<|start_header_id|>",
+        "assistant",
+        "<|end_header_id|>",
+        "\n\n"
+      ]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "prompt_chars": 316,
+      "n_tokens": 53,
+      "last_5_token_ids": [
+        128009,
+        128006,
+        78191,
+        128007,
+        271
+      ],
+      "last_5_decoded": [
+        "<|eot_id|>",
+        "<|start_header_id|>",
+        "assistant",
+        "<|end_header_id|>",
+        "\n\n"
+      ]
+    },
+    {
+      "question": "What year did World War II end?",
+      "prompt_chars": 321,
+      "n_tokens": 55,
+      "last_5_token_ids": [
+        128009,
+        128006,
+        78191,
+        128007,
+        271
+      ],
+      "last_5_decoded": [
+        "<|eot_id|>",
+        "<|start_header_id|>",
+        "assistant",
+        "<|end_header_id|>",
+        "\n\n"
+      ]
+    },
+    {
+      "question": "Who wrote the play Hamlet?",
+      "prompt_chars": 316,
+      "n_tokens": 54,
+      "last_5_token_ids": [
+        128009,
+        128006,
+        78191,
+        128007,
+        271
+      ],
+      "last_5_decoded": [
+        "<|eot_id|>",
+        "<|start_header_id|>",
+        "assistant",
+        "<|end_header_id|>",
+        "\n\n"
+      ]
+    }
+  ],
+  "filtering": {
+    "n_after_collision": 876,
+    "n_detected_pairs": 343,
+    "n_self_pairs_total": 842,
+    "n_slot_failures": 533
+  },
+  "headline_hit1": {
+    "Baseline": 0.2826603325415677,
+    "Targeted": 0.14014251781472684,
+    "Sibling": 0.22011084718923196,
+    "ShuffledAmbigQA": 0.25771971496437057,
+    "WikiTextShuffled": 0.2604908946951702,
+    "Random": 0.2814726840855107
+  },
+  "tests": {
+    "T1_targeted_vs_random": {
+      "n": 842,
+      "delta_pp": 14.133016627078385,
+      "ci_pp": [
+        -16.864608076009503,
+        -11.401425178147269
+      ],
+      "mcnemar_p": 1.5394312423895933e-24,
+      "wilcoxon_p": 3.2730564883926335e-22
+    },
+    "T2_sibling_vs_ashuf": {
+      "n": 842,
+      "delta_pp": 3.760886777513861,
+      "ci_pp": [
+        2.0585906571654786,
+        5.482977038796516
+      ],
+      "mcnemar_p": 0.0010931215888430857,
+      "wilcoxon_p": 7.252847232798058e-05
+    },
+    "T3_sibling_vs_wtshuf": {
+      "n": 842,
+      "delta_pp": 4.038004750593826,
+      "ci_pp": [
+        2.17735550277118,
+        5.878859857482185
+      ],
+      "mcnemar_p": 0.0015326588348043698,
+      "wilcoxon_p": 1.09804281315431e-05
+    },
+    "T4_ashuf_vs_wtshuf": {
+      "n": 842,
+      "delta_pp": 0.27711797307996555,
+      "ci_pp": [
+        -0.7917656373713376,
+        1.306413301662708
+      ],
+      "mcnemar_p": 0.6549810171127319,
+      "wilcoxon_p": 0.02456920113759651
+    }
+  },
+  "decomposition": {
+    "n": 842,
+    "table": {
+      "Baseline": {
+        "hit1": 0.2826603325415677,
+        "delta_pp": 0.0,
+        "pct_of_targeted": 0.0
+      },
+      "Targeted": {
+        "hit1": 0.14014251781472684,
+        "delta_pp": -14.251781472684085,
+        "pct_of_targeted": 100.0
+      },
+      "Shared-only": {
+        "hit1": 0.23159144893111638,
+        "delta_pp": -5.106888361045131,
+        "pct_of_targeted": 35.83333333333334
+      },
+      "Unique-only": {
+        "hit1": 0.18527315914489312,
+        "delta_pp": -9.738717339667458,
+        "pct_of_targeted": 68.33333333333333
+      },
+      "Sum (Sh+Un)": {
+        "delta_pp": -14.84560570071259,
+        "pct_of_targeted": 104.16666666666667
+      },
+      "Residual": {
+        "delta_pp": 0.5938242280285042,
+        "pct_of_targeted": -4.166666666666671
+      }
+    },
+    "tests": {
+      "shared_vs_baseline": {
+        "n": 842,
+        "delta_pp": 5.106888361045131,
+        "ci_pp": [
+          -7.007125890736342,
+          -3.2066508313539197
+        ],
+        "mcnemar_p": 1.3329585693543043e-07,
+        "wilcoxon_p": 1.670131825137013e-07
+      },
+      "unique_vs_baseline": {
+        "n": 842,
+        "delta_pp": 9.738717339667458,
+        "ci_pp": [
+          -11.995249406175772,
+          -7.4821852731591445
+        ],
+        "mcnemar_p": 3.0990487994638403e-17,
+        "wilcoxon_p": 8.291703558573717e-16
+      },
+      "targeted_vs_unique": {
+        "n": 842,
+        "delta_pp": 4.513064133016628,
+        "ci_pp": [
+          -6.413301662707839,
+          -2.7315914489311166
+        ],
+        "mcnemar_p": 6.071903850093149e-07,
+        "wilcoxon_p": 6.964956701945227e-07
+      }
+    }
+  },
+  "cross_arch_table": [
+    {
+      "model": "google/gemma-2-9b-it",
+      "layer": 41,
+      "n_self_pairs": 1103,
+      "baseline_hit1": 0.2928377153218495,
+      "targeted_delta_pp": -13.236627379873072,
+      "sibling_hit1": 0.2023269870051375,
+      "wt_shuf_hit1": 0.2928377153218495,
+      "T3_delta_pp": 9.0510728316712,
+      "T3_wilcoxon_p": 1.0376029455995148e-16,
+      "shared_only_delta_pp": -7.978241160471441,
+      "unique_only_delta_pp": -4.623753399818675,
+      "shared_pct": 60.27397260273973,
+      "unique_pct": 34.931506849315056
+    },
+    {
+      "model": "google/gemma-2-2b-it",
+      "layer": 25,
+      "n_self_pairs": 655,
+      "baseline_hit1": 0.2595419847328244,
+      "targeted_delta_pp": -18.77862595419847,
+      "sibling_hit1": 0.07226463104325699,
+      "wt_shuf_hit1": 0.23969465648854962,
+      "T3_delta_pp": 16.74300254452926,
+      "T3_wilcoxon_p": 4.890533201158579e-25,
+      "shared_only_delta_pp": -13.435114503816791,
+      "unique_only_delta_pp": -5.190839694656487,
+      "shared_pct": 71.54471544715446,
+      "unique_pct": 27.642276422764223
+    },
+    {
+      "model": "meta-llama/Llama-3.1-8B-Instruct",
+      "layer": 31,
+      "n_self_pairs": 842,
+      "baseline_hit1": 0.2826603325415677,
+      "targeted_delta_pp": -14.251781472684085,
+      "sibling_hit1": 0.22011084718923196,
+      "wt_shuf_hit1": 0.2604908946951702,
+      "T3_delta_pp": 4.038004750593826,
+      "T3_wilcoxon_p": 1.09804281315431e-05,
+      "shared_only_delta_pp": -5.106888361045131,
+      "unique_only_delta_pp": -9.738717339667458,
+      "shared_pct": 35.83333333333334,
+      "unique_pct": 68.33333333333333
+    }
+  ],
+  "six_condition_counts": {
+    "n_self": 842,
+    "n_cross": 1390,
+    "n_random": 2526,
+    "n_ambig_shuf": 2526,
+    "n_wt_shuf": 2526
+  }
+}

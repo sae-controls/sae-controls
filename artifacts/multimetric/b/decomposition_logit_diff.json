@@ -1,0 +1,56 @@
+{
+  "metric": "logit_diff",
+  "sign_convention": "lower_means_more_drop",
+  "n": 1103,
+  "table": {
+    "Baseline": {
+      "value": -1.2306776971894833,
+      "delta": 0.0,
+      "ci_pp_x100": [
+        null,
+        null
+      ],
+      "pct_of_targeted": 0.0
+    },
+    "Targeted": {
+      "value": -1.7460813548277425,
+      "delta": -0.5154036576382592,
+      "ci_pp_x100": [
+        -83.29731502861513,
+        -20.320277970591576
+      ],
+      "pct_of_targeted": 100.0,
+      "wilcoxon_p_vs_baseline": 0.0016393100392538737
+    },
+    "Shared-only": {
+      "value": -1.0487882833748867,
+      "delta": 0.18188941381459656,
+      "ci_pp_x100": [
+        -9.219606594939934,
+        45.06541994843608
+      ],
+      "pct_of_targeted": -35.2906719071554,
+      "wilcoxon_p_vs_baseline": 0.9303718064622281
+    },
+    "Unique-only": {
+      "value": -1.9473267154918403,
+      "delta": -0.7166490183023572,
+      "ci_pp_x100": [
+        -92.15596756714642,
+        -50.8880100613384
+      ],
+      "pct_of_targeted": 139.04616462876245,
+      "wilcoxon_p_vs_baseline": 2.524978477191919e-08
+    },
+    "Sum (Sh+Un)": {
+      "value": null,
+      "delta": -0.5347596044877606,
+      "pct_of_targeted": 103.75549272160704
+    },
+    "Residual": {
+      "value": null,
+      "delta": 0.01935594684950137,
+      "pct_of_targeted": -3.7554927216070553
+    }
+  }
+}

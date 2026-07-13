@@ -1,0 +1,24 @@
+{
+  "selector": "z_A_matched_sibling (10 features per D_j drawn from D_j's positives, greedy nearest on z_A magnitude)",
+  "n_matched_forwards": 1820,
+  "n_self_pairs": 1103,
+  "T3": {
+    "n": 1103,
+    "sibling_mean": 0.2136597159262617,
+    "wt_shuf_mean": 0.2928377153218495,
+    "delta_pp": 7.917799939558778,
+    "ci_pp": [
+      6.05923239649441,
+      9.806588093079482
+    ],
+    "mcnemar": {
+      "a_both_hit": 219,
+      "x_kills_only": 104,
+      "y_kills_only": 22,
+      "d_both_miss": 758,
+      "n_disc": 126,
+      "p": 3.0361338783630134e-14
+    },
+    "wilcoxon_p": 2.427545131086303e-15
+  }
+}

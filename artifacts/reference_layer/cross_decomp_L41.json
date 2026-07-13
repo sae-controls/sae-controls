@@ -1,0 +1,20 @@
+{
+  "layer": 41,
+  "cells_observed": {
+    "unique|content": 4262,
+    "unique|position": 1215,
+    "shared|content": 3802,
+    "shared|position": 1431
+  },
+  "cells_expected": {
+    "unique|content": 4123.858823529412,
+    "unique|position": 1353.1411764705883,
+    "shared|content": 3940.141176470588,
+    "shared|position": 1292.8588235294117
+  },
+  "n": 10710,
+  "chi2_statistic": 38.333712250848656,
+  "chi2_p_value": 5.962366208504415e-10,
+  "cramers_v": 0.059826790331331335,
+  "phi_coefficient_signed": 0.05982679033133132
+}

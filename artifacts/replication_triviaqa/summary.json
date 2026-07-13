@@ -1,0 +1,176 @@
+{
+  "model": "google/gemma-2-9b-it",
+  "layer": 41,
+  "substrate": "TriviaQA-Web aliases",
+  "sae_meta": {
+    "repo": "google/gemma-scope-9b-pt-res",
+    "subpath": "layer_41/width_16k/average_l0_10/params.npz",
+    "local_path": "<HF_CACHE>/hub/models--google--gemma-scope-9b-pt-res/snapshots/f9b689815814972562d28082f9f7d65d7e01fdc8/layer_41/width_16k/average_l0_10/params.npz",
+    "sha256": "65f7ea2b47901603fc09d5c5e8c8824b56fcfd630265b8832fca8da82a203013",
+    "d_model": 3584,
+    "d_sae": 16384
+  },
+  "filtering_log": {
+    "n_after_presample": 5000,
+    "candidate_presample_cap": 5000,
+    "n_after_slot_detection": 2927,
+    "n_self_pairs_final": 1103,
+    "n_slot_failures": 2073
+  },
+  "headline_hit1": {
+    "Baseline": 0.5675430643699003,
+    "Targeted": 0.5231187669990934,
+    "Sibling": 0.49304925959504375,
+    "ShuffledTriviaQA": 0.5663342399516471,
+    "WikiTextShuffled": 0.5648232094288305,
+    "Random": 0.5675430643699003
+  },
+  "tests": {
+    "T1_targeted_vs_random": {
+      "n": 1103,
+      "delta_pp": 4.442429737080689,
+      "ci_pp": [
+        -5.893019038984588,
+        -3.0825022665457844
+      ],
+      "mcnemar_p": 3.4057489451235276e-10,
+      "wilcoxon_p": 1.0733230225676575e-09
+    },
+    "T2_sibling_vs_ashuf": {
+      "n": 1103,
+      "delta_pp": 7.328498035660336,
+      "ci_pp": [
+        5.726805681474766,
+        9.005741915986704
+      ],
+      "mcnemar_p": 3.886880384756633e-14,
+      "wilcoxon_p": 2.7832264507000114e-15
+    },
+    "T3_sibling_vs_wtshuf": {
+      "n": 1103,
+      "delta_pp": 7.1773949833786705,
+      "ci_pp": [
+        5.575702629193111,
+        8.869749168933213
+      ],
+      "mcnemar_p": 1.4949515200086276e-13,
+      "wilcoxon_p": 4.344346438148286e-15
+    },
+    "T4_ashuf_vs_wtshuf": {
+      "n": 1103,
+      "delta_pp": -0.15110305228166476,
+      "ci_pp": [
+        -0.3324267150196434,
+        -0.030220610456331218
+      ],
+      "mcnemar_p": 1.0,
+      "wilcoxon_p": 0.9672001539264641
+    }
+  },
+  "decomposition": {
+    "n": 1103,
+    "table": {
+      "Baseline": {
+        "hit1": 0.5675430643699003,
+        "delta_pp": 0.0,
+        "pct_of_targeted": 0.0
+      },
+      "Targeted": {
+        "hit1": 0.5231187669990934,
+        "delta_pp": -4.442429737080689,
+        "pct_of_targeted": 100.0
+      },
+      "Shared-only": {
+        "hit1": 0.5258386219401632,
+        "delta_pp": -4.170444242973714,
+        "pct_of_targeted": 93.8775510204083
+      },
+      "Unique-only": {
+        "hit1": 0.5666364460562103,
+        "delta_pp": -0.09066183136899886,
+        "pct_of_targeted": 2.0408163265307295
+      },
+      "Sum (Sh+Un)": {
+        "delta_pp": -4.261106074342713,
+        "pct_of_targeted": 95.91836734693904
+      },
+      "Residual": {
+        "delta_pp": -0.1813236627379755,
+        "pct_of_targeted": 4.081632653060959
+      }
+    },
+    "tests": {
+      "shared_vs_baseline": {
+        "n": 1103,
+        "delta_pp": 4.170444242973714,
+        "ci_pp": [
+          -5.621033544877607,
+          -2.8105167724388034
+        ],
+        "mcnemar_p": 1.771111690087538e-09,
+        "wilcoxon_p": 4.462172453901611e-09
+      },
+      "unique_vs_baseline": {
+        "n": 1103,
+        "delta_pp": 0.09066183136899886,
+        "ci_pp": [
+          -0.3626473254759746,
+          0.1813236627379873
+        ],
+        "mcnemar_p": 0.5,
+        "wilcoxon_p": 0.28185143082538655
+      },
+      "targeted_vs_unique": {
+        "n": 1103,
+        "delta_pp": 4.351767905711689,
+        "ci_pp": [
+          -5.802357207615594,
+          -2.9918404351767904
+        ],
+        "mcnemar_p": 5.913924052618029e-10,
+        "wilcoxon_p": 1.7273204387580728e-09
+      }
+    }
+  },
+  "cross_substrate_table": [
+    {
+      "substrate": "AmbigQA",
+      "model": "google/gemma-2-9b-it",
+      "layer": 41,
+      "n_self_pairs": 1103,
+      "baseline_hit1": 0.2928377153218495,
+      "targeted_delta_pp": -13.236627379873072,
+      "sibling_hit1": 0.2023269870051375,
+      "wt_shuf_hit1": 0.2928377153218495,
+      "T3_delta_pp": 9.0510728316712,
+      "T3_wilcoxon_p": 1.0376029455995148e-16,
+      "shared_only_delta_pp": -7.978241160471441,
+      "unique_only_delta_pp": -4.623753399818675,
+      "shared_pct": 60.27397260273973,
+      "unique_pct": 34.931506849315056
+    },
+    {
+      "substrate": "TriviaQA aliases",
+      "model": "google/gemma-2-9b-it",
+      "layer": 41,
+      "n_self_pairs": 1103,
+      "baseline_hit1": 0.5675430643699003,
+      "targeted_delta_pp": -4.442429737080689,
+      "sibling_hit1": 0.49304925959504375,
+      "wt_shuf_hit1": 0.5648232094288305,
+      "T3_delta_pp": 7.1773949833786705,
+      "T3_wilcoxon_p": 4.344346438148286e-15,
+      "shared_only_delta_pp": -4.170444242973714,
+      "unique_only_delta_pp": -0.09066183136899886,
+      "shared_pct": 93.8775510204083,
+      "unique_pct": 2.0408163265307295
+    }
+  ],
+  "six_condition_counts": {
+    "n_self": 1103,
+    "n_cross": 2181,
+    "n_random": 3309,
+    "n_trivia_shuf": 3309,
+    "n_wt_shuf": 3309
+  }
+}

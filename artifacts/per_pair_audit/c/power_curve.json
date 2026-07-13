@@ -1,0 +1,36 @@
+{
+  "power_curve": [
+    {
+      "n_target": 100,
+      "power_at_p<0.001": 0.024
+    },
+    {
+      "n_target": 250,
+      "power_at_p<0.001": 0.199
+    },
+    {
+      "n_target": 500,
+      "power_at_p<0.001": 0.667
+    },
+    {
+      "n_target": 750,
+      "power_at_p<0.001": 0.973
+    },
+    {
+      "n_target": 1000,
+      "power_at_p<0.001": 1.0
+    },
+    {
+      "n_target": 1103,
+      "power_at_p<0.001": 1.0
+    },
+    {
+      "n_target": 1500,
+      "power_at_p<0.001": 0.998
+    },
+    {
+      "n_target": 2000,
+      "power_at_p<0.001": 1.0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "universe_size": 2021,
+  "n_080_partition": 649,
+  "n_adaptive_partition": 1921,
+  "both": 605,
+  "adaptive_only": 1316,
+  "080_only": 44,
+  "neither": 56,
+  "jaccard_index": 0.30788804071246817
+}

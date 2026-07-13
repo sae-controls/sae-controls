@@ -1,0 +1,42 @@
+{
+  "n_eligible": 946,
+  "uc_top_mean_hit1": 0.2758985200845666,
+  "sc_top_mean_hit1": 0.2727272727272727,
+  "baseline_mean_hit1": 0.3012684989429176,
+  "uc_top_drop_pp": -2.536997885835095,
+  "sc_top_drop_pp": -2.854122621564482,
+  "uc_top_drop_minus_sc_top_drop_pp": 0.31712473572938693,
+  "uc_vs_baseline": {
+    "mcnemar": {
+      "a_both_hit": 258,
+      "x_kills_only": 27,
+      "y_kills_only": 3,
+      "d_both_miss": 658,
+      "n_disc": 30,
+      "p": 4.215165972709656e-06
+    },
+    "wilcoxon_p": 5.885669548807485e-06
+  },
+  "sc_vs_baseline": {
+    "mcnemar": {
+      "a_both_hit": 249,
+      "x_kills_only": 36,
+      "y_kills_only": 9,
+      "d_both_miss": 652,
+      "n_disc": 45,
+      "p": 3.28733162291428e-05
+    },
+    "wilcoxon_p": 2.8497058116659185e-05
+  },
+  "uc_vs_sc_two_sided": {
+    "mcnemar": {
+      "a_both_hit": 229,
+      "x_kills_only": 29,
+      "y_kills_only": 32,
+      "d_both_miss": 656,
+      "n_disc": 61,
+      "p": 0.7981526273057179
+    },
+    "wilcoxon_p": 0.7008964458564653
+  }
+}

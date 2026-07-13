@@ -1,0 +1,37 @@
+{
+  "metric": "kl_to_baseline",
+  "n": 1103,
+  "table": {
+    "Baseline": {
+      "value": 0.0,
+      "delta": 0.0,
+      "pct_of_targeted": 0.0
+    },
+    "Targeted": {
+      "value": 3.462180586868528,
+      "delta": 3.462180586868528,
+      "pct_of_targeted": 100.0,
+      "wilcoxon_p_vs_baseline": 3.87309794819375e-182
+    },
+    "Shared-only": {
+      "value": 2.3803555453810104,
+      "delta": 2.3803555453810104,
+      "pct_of_targeted": 68.7530729739893,
+      "wilcoxon_p_vs_baseline": 1.8770735965957657e-175
+    },
+    "Unique-only": {
+      "value": 0.49075367149198534,
+      "delta": 0.49075367149198534,
+      "pct_of_targeted": 14.174698840185632,
+      "wilcoxon_p_vs_baseline": 2.1078428955286823e-147
+    },
+    "Sum": {
+      "delta": 2.8711092168729957,
+      "pct_of_targeted": 82.92777181417495
+    },
+    "Residual": {
+      "delta": 0.5910713699955323,
+      "pct_of_targeted": 17.07222818582506
+    }
+  }
+}

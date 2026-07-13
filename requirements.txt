@@ -1,0 +1,12 @@
+# Pinned versions for reproducibility. The published runs used exactly
+# these; downgrading is fine if your environment differs and you accept
+# small numerical drift in the frozen-artifact hashes.
+torch==2.5.1
+transformers==4.46.3
+huggingface_hub==0.26.5
+accelerate==1.1.1
+datasets==3.0.2
+numpy==1.26.4
+scipy==1.14.1
+tqdm==4.67.1
+matplotlib==3.9.2

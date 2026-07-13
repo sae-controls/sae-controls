@@ -1,0 +1,10499 @@
+[
+  {
+    "paragraph_idx": 0,
+    "sha256_first16": "a4cca4687094f729",
+    "top_feature_ids": [
+      2113,
+      1788,
+      5595,
+      424,
+      12736,
+      16243,
+      654,
+      333,
+      14246
+    ]
+  },
+  {
+    "paragraph_idx": 1,
+    "sha256_first16": "778feb224c65cf94",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      424,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 2,
+    "sha256_first16": "37e64c5547f876d9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      424,
+      4851,
+      3298,
+      2207
+    ]
+  },
+  {
+    "paragraph_idx": 3,
+    "sha256_first16": "f5a58a83c9bb590b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      424,
+      654,
+      2113,
+      9015,
+      2233,
+      12736,
+      333
+    ]
+  },
+  {
+    "paragraph_idx": 4,
+    "sha256_first16": "dfd548d0525d62e7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      424,
+      2233,
+      549,
+      9015
+    ]
+  },
+  {
+    "paragraph_idx": 5,
+    "sha256_first16": "0ae4cbbfc47b2abb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 6,
+    "sha256_first16": "028726187606c332",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      654,
+      12736,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 7,
+    "sha256_first16": "1afebc9db1d63a6a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2233,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 8,
+    "sha256_first16": "b7e25df7994b7df8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      14833,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 9,
+    "sha256_first16": "8a33f27537654a88",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4724,
+      2113,
+      10522,
+      16130,
+      12849,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 10,
+    "sha256_first16": "3cdffe870e364655",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 11,
+    "sha256_first16": "5b88def1076da954",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      16130,
+      549,
+      886,
+      9370
+    ]
+  },
+  {
+    "paragraph_idx": 12,
+    "sha256_first16": "087f465d49622b18",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      8292,
+      12849,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 13,
+    "sha256_first16": "7dd26b23cd9cdfdd",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12849,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 14,
+    "sha256_first16": "53a5c64363479355",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 15,
+    "sha256_first16": "12303e1406e4d670",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      12849,
+      1570,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 16,
+    "sha256_first16": "d636b478712e513a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      11005,
+      9955
+    ]
+  },
+  {
+    "paragraph_idx": 17,
+    "sha256_first16": "238a3f26b342e94c",
+    "top_feature_ids": [
+      1788,
+      9280,
+      5595,
+      12736,
+      1120,
+      9955,
+      8756,
+      8722,
+      6976,
+      2367,
+      5058,
+      10522,
+      173
+    ]
+  },
+  {
+    "paragraph_idx": 18,
+    "sha256_first16": "11374c73f4afbf30",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12849,
+      12736,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 19,
+    "sha256_first16": "6fd06eb787457702",
+    "top_feature_ids": [
+      9280,
+      1788,
+      5595,
+      5058,
+      10950,
+      8722,
+      12766,
+      3864,
+      1120,
+      8756,
+      9955,
+      10522,
+      14052
+    ]
+  },
+  {
+    "paragraph_idx": 20,
+    "sha256_first16": "b057a58ba542579b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      11005,
+      1117,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 21,
+    "sha256_first16": "b06b2484ec63e750",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      12849,
+      2233,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 22,
+    "sha256_first16": "0359ef4c0a0cafb7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 23,
+    "sha256_first16": "30c077d305e81657",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      654,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 24,
+    "sha256_first16": "68b6a1d32b72c41c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      10522,
+      1075,
+      8722,
+      4055,
+      5373,
+      5058
+    ]
+  },
+  {
+    "paragraph_idx": 25,
+    "sha256_first16": "e4cba5f6354d160c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 26,
+    "sha256_first16": "2163107fcd422690",
+    "top_feature_ids": [
+      1788,
+      5595,
+      11005,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 27,
+    "sha256_first16": "1c2407d684eae68c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      5606,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 28,
+    "sha256_first16": "696ebe7a17475651",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      9955,
+      4851,
+      2367,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 29,
+    "sha256_first16": "3c1f49d55903255e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 30,
+    "sha256_first16": "6b37d4390d9233f5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      2906,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 31,
+    "sha256_first16": "db090c0641d97e18",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14833,
+      2367,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 32,
+    "sha256_first16": "bf3422a71fce8379",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 33,
+    "sha256_first16": "3e783f8fcf92b520",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      4851,
+      12736,
+      4491
+    ]
+  },
+  {
+    "paragraph_idx": 34,
+    "sha256_first16": "1172c12110ce4b49",
+    "top_feature_ids": [
+      1788,
+      5595,
+      14833,
+      274,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 35,
+    "sha256_first16": "78e670aef8b81fd6",
+    "top_feature_ids": [
+      1788,
+      5595
+    ]
+  },
+  {
+    "paragraph_idx": 36,
+    "sha256_first16": "b3d4f6dffc4ac292",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 37,
+    "sha256_first16": "51c9a90eaa3ca0dd",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 38,
+    "sha256_first16": "59acaff14522b2bb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2233,
+      549,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 39,
+    "sha256_first16": "0662cddd085c9f89",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      12702,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 40,
+    "sha256_first16": "f6e2876094e7b07a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 41,
+    "sha256_first16": "38eb5fadecd30f8a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      12702,
+      2113,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 42,
+    "sha256_first16": "71f6cc2dfe642f6e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      11964,
+      12736,
+      2367,
+      2207,
+      4571,
+      14833,
+      11389,
+      14052
+    ]
+  },
+  {
+    "paragraph_idx": 43,
+    "sha256_first16": "4a5d06e7ee195e7c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2367,
+      12736,
+      4851,
+      14833,
+      1570,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 44,
+    "sha256_first16": "c99659387041385b",
+    "top_feature_ids": [
+      2113,
+      1788,
+      12736,
+      4851,
+      5595,
+      549,
+      654,
+      886
+    ]
+  },
+  {
+    "paragraph_idx": 45,
+    "sha256_first16": "8c1d63328b822d2a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      4851,
+      12736,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 46,
+    "sha256_first16": "10c6d4215a298671",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2113,
+      654,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 47,
+    "sha256_first16": "8ad746052c3d5bb6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      2113,
+      12736,
+      654,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 48,
+    "sha256_first16": "12714b3bb009ebd0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      12736,
+      14204
+    ]
+  },
+  {
+    "paragraph_idx": 49,
+    "sha256_first16": "a6cd155950ea6d01",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      654,
+      12736,
+      4851,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 50,
+    "sha256_first16": "0e5d80a74e3d8413",
+    "top_feature_ids": [
+      2113,
+      1788,
+      12736,
+      4851,
+      5595,
+      14019
+    ]
+  },
+  {
+    "paragraph_idx": 51,
+    "sha256_first16": "c2952051b132a33e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 52,
+    "sha256_first16": "57fa1428b9d3abe6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      654,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 53,
+    "sha256_first16": "54d9a0b14fb561f5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      549,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 54,
+    "sha256_first16": "121f68f8813a72bf",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      12736,
+      4851,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 55,
+    "sha256_first16": "30903cc3dac920fb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      549,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 56,
+    "sha256_first16": "ecf205b1857e7d70",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 57,
+    "sha256_first16": "d8094741ae916003",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 58,
+    "sha256_first16": "c000e402944cef36",
+    "top_feature_ids": [
+      1788,
+      2113,
+      12736,
+      5595,
+      14960,
+      6609,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 59,
+    "sha256_first16": "96fb4d2a17d7ffb6",
+    "top_feature_ids": [
+      8292,
+      1788,
+      5595,
+      12736,
+      654,
+      2113,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 60,
+    "sha256_first16": "8a4807a791f166c0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      549,
+      2233,
+      15477,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 61,
+    "sha256_first16": "fe5f5a7a02bdb58e",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      12162,
+      1120,
+      549,
+      14037
+    ]
+  },
+  {
+    "paragraph_idx": 62,
+    "sha256_first16": "a05461f4900bbf3a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 63,
+    "sha256_first16": "d564a0df91dbe4bc",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      12702,
+      4851,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 64,
+    "sha256_first16": "bde353e64f0d0712",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      654,
+      4851,
+      15477
+    ]
+  },
+  {
+    "paragraph_idx": 65,
+    "sha256_first16": "80054c8f1dd672d9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      4851,
+      2906,
+      12702,
+      654,
+      11413
+    ]
+  },
+  {
+    "paragraph_idx": 66,
+    "sha256_first16": "6f9af56a3a981851",
+    "top_feature_ids": [
+      1788,
+      5595,
+      549,
+      12736,
+      4851,
+      15477,
+      654,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 67,
+    "sha256_first16": "f8a98547377e596d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      15477,
+      5606,
+      654,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 68,
+    "sha256_first16": "c54d61563dd26d62",
+    "top_feature_ids": [
+      1788,
+      5595,
+      549,
+      12736,
+      2233,
+      654,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 69,
+    "sha256_first16": "60d94cdb3103e31e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2113,
+      4851,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 70,
+    "sha256_first16": "a137fc2af664fa48",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2113,
+      4851,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 71,
+    "sha256_first16": "33b4dc67981083f0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      549,
+      12736,
+      2113,
+      4851,
+      2233,
+      2906,
+      15477,
+      741
+    ]
+  },
+  {
+    "paragraph_idx": 72,
+    "sha256_first16": "4ebeacbd05d464e5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      4851,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 73,
+    "sha256_first16": "5df45e23e99736d5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2906,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 74,
+    "sha256_first16": "448f9b01ae9e5c9f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2113,
+      2906,
+      14960,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 75,
+    "sha256_first16": "fc9af27d7a9b5393",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      654,
+      4851,
+      5606,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 76,
+    "sha256_first16": "17fb642617d7bf96",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2113,
+      2906,
+      14960,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 77,
+    "sha256_first16": "3d806e2bdc0facba",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      15477,
+      2367,
+      654,
+      12702,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 78,
+    "sha256_first16": "73aa1e024504c4dd",
+    "top_feature_ids": [
+      12736,
+      1788,
+      5595,
+      2113,
+      549,
+      4851,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 79,
+    "sha256_first16": "8f23cdcb30042856",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      15477,
+      549,
+      2367,
+      14960,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 80,
+    "sha256_first16": "c1d8931aa68f5f9b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2906,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 81,
+    "sha256_first16": "7624d9ad73dab7f5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 82,
+    "sha256_first16": "92953da3588739a1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      15477,
+      654,
+      10522,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 83,
+    "sha256_first16": "333a4b9dc256cbd7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      654,
+      549,
+      15477,
+      5606,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 84,
+    "sha256_first16": "dbf720d7b793b41c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      5606,
+      654,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 85,
+    "sha256_first16": "2ce24e840faed2be",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      14064,
+      4851,
+      1570,
+      12702
+    ]
+  },
+  {
+    "paragraph_idx": 86,
+    "sha256_first16": "20fca073c654d872",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12849,
+      654,
+      12736,
+      15477
+    ]
+  },
+  {
+    "paragraph_idx": 87,
+    "sha256_first16": "51ff25f9304c8beb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      654,
+      14064,
+      15477,
+      4851,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 88,
+    "sha256_first16": "f567879b572ceab2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      12736,
+      8292,
+      15477,
+      12849
+    ]
+  },
+  {
+    "paragraph_idx": 89,
+    "sha256_first16": "a2ca3dcbc3a95ebe",
+    "top_feature_ids": [
+      1788,
+      12849,
+      5595,
+      654,
+      15998,
+      9781,
+      15477,
+      12736,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 90,
+    "sha256_first16": "2c27eca43dcb8c26",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      2906,
+      741,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 91,
+    "sha256_first16": "93b2f371c48a222f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      12849,
+      1570,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 92,
+    "sha256_first16": "c2c82e3e44889eb2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      2113,
+      5606,
+      15477
+    ]
+  },
+  {
+    "paragraph_idx": 93,
+    "sha256_first16": "f1e58b7bf126613b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      15477,
+      12849
+    ]
+  },
+  {
+    "paragraph_idx": 94,
+    "sha256_first16": "bdd95b0d1edef717",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      2113,
+      12736,
+      10894,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 95,
+    "sha256_first16": "4cc1456833de8e20",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      549,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 96,
+    "sha256_first16": "cc426927f469a4a6",
+    "top_feature_ids": [
+      2113,
+      1788,
+      5595,
+      4851,
+      12736,
+      549,
+      13027,
+      14246
+    ]
+  },
+  {
+    "paragraph_idx": 97,
+    "sha256_first16": "50aa4ba3d2fc8f5f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 98,
+    "sha256_first16": "6902f52fc53dadf0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      13027,
+      424,
+      11587,
+      2233,
+      14246,
+      2113,
+      9015
+    ]
+  },
+  {
+    "paragraph_idx": 99,
+    "sha256_first16": "f69052186d1c13e8",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      12736,
+      13027,
+      4851,
+      549,
+      2906,
+      13446,
+      14960,
+      16216
+    ]
+  },
+  {
+    "paragraph_idx": 100,
+    "sha256_first16": "af60253aee8ae5b9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      13027,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 101,
+    "sha256_first16": "e293620c3cd5af89",
+    "top_feature_ids": [
+      1788,
+      5595,
+      13027,
+      12736,
+      2113,
+      2233,
+      5606,
+      654,
+      424
+    ]
+  },
+  {
+    "paragraph_idx": 102,
+    "sha256_first16": "50ac146033e7cf91",
+    "top_feature_ids": [
+      1788,
+      5595,
+      13027,
+      2113,
+      12736,
+      5606,
+      424,
+      549,
+      2207
+    ]
+  },
+  {
+    "paragraph_idx": 103,
+    "sha256_first16": "1e3b989cf2f1d6f1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      4851,
+      14960,
+      2442
+    ]
+  },
+  {
+    "paragraph_idx": 104,
+    "sha256_first16": "840c516b2b28910e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2233,
+      4851,
+      549,
+      2207,
+      2367,
+      424
+    ]
+  },
+  {
+    "paragraph_idx": 105,
+    "sha256_first16": "b5768fd232b0a03a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      13027,
+      2233,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 106,
+    "sha256_first16": "b67a4d6017839bee",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2233,
+      13027,
+      424,
+      2207
+    ]
+  },
+  {
+    "paragraph_idx": 107,
+    "sha256_first16": "641c3fe64ce69979",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      2207,
+      13027,
+      424,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 108,
+    "sha256_first16": "9bc92591a538300e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2207,
+      424,
+      13027,
+      2233,
+      2113,
+      14246,
+      654,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 109,
+    "sha256_first16": "686651b1049bd3f7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 110,
+    "sha256_first16": "c792006ab978f10d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2233,
+      12736,
+      4851,
+      2207,
+      9015,
+      14246,
+      2367,
+      14960,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 111,
+    "sha256_first16": "397c6926abe60a02",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      9955,
+      549,
+      7883,
+      14960,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 112,
+    "sha256_first16": "bde59ff2a54f2bf0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      7883,
+      4753,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 113,
+    "sha256_first16": "dd769a7d2294cab9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 114,
+    "sha256_first16": "8813c0445f264baf",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2233,
+      2367,
+      7883,
+      14960,
+      11587,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 115,
+    "sha256_first16": "14539064c5537f05",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      7883,
+      2113,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 116,
+    "sha256_first16": "10b3b76bc99f9a9d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      7883,
+      5606,
+      9955,
+      7861,
+      2442
+    ]
+  },
+  {
+    "paragraph_idx": 117,
+    "sha256_first16": "f7874866f8d70de4",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 118,
+    "sha256_first16": "2910fdf494d22727",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      7883,
+      4753,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 119,
+    "sha256_first16": "a743fcff26eb2623",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14960,
+      2367,
+      4753,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 120,
+    "sha256_first16": "41796a7fb48d1425",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4753,
+      5606,
+      7883,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 121,
+    "sha256_first16": "30345cb73f65b78b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4753,
+      12736,
+      7883,
+      5606,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 122,
+    "sha256_first16": "c474738dbdc7be1b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      5606,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 123,
+    "sha256_first16": "7c5efe5bcb4944ab",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2442,
+      2113,
+      9955,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 124,
+    "sha256_first16": "8a4eef2b292657c7",
+    "top_feature_ids": [
+      1788,
+      12736,
+      2113,
+      5595,
+      654,
+      10522,
+      13176,
+      11387,
+      3768,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 125,
+    "sha256_first16": "aa9d30464a9dad9f",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      654,
+      4491,
+      7526
+    ]
+  },
+  {
+    "paragraph_idx": 126,
+    "sha256_first16": "d38a7c0b90d4ca31",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      15760,
+      2233,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 127,
+    "sha256_first16": "801fceafad392a18",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      10522,
+      6236,
+      1456
+    ]
+  },
+  {
+    "paragraph_idx": 128,
+    "sha256_first16": "7a4c8f263c9169a3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      5606,
+      4851,
+      2906,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 129,
+    "sha256_first16": "a5635e820cd91a34",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 130,
+    "sha256_first16": "7e99252851a96ec9",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 131,
+    "sha256_first16": "5763093738e9966f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      9955,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 132,
+    "sha256_first16": "4ea9e96324b51672",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      11764,
+      14064,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 133,
+    "sha256_first16": "c451a6d89e924c5c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 134,
+    "sha256_first16": "1269b9b050515170",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2113,
+      2906,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 135,
+    "sha256_first16": "e2a6ac87ffa4457f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      14761,
+      14960,
+      549,
+      7306
+    ]
+  },
+  {
+    "paragraph_idx": 136,
+    "sha256_first16": "8dabc29a8fe38b7b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 137,
+    "sha256_first16": "d21c4de2a9773995",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      12736,
+      12849
+    ]
+  },
+  {
+    "paragraph_idx": 138,
+    "sha256_first16": "c686e5d99478375a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14064
+    ]
+  },
+  {
+    "paragraph_idx": 139,
+    "sha256_first16": "2d06d38230eeca82",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 140,
+    "sha256_first16": "2464b68d546fe3bc",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14064
+    ]
+  },
+  {
+    "paragraph_idx": 141,
+    "sha256_first16": "8169e57ce398c3ab",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      5606,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 142,
+    "sha256_first16": "29ae44c19e18c031",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 143,
+    "sha256_first16": "8cb031b842e15822",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 144,
+    "sha256_first16": "da0b0ff4ecdb67b2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      14064,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 145,
+    "sha256_first16": "a7fbd37cc2f9dce9",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 146,
+    "sha256_first16": "1cbabdb5a8d18b3a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      3934,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 147,
+    "sha256_first16": "02bd68774233ad07",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      549,
+      2906,
+      14960,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 148,
+    "sha256_first16": "b45b01bd2c7e0f4d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 149,
+    "sha256_first16": "9e79401a08010073",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 150,
+    "sha256_first16": "2eb14a72597da421",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 151,
+    "sha256_first16": "d954a39f09daa608",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 152,
+    "sha256_first16": "5a11b31c8d62bea6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2906,
+      549,
+      14960,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 153,
+    "sha256_first16": "8570b468fc9138b6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 154,
+    "sha256_first16": "46ca0cc066d0a927",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      14960,
+      2113,
+      2536,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 155,
+    "sha256_first16": "68f82d939387fe32",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      4851,
+      549,
+      14960,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 156,
+    "sha256_first16": "daea891a2ae092aa",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      9955
+    ]
+  },
+  {
+    "paragraph_idx": 157,
+    "sha256_first16": "79938fae7ff82d03",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2906,
+      549,
+      2233,
+      4851,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 158,
+    "sha256_first16": "5d5a3626c0041881",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 159,
+    "sha256_first16": "6b36cde0609a5364",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 160,
+    "sha256_first16": "22f174a293ef42df",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 161,
+    "sha256_first16": "8f74effe5118082f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      10522,
+      12849,
+      14064
+    ]
+  },
+  {
+    "paragraph_idx": 162,
+    "sha256_first16": "bfbac20fb134ae8b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      10522,
+      12736,
+      12849,
+      8292,
+      14960,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 163,
+    "sha256_first16": "41ce1a7d01752703",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      654,
+      14064
+    ]
+  },
+  {
+    "paragraph_idx": 164,
+    "sha256_first16": "ece4fe3a4eb24777",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      15760,
+      14064
+    ]
+  },
+  {
+    "paragraph_idx": 165,
+    "sha256_first16": "5634ff094b909c38",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 166,
+    "sha256_first16": "dbc995bef4e622e6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      10522,
+      12849,
+      9955,
+      11439
+    ]
+  },
+  {
+    "paragraph_idx": 167,
+    "sha256_first16": "ffea55f89c617cce",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549,
+      2233,
+      14960,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 168,
+    "sha256_first16": "2f7c400fec8e10e5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      15760,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 169,
+    "sha256_first16": "1e8fb3b2634bda6c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      10522,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 170,
+    "sha256_first16": "cea263713771bd84",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 171,
+    "sha256_first16": "a0cf0e44b524dae9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14960,
+      14064,
+      11387,
+      2367,
+      2536,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 172,
+    "sha256_first16": "594a3d4ae68d07aa",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 173,
+    "sha256_first16": "02fd6df09f31d857",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14960,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 174,
+    "sha256_first16": "782f972bd4c9eb7a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 175,
+    "sha256_first16": "4ca4656c7a6bfeb9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 176,
+    "sha256_first16": "d9791605a6c890d0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 177,
+    "sha256_first16": "e4295112095b2017",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 178,
+    "sha256_first16": "48df86ee52832a0a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 179,
+    "sha256_first16": "ccbed64f605a3def",
+    "top_feature_ids": [
+      1788,
+      10522,
+      5595,
+      14163,
+      12849
+    ]
+  },
+  {
+    "paragraph_idx": 180,
+    "sha256_first16": "f6aa866327455508",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 181,
+    "sha256_first16": "894640318d3f85b7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14960,
+      2906,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 182,
+    "sha256_first16": "b35060a3b8d694a6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      12849,
+      14064
+    ]
+  },
+  {
+    "paragraph_idx": 183,
+    "sha256_first16": "d4445860c9a2f7f2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2906,
+      4851,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 184,
+    "sha256_first16": "f3a2af6005ad49b5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2113,
+      14064,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 185,
+    "sha256_first16": "f9b2e9bcf461c37f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      14064
+    ]
+  },
+  {
+    "paragraph_idx": 186,
+    "sha256_first16": "5f43d0d27c1cca3b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 187,
+    "sha256_first16": "b8fd0b01da48fd96",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      15760,
+      4851,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 188,
+    "sha256_first16": "87b3eb89c5667d7b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 189,
+    "sha256_first16": "21e3321f6cccdddf",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      12849
+    ]
+  },
+  {
+    "paragraph_idx": 190,
+    "sha256_first16": "ce2487a6760a73b1",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      549,
+      2113,
+      14064,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 191,
+    "sha256_first16": "542bd7c5bb9056db",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      2113,
+      549,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 192,
+    "sha256_first16": "c641aa629f56c50e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      1570,
+      2113,
+      14064
+    ]
+  },
+  {
+    "paragraph_idx": 193,
+    "sha256_first16": "d95044daa4bbf728",
+    "top_feature_ids": [
+      2113,
+      1788,
+      12736,
+      5595,
+      4851,
+      15292,
+      654,
+      3864,
+      1780
+    ]
+  },
+  {
+    "paragraph_idx": 194,
+    "sha256_first16": "db41727fcf868488",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2113,
+      14246,
+      654,
+      15292,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 195,
+    "sha256_first16": "12cbbeff9a405aa2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      10522,
+      12849,
+      15292,
+      1780
+    ]
+  },
+  {
+    "paragraph_idx": 196,
+    "sha256_first16": "8a4cf7852d6b60f7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 197,
+    "sha256_first16": "816a2b0bcfcd93bd",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      654,
+      5606,
+      12849
+    ]
+  },
+  {
+    "paragraph_idx": 198,
+    "sha256_first16": "82a469a5e2b6b97e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      12849,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 199,
+    "sha256_first16": "18375e0cc3a53d32",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      654,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 200,
+    "sha256_first16": "3e9540709c5e5807",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      4851,
+      7514,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 201,
+    "sha256_first16": "affac3f1b69304f5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      549,
+      13878
+    ]
+  },
+  {
+    "paragraph_idx": 202,
+    "sha256_first16": "d2a91add7f088546",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      13878,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 203,
+    "sha256_first16": "d36762e3e99206c2",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      10522,
+      11764,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 204,
+    "sha256_first16": "c29e02248a30b093",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      2113,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 205,
+    "sha256_first16": "35452becc15b2a76",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 206,
+    "sha256_first16": "35854bb9f7f0e09a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      654,
+      2367,
+      4851,
+      14960,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 207,
+    "sha256_first16": "fd6f205791cc6f32",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      2113,
+      14246,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 208,
+    "sha256_first16": "e12ee1347fe21d06",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      549,
+      4851,
+      16216
+    ]
+  },
+  {
+    "paragraph_idx": 209,
+    "sha256_first16": "4e4e65e175f20a7b",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      549,
+      14960,
+      2906,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 210,
+    "sha256_first16": "8609ed872fc2a371",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 211,
+    "sha256_first16": "676320e5abc5f537",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      14960,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 212,
+    "sha256_first16": "a0ca2bb29ae4e3f5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      10522,
+      14163,
+      173
+    ]
+  },
+  {
+    "paragraph_idx": 213,
+    "sha256_first16": "51efb0c8e9e9e3b0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2367,
+      4851,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 214,
+    "sha256_first16": "513e6030ebca981f",
+    "top_feature_ids": [
+      12736,
+      1788,
+      5595,
+      549,
+      4851,
+      2442,
+      15586
+    ]
+  },
+  {
+    "paragraph_idx": 215,
+    "sha256_first16": "f49e1650f49eb122",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549,
+      4851,
+      2113,
+      14960,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 216,
+    "sha256_first16": "d4533d5a431aa9a1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 217,
+    "sha256_first16": "ad50dbfb74aabe2d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2113,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 218,
+    "sha256_first16": "bfe81694a6ea879e",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 219,
+    "sha256_first16": "e487274c3176ce2d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      15477,
+      11005
+    ]
+  },
+  {
+    "paragraph_idx": 220,
+    "sha256_first16": "c748197e4c4569a3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 221,
+    "sha256_first16": "9c049aab4d94a658",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      12197,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 222,
+    "sha256_first16": "af986914a7d3e470",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2906,
+      2113,
+      14960,
+      741
+    ]
+  },
+  {
+    "paragraph_idx": 223,
+    "sha256_first16": "b26fd0f1ea13474e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      4851,
+      5606,
+      14960,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 224,
+    "sha256_first16": "1b74e79731967e11",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      10522,
+      13639,
+      12849
+    ]
+  },
+  {
+    "paragraph_idx": 225,
+    "sha256_first16": "8fe870cccf90f2fd",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 226,
+    "sha256_first16": "8884c6af7dd84e85",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      10522,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 227,
+    "sha256_first16": "b5df95748761426f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      654,
+      13639,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 228,
+    "sha256_first16": "254f7c2b994791f1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      13639,
+      15477,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 229,
+    "sha256_first16": "fbd2dea035dcb1ed",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 230,
+    "sha256_first16": "90aa952134e558c9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2906,
+      10661,
+      14960,
+      7526,
+      5606,
+      954
+    ]
+  },
+  {
+    "paragraph_idx": 231,
+    "sha256_first16": "2573d75499db4fdc",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      2113,
+      12736,
+      13446,
+      728,
+      10661,
+      8967,
+      2906,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 232,
+    "sha256_first16": "92c0ca385a190ce1",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      10522,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 233,
+    "sha256_first16": "41754fb4caaa2b86",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2113,
+      6609,
+      14960,
+      10498,
+      15477
+    ]
+  },
+  {
+    "paragraph_idx": 234,
+    "sha256_first16": "17e3395fe7d216a0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      12849,
+      2367,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 235,
+    "sha256_first16": "cf00be91060bf7a1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 236,
+    "sha256_first16": "e24b6f8b04096728",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      2367,
+      13446,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 237,
+    "sha256_first16": "51b16be0c3740699",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      549,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 238,
+    "sha256_first16": "0d6cf7dfd57bdaf7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      14163,
+      10522,
+      12736,
+      15477,
+      1120,
+      6236,
+      8702
+    ]
+  },
+  {
+    "paragraph_idx": 239,
+    "sha256_first16": "2bf798b266075548",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      10522,
+      14833,
+      6236
+    ]
+  },
+  {
+    "paragraph_idx": 240,
+    "sha256_first16": "964ed8b775b0610b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14833,
+      2367,
+      10522,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 241,
+    "sha256_first16": "beba20740d1d3960",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      2367,
+      14960,
+      3279
+    ]
+  },
+  {
+    "paragraph_idx": 242,
+    "sha256_first16": "2753773d5675d82c",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      2113,
+      549,
+      10667
+    ]
+  },
+  {
+    "paragraph_idx": 243,
+    "sha256_first16": "39bac04773d28f4b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      14960,
+      3279
+    ]
+  },
+  {
+    "paragraph_idx": 244,
+    "sha256_first16": "0976874b838031d1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 245,
+    "sha256_first16": "00d2b118d093ee04",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 246,
+    "sha256_first16": "e27b89dcc43fd74f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      549,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 247,
+    "sha256_first16": "02c566a6da24c778",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      14960,
+      6236,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 248,
+    "sha256_first16": "ee41dc4519b9657b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 249,
+    "sha256_first16": "1679c36ef90f8f36",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      549,
+      2906,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 250,
+    "sha256_first16": "7b6e1253ba1672f3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      3279,
+      1570,
+      10522,
+      14960,
+      6236
+    ]
+  },
+  {
+    "paragraph_idx": 251,
+    "sha256_first16": "d54fcbaa58f546a9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 252,
+    "sha256_first16": "cda1bd850526cf25",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 253,
+    "sha256_first16": "7b5838981ae41d93",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 254,
+    "sha256_first16": "092c46b41bfc3443",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      6499,
+      14163
+    ]
+  },
+  {
+    "paragraph_idx": 255,
+    "sha256_first16": "009beea4b9d504b6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2906,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 256,
+    "sha256_first16": "9ef2951e7fae0e03",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2367,
+      14960,
+      1570,
+      14686
+    ]
+  },
+  {
+    "paragraph_idx": 257,
+    "sha256_first16": "0630c274593dc002",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      14960,
+      549,
+      10133
+    ]
+  },
+  {
+    "paragraph_idx": 258,
+    "sha256_first16": "cc2979f75048890c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      549,
+      2906,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 259,
+    "sha256_first16": "1a5bd579a948e445",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      14960,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 260,
+    "sha256_first16": "6e11219f53367d48",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 261,
+    "sha256_first16": "3e918f2eb32ccd92",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 262,
+    "sha256_first16": "38957f4c90a105de",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549,
+      14960,
+      4851,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 263,
+    "sha256_first16": "3aa78b9381f8b1eb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      14960,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 264,
+    "sha256_first16": "587ce675f4ef3012",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      2906,
+      549,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 265,
+    "sha256_first16": "43fec3969eac056d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      4851,
+      549,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 266,
+    "sha256_first16": "1f3e913e38bbf3dd",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      10522,
+      2367,
+      6236,
+      654,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 267,
+    "sha256_first16": "712ac6f171b9e1e5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2442,
+      549,
+      14960,
+      2367,
+      4851,
+      15586
+    ]
+  },
+  {
+    "paragraph_idx": 268,
+    "sha256_first16": "e29d12be7786b794",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549,
+      4851,
+      14960,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 269,
+    "sha256_first16": "aff0e7623c790985",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      10522,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 270,
+    "sha256_first16": "add9116a59f9b07f",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      13446,
+      549,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 271,
+    "sha256_first16": "98c2ab46d8453b7a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2113,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 272,
+    "sha256_first16": "772259d761415e41",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      2113,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 273,
+    "sha256_first16": "8e1db00d644e767f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      14960,
+      4851,
+      741,
+      2367,
+      2906,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 274,
+    "sha256_first16": "a10bc2d3c6948f8e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 275,
+    "sha256_first16": "6ee9846aad471922",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      4851,
+      14960,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 276,
+    "sha256_first16": "2d46d99c3b2e111c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      549,
+      2442,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 277,
+    "sha256_first16": "38834246c4dfbe2c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      549,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 278,
+    "sha256_first16": "0fe56e35b1630379",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2367,
+      2906,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 279,
+    "sha256_first16": "6e9cf3597507debf",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 280,
+    "sha256_first16": "d02d21bacf2c5c23",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      4851,
+      14960,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 281,
+    "sha256_first16": "0a4df359c7a4c79d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      2906,
+      549,
+      4851,
+      954,
+      741,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 282,
+    "sha256_first16": "d6d0c8fec187c79c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      4851,
+      14960,
+      5606,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 283,
+    "sha256_first16": "9f40d701d20d7d94",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 284,
+    "sha256_first16": "e4fbe1fbdfa9f48c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      549,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 285,
+    "sha256_first16": "8574ffb1ba76a627",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      14960,
+      2367,
+      2906,
+      2113,
+      13446
+    ]
+  },
+  {
+    "paragraph_idx": 286,
+    "sha256_first16": "f54cfbac1c647813",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      1570,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 287,
+    "sha256_first16": "682b6ba2fd1381d2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      12702,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 288,
+    "sha256_first16": "69b66b558b2d3c23",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 289,
+    "sha256_first16": "007ed7c0964efb5f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2367,
+      549,
+      9832
+    ]
+  },
+  {
+    "paragraph_idx": 290,
+    "sha256_first16": "196b3cd14710f366",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      2367,
+      6236
+    ]
+  },
+  {
+    "paragraph_idx": 291,
+    "sha256_first16": "5bf7aeed35f986d2",
+    "top_feature_ids": [
+      1788,
+      6609,
+      5595,
+      2113,
+      14052,
+      12736,
+      1246
+    ]
+  },
+  {
+    "paragraph_idx": 292,
+    "sha256_first16": "bffd69bcad8eaff3",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      12736,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 293,
+    "sha256_first16": "24a90cacbc44453a",
+    "top_feature_ids": [
+      1788,
+      12736,
+      2113,
+      5595,
+      4851,
+      886
+    ]
+  },
+  {
+    "paragraph_idx": 294,
+    "sha256_first16": "b32672055972aeeb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      1075,
+      2113,
+      11005
+    ]
+  },
+  {
+    "paragraph_idx": 295,
+    "sha256_first16": "33c9838e727292d2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12849,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 296,
+    "sha256_first16": "d658aaad94f91287",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 297,
+    "sha256_first16": "a580321f85488618",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      654,
+      2113,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 298,
+    "sha256_first16": "13a8af3a507e1e1b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      10522,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 299,
+    "sha256_first16": "c5459de1fb73d310",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2113,
+      1456,
+      9955
+    ]
+  },
+  {
+    "paragraph_idx": 300,
+    "sha256_first16": "23365382b65b6cf8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      1456
+    ]
+  },
+  {
+    "paragraph_idx": 301,
+    "sha256_first16": "e2b3d635e120ee67",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      4851,
+      1456,
+      12736,
+      3388
+    ]
+  },
+  {
+    "paragraph_idx": 302,
+    "sha256_first16": "3bd7ff91defd2ae5",
+    "top_feature_ids": [
+      9280,
+      1788,
+      8756,
+      6976,
+      1120,
+      5595,
+      5058,
+      9955,
+      3864,
+      13446,
+      8722,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 303,
+    "sha256_first16": "c1bd9e3772cd506b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      11005,
+      2367,
+      12766,
+      11434,
+      14833,
+      12074
+    ]
+  },
+  {
+    "paragraph_idx": 304,
+    "sha256_first16": "825c64c7861692a8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14833,
+      4851,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 305,
+    "sha256_first16": "38e77a8ddcd7dc95",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2113,
+      1456,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 306,
+    "sha256_first16": "2dd87249e4bdc127",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 307,
+    "sha256_first16": "a35ddc8af241b6ed",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      4851,
+      654,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 308,
+    "sha256_first16": "2d961331d9960d0b",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      16066,
+      7175,
+      12736,
+      5785
+    ]
+  },
+  {
+    "paragraph_idx": 309,
+    "sha256_first16": "03d0cb18829433c9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      10522,
+      7175,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 310,
+    "sha256_first16": "c8206d9c5b81404a",
+    "top_feature_ids": [
+      1788,
+      1048,
+      5595,
+      1120,
+      10522,
+      14163,
+      3864,
+      2113,
+      228
+    ]
+  },
+  {
+    "paragraph_idx": 311,
+    "sha256_first16": "18bf4952e9556abe",
+    "top_feature_ids": [
+      1788,
+      5595,
+      11005,
+      14833,
+      794,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 312,
+    "sha256_first16": "c21721dcd800ba5a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14833,
+      4851,
+      7526,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 313,
+    "sha256_first16": "59168fe5d76c0147",
+    "top_feature_ids": [
+      1788,
+      5595,
+      14833,
+      15760,
+      6210,
+      10522,
+      11005,
+      3388
+    ]
+  },
+  {
+    "paragraph_idx": 314,
+    "sha256_first16": "acd443c3c73bf83d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2207,
+      14693,
+      15594
+    ]
+  },
+  {
+    "paragraph_idx": 315,
+    "sha256_first16": "bd86e8cf541f9509",
+    "top_feature_ids": [
+      1788,
+      5595,
+      15760,
+      11005,
+      12736,
+      3388
+    ]
+  },
+  {
+    "paragraph_idx": 316,
+    "sha256_first16": "8064a0da3de409d8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      15760,
+      12736,
+      11005,
+      3388,
+      222
+    ]
+  },
+  {
+    "paragraph_idx": 317,
+    "sha256_first16": "9a2045a8d436321e",
+    "top_feature_ids": [
+      1788,
+      15760,
+      5595,
+      222,
+      12736,
+      3388,
+      809,
+      1273
+    ]
+  },
+  {
+    "paragraph_idx": 318,
+    "sha256_first16": "8caaf91b0e893640",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2207,
+      11005,
+      15760,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 319,
+    "sha256_first16": "d1662fb0db91a2c9",
+    "top_feature_ids": [
+      1788,
+      15760,
+      5595,
+      12736,
+      2207,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 320,
+    "sha256_first16": "b339d9a25ffb91e9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 321,
+    "sha256_first16": "1e014b6922b47449",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2367,
+      12736,
+      654,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 322,
+    "sha256_first16": "c30e2c41658f536a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      654,
+      14960,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 323,
+    "sha256_first16": "21dd0f89d7229a50",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      4851,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 324,
+    "sha256_first16": "a9ca07b5863b238b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 325,
+    "sha256_first16": "c532ffee8bf2d8fb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      4851,
+      12736,
+      2906,
+      1456
+    ]
+  },
+  {
+    "paragraph_idx": 326,
+    "sha256_first16": "d9a6114033ab9675",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 327,
+    "sha256_first16": "031e27d40a11aaca",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2113,
+      1456,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 328,
+    "sha256_first16": "f823fbbc186da0c6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14833,
+      2906,
+      13878
+    ]
+  },
+  {
+    "paragraph_idx": 329,
+    "sha256_first16": "0762d8ef695dee67",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      11847,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 330,
+    "sha256_first16": "bebf2d46d97b9484",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14833,
+      4851,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 331,
+    "sha256_first16": "4453d762e538e017",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      4851,
+      14686
+    ]
+  },
+  {
+    "paragraph_idx": 332,
+    "sha256_first16": "6df8620c6c4ae713",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14686,
+      2113,
+      654,
+      10522,
+      2787
+    ]
+  },
+  {
+    "paragraph_idx": 333,
+    "sha256_first16": "f334b9ad26ffa227",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 334,
+    "sha256_first16": "968a861f31508d64",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      14960,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 335,
+    "sha256_first16": "39364ea6242fffc8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14960,
+      14246,
+      654,
+      2367,
+      1570,
+      6093,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 336,
+    "sha256_first16": "c610e319e6c43a43",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      14960,
+      12072
+    ]
+  },
+  {
+    "paragraph_idx": 337,
+    "sha256_first16": "a460d812225f71e2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14960,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 338,
+    "sha256_first16": "7abde74564cf0291",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14960,
+      2906,
+      2113,
+      2367,
+      10182,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 339,
+    "sha256_first16": "294c6c48114d6c3d",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      14686,
+      14960,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 340,
+    "sha256_first16": "4c3c379e9089f0ec",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      14960,
+      2113,
+      6093,
+      14686
+    ]
+  },
+  {
+    "paragraph_idx": 341,
+    "sha256_first16": "9f452e63e7c58f13",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 342,
+    "sha256_first16": "07ff26c5302da717",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14960,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 343,
+    "sha256_first16": "350851faaf945346",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      654,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 344,
+    "sha256_first16": "38299f7197c1edb7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      1570,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 345,
+    "sha256_first16": "a507227012a06414",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      14960,
+      2367,
+      2113,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 346,
+    "sha256_first16": "91e3c446a9cec2b4",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      5606,
+      14960,
+      4851,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 347,
+    "sha256_first16": "2f81ae1ab6572233",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      5606,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 348,
+    "sha256_first16": "57057d0927a73e1c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      2113,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 349,
+    "sha256_first16": "d80c4a323b2301c4",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      9955,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 350,
+    "sha256_first16": "e19a9854eb0efb84",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      12849,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 351,
+    "sha256_first16": "7f9c047ddeaab0c2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      2367,
+      274
+    ]
+  },
+  {
+    "paragraph_idx": 352,
+    "sha256_first16": "0af6daf8917de437",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 353,
+    "sha256_first16": "3f16632c25ef89d4",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      14960,
+      9955,
+      2367,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 354,
+    "sha256_first16": "8dc5f0d01d855d21",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 355,
+    "sha256_first16": "9569217dcd64c98c",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 356,
+    "sha256_first16": "1c32586e6348dd93",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14960,
+      4851,
+      2367,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 357,
+    "sha256_first16": "e73d1df59686acca",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 358,
+    "sha256_first16": "3547d33a94294544",
+    "top_feature_ids": [
+      5630,
+      1788,
+      12736,
+      5595,
+      10522,
+      9955,
+      2113,
+      6093,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 359,
+    "sha256_first16": "0c1ec00ba7e95959",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      1570,
+      4851,
+      14686,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 360,
+    "sha256_first16": "6905fac29b74a461",
+    "top_feature_ids": [
+      12736,
+      1788,
+      5595,
+      6141,
+      14960,
+      2367,
+      16269,
+      549,
+      2113,
+      8722,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 361,
+    "sha256_first16": "f9f2afe888dd1310",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      6141,
+      15938,
+      4851,
+      16269,
+      10522,
+      14960,
+      8722
+    ]
+  },
+  {
+    "paragraph_idx": 362,
+    "sha256_first16": "f2126ddd01cad416",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      6141,
+      2367,
+      4851,
+      549,
+      14960,
+      10498,
+      5630,
+      3000
+    ]
+  },
+  {
+    "paragraph_idx": 363,
+    "sha256_first16": "265316bb2e87c43d",
+    "top_feature_ids": [
+      1788,
+      2233,
+      12736,
+      5595,
+      549,
+      6141,
+      4851,
+      219,
+      16357,
+      6093,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 364,
+    "sha256_first16": "a71a4d292eb063a3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      5630,
+      14686,
+      1570,
+      654,
+      6969,
+      4851,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 365,
+    "sha256_first16": "b5200d29f2d1a6be",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 366,
+    "sha256_first16": "ecb195c0f9c85324",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      12736,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 367,
+    "sha256_first16": "9ea34446925193a5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      1570,
+      14960,
+      2367,
+      14686,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 368,
+    "sha256_first16": "68a4c4eb57e141df",
+    "top_feature_ids": [
+      12736,
+      6141,
+      5595,
+      1788,
+      8722,
+      16269,
+      10522,
+      4851,
+      14960,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 369,
+    "sha256_first16": "902124946bee9041",
+    "top_feature_ids": [
+      1788,
+      12736,
+      2113,
+      14332,
+      5595,
+      14686,
+      173,
+      8517
+    ]
+  },
+  {
+    "paragraph_idx": 370,
+    "sha256_first16": "69fa50645a96ba63",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      8702
+    ]
+  },
+  {
+    "paragraph_idx": 371,
+    "sha256_first16": "807343755aa75d2b",
+    "top_feature_ids": [
+      1788,
+      2442,
+      5595,
+      10522,
+      7861,
+      13958,
+      14163,
+      8702
+    ]
+  },
+  {
+    "paragraph_idx": 372,
+    "sha256_first16": "25edfcfa637a0a92",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      6141,
+      4851,
+      14960,
+      2113,
+      2367,
+      16269
+    ]
+  },
+  {
+    "paragraph_idx": 373,
+    "sha256_first16": "160474e373546256",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14960,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 374,
+    "sha256_first16": "7d4af8897f6a5a79",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      14960,
+      2906,
+      2367,
+      10182,
+      5606,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 375,
+    "sha256_first16": "bb5749dfac779e51",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      2442,
+      2367,
+      14960,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 376,
+    "sha256_first16": "fa4e04285bbe415b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      14960,
+      14686
+    ]
+  },
+  {
+    "paragraph_idx": 377,
+    "sha256_first16": "a5d57ed0f34a0020",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      1570,
+      4491
+    ]
+  },
+  {
+    "paragraph_idx": 378,
+    "sha256_first16": "4b5ee42ce4477d75",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2442,
+      12736,
+      15586,
+      2113,
+      4851,
+      14960,
+      10182
+    ]
+  },
+  {
+    "paragraph_idx": 379,
+    "sha256_first16": "1848f2a195239fc9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      6093,
+      14686,
+      8702
+    ]
+  },
+  {
+    "paragraph_idx": 380,
+    "sha256_first16": "1461a882bb9834ff",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14686,
+      14960,
+      6093,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 381,
+    "sha256_first16": "2dd208be39113417",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 382,
+    "sha256_first16": "b47e45b19653e232",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      14960,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 383,
+    "sha256_first16": "949d3f91cb5ab591",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      14960,
+      13446
+    ]
+  },
+  {
+    "paragraph_idx": 384,
+    "sha256_first16": "be4e3c228c61cb9b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12162,
+      2367,
+      12736,
+      274,
+      8702,
+      14960,
+      173,
+      10522,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 385,
+    "sha256_first16": "ebffb3e3b277ae9c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 386,
+    "sha256_first16": "5c0496fc76cbf907",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2113,
+      10182,
+      1570,
+      14686
+    ]
+  },
+  {
+    "paragraph_idx": 387,
+    "sha256_first16": "eead4406b1332cb1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      654,
+      549,
+      4491
+    ]
+  },
+  {
+    "paragraph_idx": 388,
+    "sha256_first16": "6dd92c682aa891f3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4491,
+      12849,
+      2113,
+      654,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 389,
+    "sha256_first16": "ed5dee889a8fb708",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      14960,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 390,
+    "sha256_first16": "42126a12bd223cab",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 391,
+    "sha256_first16": "e55d2ec8c6db84bb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14960,
+      4491,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 392,
+    "sha256_first16": "b3407f075c33c551",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4491,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 393,
+    "sha256_first16": "363a2521be5c94c8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14960,
+      2367,
+      4491
+    ]
+  },
+  {
+    "paragraph_idx": 394,
+    "sha256_first16": "2359cbc1537fc821",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      9015,
+      14246,
+      16227
+    ]
+  },
+  {
+    "paragraph_idx": 395,
+    "sha256_first16": "7fd1cec5f3298028",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      549,
+      4851,
+      3000
+    ]
+  },
+  {
+    "paragraph_idx": 396,
+    "sha256_first16": "e9f207d9a1df0d63",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      5606,
+      2233,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 397,
+    "sha256_first16": "65dc65d7aab10959",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      1606,
+      9955
+    ]
+  },
+  {
+    "paragraph_idx": 398,
+    "sha256_first16": "1386aa3467053043",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      14960,
+      1570,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 399,
+    "sha256_first16": "a96f097bc26068f0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14960,
+      1570,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 400,
+    "sha256_first16": "afb1e166cf8c02bf",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      2442,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 401,
+    "sha256_first16": "429a3c744e20dfde",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      4851,
+      549,
+      9955
+    ]
+  },
+  {
+    "paragraph_idx": 402,
+    "sha256_first16": "53384b6eea2795ca",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      2233,
+      2367,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 403,
+    "sha256_first16": "05f9edeb697383f0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      14960,
+      3279,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 404,
+    "sha256_first16": "189747f1a01a118c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      1606,
+      9955,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 405,
+    "sha256_first16": "15f6bf88ffa6a0f5",
+    "top_feature_ids": [
+      1788,
+      10522,
+      5595,
+      6976,
+      7582,
+      8722,
+      3864,
+      1120,
+      16269,
+      9280,
+      14960,
+      12736,
+      5606,
+      9955,
+      6412,
+      10498,
+      2367,
+      1673,
+      8591
+    ]
+  },
+  {
+    "paragraph_idx": 406,
+    "sha256_first16": "86760a10163000c9",
+    "top_feature_ids": [
+      1788,
+      10003,
+      5595,
+      1673,
+      2367,
+      978,
+      14960,
+      16302,
+      8591,
+      1511,
+      8381,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 407,
+    "sha256_first16": "3a00de947311b331",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      14686,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 408,
+    "sha256_first16": "52fea3c65786c877",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2906,
+      2367,
+      14960,
+      2113,
+      10182,
+      1570,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 409,
+    "sha256_first16": "c51d097e2fc3f50f",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      654,
+      15938,
+      12736,
+      4851,
+      9832
+    ]
+  },
+  {
+    "paragraph_idx": 410,
+    "sha256_first16": "c21af3e7d5aa2614",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2367,
+      12736,
+      549,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 411,
+    "sha256_first16": "a0c9a6dd411aa83a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      654,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 412,
+    "sha256_first16": "dbb6a65d28dde5f3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      12736,
+      4851,
+      2113,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 413,
+    "sha256_first16": "dfe3c4dfd0478435",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      2367,
+      14960,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 414,
+    "sha256_first16": "3d586e952f45b5bc",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      12736,
+      4851,
+      549,
+      424,
+      1730,
+      4936,
+      16243
+    ]
+  },
+  {
+    "paragraph_idx": 415,
+    "sha256_first16": "dcc5d1aa4c81e4c3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 416,
+    "sha256_first16": "a0da7d1ab01b121c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 417,
+    "sha256_first16": "15276f26987b618b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      2233,
+      549,
+      2367,
+      14246,
+      424
+    ]
+  },
+  {
+    "paragraph_idx": 418,
+    "sha256_first16": "131bdf94bb72ba95",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      424,
+      8292
+    ]
+  },
+  {
+    "paragraph_idx": 419,
+    "sha256_first16": "57a5c82ee1153798",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      2113,
+      424,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 420,
+    "sha256_first16": "2f4c856912253a66",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      2113,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 421,
+    "sha256_first16": "42dd68d895a49f1c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 422,
+    "sha256_first16": "de060c976a257894",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      2233,
+      2113,
+      173,
+      16130,
+      424
+    ]
+  },
+  {
+    "paragraph_idx": 423,
+    "sha256_first16": "0233ea5119485469",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2442,
+      2367,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 424,
+    "sha256_first16": "e8c4fa38503c54c2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      424,
+      14246
+    ]
+  },
+  {
+    "paragraph_idx": 425,
+    "sha256_first16": "b3c3e48f53662d13",
+    "top_feature_ids": [
+      1788,
+      2113,
+      654,
+      5595,
+      1730,
+      424,
+      10522,
+      12736,
+      4446,
+      15594
+    ]
+  },
+  {
+    "paragraph_idx": 426,
+    "sha256_first16": "d202f4294f0e79ec",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      2233,
+      4851,
+      424,
+      1730,
+      2367,
+      2207
+    ]
+  },
+  {
+    "paragraph_idx": 427,
+    "sha256_first16": "b0bfb0379b713fa6",
+    "top_feature_ids": [
+      12736,
+      2113,
+      4851,
+      549,
+      5595,
+      1788,
+      9319
+    ]
+  },
+  {
+    "paragraph_idx": 428,
+    "sha256_first16": "558f51dd6350505d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2233,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 429,
+    "sha256_first16": "dbc595876c2dd326",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 430,
+    "sha256_first16": "671aa76516fbdc7e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      9319,
+      2113,
+      424,
+      12849,
+      16243,
+      14246,
+      173
+    ]
+  },
+  {
+    "paragraph_idx": 431,
+    "sha256_first16": "ca41313e998f5ae0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 432,
+    "sha256_first16": "b2e8c1170a4c48b5",
+    "top_feature_ids": [
+      1788,
+      12736,
+      2113,
+      5595,
+      4851,
+      549,
+      13710,
+      9319,
+      15420
+    ]
+  },
+  {
+    "paragraph_idx": 433,
+    "sha256_first16": "39d1744453869f26",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      173,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 434,
+    "sha256_first16": "9b1fac2395ebc15f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      549,
+      12736,
+      4851,
+      2233,
+      2113,
+      9319
+    ]
+  },
+  {
+    "paragraph_idx": 435,
+    "sha256_first16": "e649da90e4fd54d9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      2113,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 436,
+    "sha256_first16": "f4df994b15ad18b7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2233,
+      2367,
+      9319,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 437,
+    "sha256_first16": "217bd7d468bdc4b5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 438,
+    "sha256_first16": "1909cf48f1b288da",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2233,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 439,
+    "sha256_first16": "433d9af449a88458",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 440,
+    "sha256_first16": "10c1b3da9a4c9982",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2233,
+      549,
+      173,
+      2367,
+      4851,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 441,
+    "sha256_first16": "25d3b83889d990ff",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 442,
+    "sha256_first16": "bd6e7c59390c117d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2233,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 443,
+    "sha256_first16": "1005c7e76b31a13e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2113,
+      4851,
+      9319,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 444,
+    "sha256_first16": "6d7f1afed9563c81",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2233,
+      4851,
+      9319,
+      2288
+    ]
+  },
+  {
+    "paragraph_idx": 445,
+    "sha256_first16": "7105c2baf4de45f9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2113,
+      4851,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 446,
+    "sha256_first16": "5b991f586b82fb2b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2113,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 447,
+    "sha256_first16": "44880893ff4aa7f8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 448,
+    "sha256_first16": "8bceb7114baf8945",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      2233,
+      4851,
+      549,
+      9319
+    ]
+  },
+  {
+    "paragraph_idx": 449,
+    "sha256_first16": "ac75f11331241eb3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2233,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 450,
+    "sha256_first16": "a2e8e983406aee0e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      9319,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 451,
+    "sha256_first16": "7e48011f0cf0ba26",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2233,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 452,
+    "sha256_first16": "d8e7faa3735e6db8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2233,
+      9319,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 453,
+    "sha256_first16": "cabc75c6bd7bdbd3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2233,
+      654,
+      173,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 454,
+    "sha256_first16": "87ac70a8a894c307",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2233,
+      9319
+    ]
+  },
+  {
+    "paragraph_idx": 455,
+    "sha256_first16": "97dd207fc56eada9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      9319,
+      2113,
+      2233,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 456,
+    "sha256_first16": "fa915a9950ebfa09",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2233,
+      9319,
+      2367,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 457,
+    "sha256_first16": "df561315bcf5f2a7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2233,
+      9319,
+      549,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 458,
+    "sha256_first16": "447bf415c56b02b5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      9319,
+      4851,
+      2113,
+      549,
+      2233,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 459,
+    "sha256_first16": "e7f7552a82a0c14e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2233,
+      2113,
+      14960,
+      13710
+    ]
+  },
+  {
+    "paragraph_idx": 460,
+    "sha256_first16": "7f91c7f68c5301a0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      9319,
+      2113,
+      4851,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 461,
+    "sha256_first16": "1ff44985f89efa62",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      9319,
+      2288
+    ]
+  },
+  {
+    "paragraph_idx": 462,
+    "sha256_first16": "b5a8a2209a4d3852",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      654,
+      9319,
+      5606,
+      173,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 463,
+    "sha256_first16": "18caf5f8ddb0ab6c",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      4851,
+      9319,
+      549,
+      5606,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 464,
+    "sha256_first16": "93aa989bad755a12",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      5606,
+      9319,
+      2233,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 465,
+    "sha256_first16": "2d4b8a95862b8249",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      14246
+    ]
+  },
+  {
+    "paragraph_idx": 466,
+    "sha256_first16": "a1e2583c3f6fa988",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2233,
+      549,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 467,
+    "sha256_first16": "35a141c6fe3d2bab",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14960,
+      2367,
+      549,
+      14959,
+      2906,
+      11434
+    ]
+  },
+  {
+    "paragraph_idx": 468,
+    "sha256_first16": "fff604e9b220a688",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      9319,
+      4851,
+      654,
+      12736,
+      173,
+      424,
+      14246,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 469,
+    "sha256_first16": "157fc298f937da8d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2207,
+      2233,
+      654,
+      2367,
+      14246,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 470,
+    "sha256_first16": "58c58d63198e4c5d",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      4851,
+      12736,
+      16243
+    ]
+  },
+  {
+    "paragraph_idx": 471,
+    "sha256_first16": "31cd7b3944bfb713",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 472,
+    "sha256_first16": "e86a20b9b51f7772",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      4851,
+      12736,
+      549,
+      2207
+    ]
+  },
+  {
+    "paragraph_idx": 473,
+    "sha256_first16": "ee1513221094cb9e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      549,
+      2207,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 474,
+    "sha256_first16": "cf5d983f70a6b009",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      12736,
+      549,
+      4851,
+      2207
+    ]
+  },
+  {
+    "paragraph_idx": 475,
+    "sha256_first16": "99652ed56a5cbca0",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      6094,
+      9832,
+      12736,
+      7148,
+      4491,
+      1384,
+      14163,
+      2207
+    ]
+  },
+  {
+    "paragraph_idx": 476,
+    "sha256_first16": "acdbb5ee3c49e400",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      2113,
+      2233,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 477,
+    "sha256_first16": "b8374efd160daf53",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 478,
+    "sha256_first16": "23e68fe7d9d18230",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 479,
+    "sha256_first16": "71246cea0bde612e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 480,
+    "sha256_first16": "8cb1593ffb8413b6",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      3792,
+      1570,
+      15760,
+      9955,
+      1456,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 481,
+    "sha256_first16": "32ddce7e054973be",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      12736,
+      2207,
+      424,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 482,
+    "sha256_first16": "8f734bbd7286b261",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      15060,
+      549,
+      2113,
+      14960,
+      1456
+    ]
+  },
+  {
+    "paragraph_idx": 483,
+    "sha256_first16": "6f57318d9df1b9d3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      15060,
+      2113,
+      753,
+      654,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 484,
+    "sha256_first16": "c841dece6d592c9b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      15060,
+      753,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 485,
+    "sha256_first16": "e8eaafcda91d5165",
+    "top_feature_ids": [
+      1788,
+      5595,
+      1570,
+      12736,
+      15060,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 486,
+    "sha256_first16": "6d5f9b479ab37af4",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      11005,
+      15760,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 487,
+    "sha256_first16": "c665fd45b6b88612",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      15060,
+      1456,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 488,
+    "sha256_first16": "4cb28234fcea0356",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14960,
+      4851,
+      14833,
+      2113,
+      15060
+    ]
+  },
+  {
+    "paragraph_idx": 489,
+    "sha256_first16": "1444bb2363d94926",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      15060,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 490,
+    "sha256_first16": "3e7688e807d737f5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      4851,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 491,
+    "sha256_first16": "66499a172ed3a6ac",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      15060
+    ]
+  },
+  {
+    "paragraph_idx": 492,
+    "sha256_first16": "59c9cc6e98f8c2d0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14833,
+      14960,
+      15060,
+      4851,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 493,
+    "sha256_first16": "c7fb8f71b4153378",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      15060,
+      549,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 494,
+    "sha256_first16": "54973cfce17e1ae0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      1456,
+      3792,
+      1570,
+      15060,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 495,
+    "sha256_first16": "f703c0cb11c4e3d2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14833,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 496,
+    "sha256_first16": "f78ed616cdef1ffb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      549,
+      15060,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 497,
+    "sha256_first16": "8254691f0084dafd",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      15060,
+      14833,
+      14960,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 498,
+    "sha256_first16": "96cd228ad5778144",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      15060,
+      1456,
+      14833,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 499,
+    "sha256_first16": "db9d870a017fff0c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      14833,
+      15760,
+      3792
+    ]
+  },
+  {
+    "paragraph_idx": 500,
+    "sha256_first16": "adac5a3dd5468c9b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      15060,
+      2113,
+      14833,
+      4851,
+      4842
+    ]
+  },
+  {
+    "paragraph_idx": 501,
+    "sha256_first16": "39bd19e8a196b890",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      15760,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 502,
+    "sha256_first16": "69c22f6309f6b26e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      4851,
+      12736,
+      15060,
+      1456,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 503,
+    "sha256_first16": "16da3ab11119a6ab",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14960,
+      4851,
+      15060,
+      2367,
+      654,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 504,
+    "sha256_first16": "720fe9db50bf54c7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      9955,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 505,
+    "sha256_first16": "1be20f19486112a8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      549,
+      10522,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 506,
+    "sha256_first16": "7bb5b6f5f7ba4b62",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      11017,
+      2367,
+      1075
+    ]
+  },
+  {
+    "paragraph_idx": 507,
+    "sha256_first16": "690c01d2b906a47b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 508,
+    "sha256_first16": "6d49fc89b137f7b8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      14833,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 509,
+    "sha256_first16": "6a2fb66a39db5717",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      13878,
+      4851,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 510,
+    "sha256_first16": "101c13962f6a7291",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      14960,
+      2113,
+      4851,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 511,
+    "sha256_first16": "72c2ebfad1cab829",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14833,
+      2113,
+      12702
+    ]
+  },
+  {
+    "paragraph_idx": 512,
+    "sha256_first16": "ab9420f5c5ae9bcb",
+    "top_feature_ids": [
+      9280,
+      1788,
+      5595,
+      14052,
+      6976,
+      9955,
+      5058,
+      4842,
+      10950,
+      1120,
+      10522,
+      3864,
+      13966,
+      8756
+    ]
+  },
+  {
+    "paragraph_idx": 513,
+    "sha256_first16": "aa323725832ca85a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      1570,
+      14960,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 514,
+    "sha256_first16": "33975fe92fce4882",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      4851,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 515,
+    "sha256_first16": "0a8363d24bd5a183",
+    "top_feature_ids": [
+      1788,
+      5595,
+      13128,
+      5058,
+      2367,
+      14052,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 516,
+    "sha256_first16": "57528e8f51dc5fce",
+    "top_feature_ids": [
+      1788,
+      5595,
+      9280,
+      1075,
+      14052,
+      209,
+      5058,
+      11017
+    ]
+  },
+  {
+    "paragraph_idx": 517,
+    "sha256_first16": "04877a3e6618e54b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      3792,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 518,
+    "sha256_first16": "7bb67cf215164564",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      4851,
+      14960,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 519,
+    "sha256_first16": "4db2d03362da6a9e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 520,
+    "sha256_first16": "3d87354dcf1ff634",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 521,
+    "sha256_first16": "af4228da383027d1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2233,
+      4851,
+      2367,
+      2906,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 522,
+    "sha256_first16": "4b502abe296cc60e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 523,
+    "sha256_first16": "a982ed45550a8f89",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 524,
+    "sha256_first16": "a28c5b370cce3b0c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      2442,
+      15586,
+      14833
+    ]
+  },
+  {
+    "paragraph_idx": 525,
+    "sha256_first16": "f44ba8f7ec9d5fc4",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2367,
+      14833,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 526,
+    "sha256_first16": "22bc9c4c0ac7d98a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 527,
+    "sha256_first16": "e806325017a93107",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14833,
+      2113,
+      11017
+    ]
+  },
+  {
+    "paragraph_idx": 528,
+    "sha256_first16": "c00427176e7d7917",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      11017,
+      14833,
+      2113,
+      2367,
+      2233,
+      1075,
+      10522,
+      173
+    ]
+  },
+  {
+    "paragraph_idx": 529,
+    "sha256_first16": "a11ec52221fa5ad1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      11017,
+      10522,
+      14833,
+      11005
+    ]
+  },
+  {
+    "paragraph_idx": 530,
+    "sha256_first16": "183a3858c3e30b71",
+    "top_feature_ids": [
+      1788,
+      5595,
+      11764,
+      2113,
+      12736,
+      654,
+      10522,
+      11387
+    ]
+  },
+  {
+    "paragraph_idx": 531,
+    "sha256_first16": "4ca8fa16079fcdb6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 532,
+    "sha256_first16": "b69711f83dfd1deb",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      10522,
+      12849,
+      3864,
+      6236,
+      7861,
+      747,
+      1120,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 533,
+    "sha256_first16": "30a6a556155fdaf4",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 534,
+    "sha256_first16": "5f3137851dc51cb2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      15760
+    ]
+  },
+  {
+    "paragraph_idx": 535,
+    "sha256_first16": "ce271215847a04e6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2906,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 536,
+    "sha256_first16": "85079de7bcd93f98",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 537,
+    "sha256_first16": "59c6197cbb13b0ad",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      8049,
+      1570,
+      11764,
+      2906,
+      8872,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 538,
+    "sha256_first16": "04f60a4751b7d89f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      5606,
+      2113,
+      2906,
+      13823,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 539,
+    "sha256_first16": "b61db0b5de7c3e00",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      1570,
+      11387
+    ]
+  },
+  {
+    "paragraph_idx": 540,
+    "sha256_first16": "d0835eef419f8457",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      1570,
+      11387,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 541,
+    "sha256_first16": "219ccb0e2e54c7b0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      2442
+    ]
+  },
+  {
+    "paragraph_idx": 542,
+    "sha256_first16": "e1bae35e31996c7e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      1570,
+      4858
+    ]
+  },
+  {
+    "paragraph_idx": 543,
+    "sha256_first16": "7fed6da18c0fcb92",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2906,
+      2113,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 544,
+    "sha256_first16": "e67c9a18818fa26f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 545,
+    "sha256_first16": "ebe4d32a8acd5bc8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      2906,
+      549,
+      4851,
+      1570,
+      741,
+      15760
+    ]
+  },
+  {
+    "paragraph_idx": 546,
+    "sha256_first16": "0c412a18c7ea1f15",
+    "top_feature_ids": [
+      14332,
+      1788,
+      5595,
+      11476,
+      222,
+      7582,
+      549,
+      9955,
+      10522,
+      6151,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 547,
+    "sha256_first16": "bde690854496f66d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 548,
+    "sha256_first16": "2f90ca620338a4f0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2906,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 549,
+    "sha256_first16": "fce3179e1c477c2a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      14960,
+      2367,
+      14761,
+      15760,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 550,
+    "sha256_first16": "4a838f5a2ee64559",
+    "top_feature_ids": [
+      1788,
+      5595,
+      8049,
+      12736,
+      9955,
+      8872,
+      4851,
+      11005,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 551,
+    "sha256_first16": "415f119345d9060f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      15760,
+      12736,
+      1570,
+      11387
+    ]
+  },
+  {
+    "paragraph_idx": 552,
+    "sha256_first16": "3b057e9b4cad768d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      1570,
+      3792,
+      4851,
+      15760
+    ]
+  },
+  {
+    "paragraph_idx": 553,
+    "sha256_first16": "4f1916f0b6f2c8be",
+    "top_feature_ids": [
+      1788,
+      5595,
+      10522,
+      12736,
+      2113,
+      8607
+    ]
+  },
+  {
+    "paragraph_idx": 554,
+    "sha256_first16": "2d51b70e777a57b0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      654,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 555,
+    "sha256_first16": "7f24f34fa522f731",
+    "top_feature_ids": [
+      1788,
+      5595,
+      3792,
+      15760,
+      1570,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 556,
+    "sha256_first16": "a8a9632103a6478b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      8049,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 557,
+    "sha256_first16": "aec13968e2c160f1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 558,
+    "sha256_first16": "d4408558fc5ed7cc",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 559,
+    "sha256_first16": "3654a50d1857ce24",
+    "top_feature_ids": [
+      1788,
+      2113,
+      12736,
+      5595,
+      654,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 560,
+    "sha256_first16": "a72626be5c767003",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 561,
+    "sha256_first16": "3dd5c4678ee25dcb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 562,
+    "sha256_first16": "daf1543f59c20ee5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      2233,
+      5606,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 563,
+    "sha256_first16": "3e8b8a29349f7e82",
+    "top_feature_ids": [
+      1788,
+      2442,
+      5595,
+      12736,
+      4851,
+      549,
+      2367,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 564,
+    "sha256_first16": "5acff7ae8705681f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      654,
+      5606,
+      14960,
+      11387,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 565,
+    "sha256_first16": "8b747f438f0c12ab",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2442,
+      2367,
+      4851,
+      7861,
+      549,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 566,
+    "sha256_first16": "8e6f384b69a6545f",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      654,
+      11387,
+      2367,
+      4851,
+      2832
+    ]
+  },
+  {
+    "paragraph_idx": 567,
+    "sha256_first16": "fea38f8040703213",
+    "top_feature_ids": [
+      1788,
+      12736,
+      2113,
+      5595,
+      549,
+      4851,
+      654,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 568,
+    "sha256_first16": "96aa3146b56b6769",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      654,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 569,
+    "sha256_first16": "9029f67961c299ac",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2113,
+      2233,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 570,
+    "sha256_first16": "20df51d534efe983",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549,
+      4094,
+      4851,
+      2113,
+      14960,
+      654,
+      173
+    ]
+  },
+  {
+    "paragraph_idx": 571,
+    "sha256_first16": "4aa68cffc87eed49",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4094,
+      12736,
+      654,
+      5606,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 572,
+    "sha256_first16": "f0d5c3c02b79d760",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      549,
+      4851,
+      2113,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 573,
+    "sha256_first16": "6d4dc4cc6ecbdad2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      12736,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 574,
+    "sha256_first16": "ba0c9e9a89ceb4b7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      9104
+    ]
+  },
+  {
+    "paragraph_idx": 575,
+    "sha256_first16": "82a93beef6bcbf10",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      4094,
+      12736,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 576,
+    "sha256_first16": "36957eb13d0a94c0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2233,
+      549,
+      2113,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 577,
+    "sha256_first16": "954400a74f9dc246",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2113,
+      5606,
+      4094,
+      654,
+      14960,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 578,
+    "sha256_first16": "8ed863ca577dc918",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      5606,
+      654,
+      9104
+    ]
+  },
+  {
+    "paragraph_idx": 579,
+    "sha256_first16": "ec04b9772ab53e26",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      654,
+      5596,
+      5606,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 580,
+    "sha256_first16": "c16274099bdec2ea",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      2113,
+      12736,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 581,
+    "sha256_first16": "781c1e6e6aa8eeec",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      5606,
+      2113,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 582,
+    "sha256_first16": "83a9231b78d055de",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      12736,
+      5606,
+      4094,
+      5596,
+      8807
+    ]
+  },
+  {
+    "paragraph_idx": 583,
+    "sha256_first16": "25714b1d56d0efd8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      654,
+      5606,
+      549,
+      9104,
+      2233,
+      5568
+    ]
+  },
+  {
+    "paragraph_idx": 584,
+    "sha256_first16": "358990fdab9e4839",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      12736,
+      4851,
+      654,
+      549,
+      9104,
+      2207
+    ]
+  },
+  {
+    "paragraph_idx": 585,
+    "sha256_first16": "23f482b0a59f0071",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      5606,
+      2113,
+      549,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 586,
+    "sha256_first16": "8513174b24653734",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4094,
+      12736,
+      654,
+      5606,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 587,
+    "sha256_first16": "670e1a024d0e0572",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4094,
+      654,
+      5606,
+      549,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 588,
+    "sha256_first16": "0821b247d0daf005",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      4094,
+      549,
+      654,
+      5606,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 589,
+    "sha256_first16": "75d0f4ceb797f3f1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      4094,
+      12736,
+      654,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 590,
+    "sha256_first16": "1143bf22b59334d6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      5606,
+      12736,
+      4094
+    ]
+  },
+  {
+    "paragraph_idx": 591,
+    "sha256_first16": "b8f91ec331c8a258",
+    "top_feature_ids": [
+      1788,
+      654,
+      2113,
+      12736,
+      5595,
+      5606,
+      10522,
+      7883,
+      3864
+    ]
+  },
+  {
+    "paragraph_idx": 592,
+    "sha256_first16": "2b278b668c93871d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2113,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 593,
+    "sha256_first16": "bb21d5074d5a49a5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      9832,
+      4851,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 594,
+    "sha256_first16": "9214416148081082",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2442,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 595,
+    "sha256_first16": "d23f976277ee2b9d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2367,
+      1570,
+      12736,
+      14960,
+      4851,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 596,
+    "sha256_first16": "4e433ebb582ff815",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      9955,
+      1570,
+      2113,
+      11387
+    ]
+  },
+  {
+    "paragraph_idx": 597,
+    "sha256_first16": "5c6247f02a762c73",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      1570,
+      4851,
+      10182,
+      11387,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 598,
+    "sha256_first16": "b41e471d500e9c15",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      9955,
+      2113,
+      7883,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 599,
+    "sha256_first16": "bb709cabee04faac",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      2367,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 600,
+    "sha256_first16": "732d3e03386b1618",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      11387,
+      2367,
+      14960,
+      10182,
+      5606,
+      1570,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 601,
+    "sha256_first16": "030a57991898da02",
+    "top_feature_ids": [
+      12736,
+      549,
+      1788,
+      5595,
+      6094,
+      2442,
+      4851,
+      7861
+    ]
+  },
+  {
+    "paragraph_idx": 602,
+    "sha256_first16": "8e2c4f0998f99ee9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      12849
+    ]
+  },
+  {
+    "paragraph_idx": 603,
+    "sha256_first16": "2fa8ae2c5fb30886",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      2233,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 604,
+    "sha256_first16": "8e10923d5f025852",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14960,
+      2113,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 605,
+    "sha256_first16": "66196096f7dba9da",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      10182,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 606,
+    "sha256_first16": "565d8fc45f133293",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      14960,
+      7883,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 607,
+    "sha256_first16": "d6bb43a700d0d67b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      2906,
+      2233,
+      14960,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 608,
+    "sha256_first16": "b26ba5f02f64e944",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      2040,
+      2113,
+      7883,
+      11387
+    ]
+  },
+  {
+    "paragraph_idx": 609,
+    "sha256_first16": "5a9b9051faafdde0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      2040,
+      5606,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 610,
+    "sha256_first16": "16262fb2870eb076",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      11805,
+      7883,
+      4851,
+      9955
+    ]
+  },
+  {
+    "paragraph_idx": 611,
+    "sha256_first16": "09cea011a124a7fa",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      14960,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 612,
+    "sha256_first16": "2be4f0d28d7232b9",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      7883,
+      2113,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 613,
+    "sha256_first16": "3d8be1be88a16af1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      7883,
+      4851,
+      549,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 614,
+    "sha256_first16": "4b5786b92022cc64",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2233,
+      7883,
+      2906,
+      14960,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 615,
+    "sha256_first16": "54b7b86f1a007165",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      549,
+      4851,
+      1456
+    ]
+  },
+  {
+    "paragraph_idx": 616,
+    "sha256_first16": "fbb9fc074e79ac73",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      7883,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 617,
+    "sha256_first16": "4fc6c2b3cd553e8c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      15420,
+      7883,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 618,
+    "sha256_first16": "01509eab5f10e0e2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      7883,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 619,
+    "sha256_first16": "16295756c5bbaccd",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      4851,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 620,
+    "sha256_first16": "833764a1f771998c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      7883,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 621,
+    "sha256_first16": "e8fa412f8017835f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      654,
+      4851,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 622,
+    "sha256_first16": "2c257b93034e9504",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 623,
+    "sha256_first16": "dca5ec75200b64b9",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      12736,
+      4851,
+      3792,
+      1570,
+      1456
+    ]
+  },
+  {
+    "paragraph_idx": 624,
+    "sha256_first16": "8bf21baa015c3533",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2375,
+      654,
+      7883,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 625,
+    "sha256_first16": "461c51d03ec0139f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      7883,
+      4851,
+      654,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 626,
+    "sha256_first16": "eba9ee212c8e15da",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2113,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 627,
+    "sha256_first16": "7d93fe3d31af82df",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      7883,
+      4851,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 628,
+    "sha256_first16": "ec3f8e43278d2496",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      12736,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 629,
+    "sha256_first16": "92e21e775f1400e7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      549,
+      4851,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 630,
+    "sha256_first16": "1f776cfe0f57eb36",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      7883,
+      10182,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 631,
+    "sha256_first16": "03c3ab1070e4777c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      654,
+      12702
+    ]
+  },
+  {
+    "paragraph_idx": 632,
+    "sha256_first16": "ce46a12f25053b24",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 633,
+    "sha256_first16": "e03c32c1800abd87",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      7883,
+      12702
+    ]
+  },
+  {
+    "paragraph_idx": 634,
+    "sha256_first16": "913b9c46fe34ccb6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      7883,
+      549,
+      14960,
+      2442
+    ]
+  },
+  {
+    "paragraph_idx": 635,
+    "sha256_first16": "73fe60af3182f5a8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      15745,
+      5606,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 636,
+    "sha256_first16": "ccefc2fec3c19a17",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2233,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 637,
+    "sha256_first16": "384fc3d1e47abb35",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 638,
+    "sha256_first16": "cf77853f0f628992",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      654,
+      7883,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 639,
+    "sha256_first16": "1c1e192e416ef729",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      7883,
+      2113,
+      2367,
+      10182,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 640,
+    "sha256_first16": "9c39469a5f1e56fb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      549,
+      654,
+      7883,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 641,
+    "sha256_first16": "6a26fd3217ac433e",
+    "top_feature_ids": [
+      1788,
+      2442,
+      7883,
+      5595,
+      2113,
+      12736,
+      15586,
+      3864
+    ]
+  },
+  {
+    "paragraph_idx": 642,
+    "sha256_first16": "8b5337e49ac87a81",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      15586,
+      12736,
+      7883
+    ]
+  },
+  {
+    "paragraph_idx": 643,
+    "sha256_first16": "fa09d16820ee3a75",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      7883,
+      654,
+      2113,
+      9832,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 644,
+    "sha256_first16": "65db126d6da8c557",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      7883,
+      4851,
+      549,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 645,
+    "sha256_first16": "a72310ce462cfe40",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      7883,
+      2113,
+      14960,
+      4851,
+      2367,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 646,
+    "sha256_first16": "8f59bdf2d8a5244b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 647,
+    "sha256_first16": "47df56d6696e44fd",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      654,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 648,
+    "sha256_first16": "b90b6eee779d28e2",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549,
+      4851,
+      2113,
+      2906,
+      14960,
+      2261
+    ]
+  },
+  {
+    "paragraph_idx": 649,
+    "sha256_first16": "2a691eff5fd9fcf2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      654,
+      2261,
+      7883,
+      2233,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 650,
+    "sha256_first16": "52732bc90f9af3fa",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2113,
+      549,
+      16357,
+      4851,
+      2261,
+      2233,
+      5606,
+      9832,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 651,
+    "sha256_first16": "7ba7d76917754c0d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 652,
+    "sha256_first16": "6e76dd2104f28bd4",
+    "top_feature_ids": [
+      1788,
+      12736,
+      16357,
+      5595,
+      7883,
+      549,
+      9832,
+      4851,
+      333,
+      14960,
+      4191,
+      2113,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 653,
+    "sha256_first16": "7d4bcfa366343ae7",
+    "top_feature_ids": [
+      1788,
+      12736,
+      2113,
+      5595,
+      549,
+      4851,
+      14686,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 654,
+    "sha256_first16": "8f051c4c526f5a19",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2367,
+      4851,
+      549,
+      10182,
+      2113,
+      14960,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 655,
+    "sha256_first16": "68f51868d33846c4",
+    "top_feature_ids": [
+      1788,
+      5595,
+      1956,
+      12736,
+      2113,
+      2367,
+      14960,
+      7734,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 656,
+    "sha256_first16": "c3481ec874873adc",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      15586,
+      549,
+      1956,
+      2442,
+      14960,
+      14332
+    ]
+  },
+  {
+    "paragraph_idx": 657,
+    "sha256_first16": "fa4a5f469c9beebc",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2367,
+      12736,
+      10182,
+      14960,
+      4851,
+      1570,
+      1956
+    ]
+  },
+  {
+    "paragraph_idx": 658,
+    "sha256_first16": "9455075c67ccfcdf",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      2367,
+      4851,
+      5606,
+      8702,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 659,
+    "sha256_first16": "d52a56b46a7fb7d8",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2367,
+      4851,
+      12736,
+      10182,
+      14960,
+      14705,
+      1956
+    ]
+  },
+  {
+    "paragraph_idx": 660,
+    "sha256_first16": "8df393b040fbae3b",
+    "top_feature_ids": [
+      1788,
+      12622,
+      5595,
+      7783,
+      8722,
+      16096,
+      3864,
+      2442,
+      7582,
+      12736,
+      2367,
+      13417,
+      1956,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 661,
+    "sha256_first16": "90eb794c0e83b2c6",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      2367,
+      2113,
+      10182,
+      14960,
+      4851,
+      549,
+      1956
+    ]
+  },
+  {
+    "paragraph_idx": 662,
+    "sha256_first16": "2ae752ecedb748cd",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2367,
+      12736,
+      8702,
+      14960,
+      12162,
+      1956,
+      549,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 663,
+    "sha256_first16": "4d540959571de5c8",
+    "top_feature_ids": [
+      1788,
+      2367,
+      5595,
+      1570,
+      14960,
+      1956,
+      10182,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 664,
+    "sha256_first16": "445e56d0aa1041ac",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549,
+      2367,
+      14960,
+      2906,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 665,
+    "sha256_first16": "b3005d75969d8585",
+    "top_feature_ids": [
+      2442,
+      12736,
+      1788,
+      1956,
+      3864,
+      5595,
+      10522,
+      7783,
+      1120,
+      2367,
+      8722,
+      6641,
+      6094,
+      14960,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 666,
+    "sha256_first16": "dbf1ab04957ecef4",
+    "top_feature_ids": [
+      1788,
+      2367,
+      12736,
+      5595,
+      1956,
+      14960,
+      549,
+      4851,
+      6641
+    ]
+  },
+  {
+    "paragraph_idx": 667,
+    "sha256_first16": "92cd357761d8ceaa",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      1956,
+      2113,
+      10522,
+      8702
+    ]
+  },
+  {
+    "paragraph_idx": 668,
+    "sha256_first16": "5dda4b7a0882b4b1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      1956,
+      2113,
+      2367,
+      10182,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 669,
+    "sha256_first16": "5fe3a76c1eecc196",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      1956,
+      10182,
+      14960,
+      1570,
+      3279,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 670,
+    "sha256_first16": "b61b772f4315582d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      1956,
+      2442,
+      2367,
+      2113,
+      14960,
+      4278,
+      7783,
+      6641,
+      549,
+      9536,
+      15561,
+      6094
+    ]
+  },
+  {
+    "paragraph_idx": 671,
+    "sha256_first16": "870913461f7da957",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2367,
+      12736,
+      14960,
+      4851,
+      6641
+    ]
+  },
+  {
+    "paragraph_idx": 672,
+    "sha256_first16": "39d74039a6a1748d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2367,
+      1956,
+      12736,
+      14960,
+      3279,
+      4851,
+      1570,
+      5606,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 673,
+    "sha256_first16": "eacfc28e7e11896e",
+    "top_feature_ids": [
+      2442,
+      12736,
+      5595,
+      1788,
+      3864,
+      2367,
+      1956,
+      1120,
+      10522,
+      2113,
+      7783,
+      14960,
+      7582,
+      6094,
+      6641
+    ]
+  },
+  {
+    "paragraph_idx": 674,
+    "sha256_first16": "19402d27c7889745",
+    "top_feature_ids": [
+      1788,
+      12736,
+      2113,
+      5595,
+      654,
+      10522,
+      11387,
+      13176
+    ]
+  },
+  {
+    "paragraph_idx": 675,
+    "sha256_first16": "ba7e697064facbd5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 676,
+    "sha256_first16": "cf4c9f56a291086a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 677,
+    "sha256_first16": "f796cb9173b553e7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      2113,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 678,
+    "sha256_first16": "e77874322d16a77c",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549,
+      9832,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 679,
+    "sha256_first16": "f15a5ea30b22cb73",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      5068,
+      2113,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 680,
+    "sha256_first16": "3aa0cbf249503285",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 681,
+    "sha256_first16": "f665d26d1862e372",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 682,
+    "sha256_first16": "6430141aa273cae4",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      5068,
+      4851,
+      654,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 683,
+    "sha256_first16": "24ba20f520634ecb",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 684,
+    "sha256_first16": "37c362c048e112b0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 685,
+    "sha256_first16": "4fba59ed46cb966e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12849,
+      12736,
+      654,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 686,
+    "sha256_first16": "25b95cbedd99039c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      549,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 687,
+    "sha256_first16": "78b89be131a05f13",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 688,
+    "sha256_first16": "44c59bafb267e2f5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 689,
+    "sha256_first16": "49250584dd01d931",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      3242
+    ]
+  },
+  {
+    "paragraph_idx": 690,
+    "sha256_first16": "d5f653c754216bf4",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      11764,
+      12849,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 691,
+    "sha256_first16": "ad9b3866a9baae4b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 692,
+    "sha256_first16": "3ffc2073e163b05b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2906,
+      741,
+      14960,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 693,
+    "sha256_first16": "7ae769ef56e0d491",
+    "top_feature_ids": [
+      1788,
+      5595,
+      15420,
+      12736,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 694,
+    "sha256_first16": "11ca485f096213a3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 695,
+    "sha256_first16": "f17e27b787b5639d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      12849
+    ]
+  },
+  {
+    "paragraph_idx": 696,
+    "sha256_first16": "4920a71503162eab",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4491,
+      2113,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 697,
+    "sha256_first16": "6722ae83d79eda8d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      7366,
+      2610,
+      12849
+    ]
+  },
+  {
+    "paragraph_idx": 698,
+    "sha256_first16": "99df8d8caa050525",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 699,
+    "sha256_first16": "15674a8576d4e51a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      1570,
+      14052
+    ]
+  },
+  {
+    "paragraph_idx": 700,
+    "sha256_first16": "ca2f951d418de2d1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      9955
+    ]
+  },
+  {
+    "paragraph_idx": 701,
+    "sha256_first16": "ee62a0fdcc445f37",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      1570,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 702,
+    "sha256_first16": "6b1de08ff53bca42",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      1570,
+      5606
+    ]
+  },
+  {
+    "paragraph_idx": 703,
+    "sha256_first16": "4f6f0cfd9ea14d0c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2442,
+      2367,
+      5606,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 704,
+    "sha256_first16": "89c2d6ae225f8602",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      1570,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 705,
+    "sha256_first16": "348678e72c54f9cc",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      2906,
+      4491,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 706,
+    "sha256_first16": "7cb362ac5b754b86",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      12849
+    ]
+  },
+  {
+    "paragraph_idx": 707,
+    "sha256_first16": "09d22ba27b0a98b1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      4491,
+      1570,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 708,
+    "sha256_first16": "53ce7738bd40aba1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      2906,
+      1570,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 709,
+    "sha256_first16": "5e757ba3cf8428ca",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      1570,
+      3792,
+      4851,
+      15586,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 710,
+    "sha256_first16": "5b42b6685a8359fd",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      654,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 711,
+    "sha256_first16": "3d75905cfc13c069",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      4491,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 712,
+    "sha256_first16": "f01c4fb825e5b562",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      654,
+      9832
+    ]
+  },
+  {
+    "paragraph_idx": 713,
+    "sha256_first16": "ff15c12038c6b33c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      549,
+      4491,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 714,
+    "sha256_first16": "81a72d451744a37a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      9955,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 715,
+    "sha256_first16": "d46d4bb354b04be7",
+    "top_feature_ids": [
+      1788,
+      12736,
+      549,
+      5595,
+      2113,
+      4851,
+      173,
+      424,
+      9706
+    ]
+  },
+  {
+    "paragraph_idx": 716,
+    "sha256_first16": "9d0661be4c558e9f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      424,
+      12736,
+      2113,
+      9706
+    ]
+  },
+  {
+    "paragraph_idx": 717,
+    "sha256_first16": "57ebbe7ebe898124",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 718,
+    "sha256_first16": "1564f69a2cd37e5c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      549,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 719,
+    "sha256_first16": "4367f90381745c9f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      14246,
+      424,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 720,
+    "sha256_first16": "282aec2408e08357",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      424,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 721,
+    "sha256_first16": "73bbe319da6f26fa",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      2233,
+      2113,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 722,
+    "sha256_first16": "a389385908b817cf",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      6996,
+      12849,
+      2367,
+      654,
+      173
+    ]
+  },
+  {
+    "paragraph_idx": 723,
+    "sha256_first16": "e4acd166e0c0a8cd",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      6996,
+      12849,
+      2113,
+      549,
+      173
+    ]
+  },
+  {
+    "paragraph_idx": 724,
+    "sha256_first16": "565b62ffbf83625f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      6996,
+      2113,
+      549,
+      9706
+    ]
+  },
+  {
+    "paragraph_idx": 725,
+    "sha256_first16": "ef3ceccb661a866b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      6996,
+      549,
+      14960,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 726,
+    "sha256_first16": "27274e3acf038043",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      6996,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 727,
+    "sha256_first16": "b0659398ef787230",
+    "top_feature_ids": [
+      1788,
+      5595,
+      6996,
+      11964,
+      12849,
+      654,
+      12736,
+      10522,
+      2367,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 728,
+    "sha256_first16": "2fbfe889ac55fc6d",
+    "top_feature_ids": [
+      1788,
+      6996,
+      5595,
+      12736,
+      2113,
+      12849,
+      654,
+      11587
+    ]
+  },
+  {
+    "paragraph_idx": 729,
+    "sha256_first16": "6219eddaf6135445",
+    "top_feature_ids": [
+      1788,
+      6996,
+      12736,
+      5595,
+      2113,
+      12849,
+      654,
+      11587,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 730,
+    "sha256_first16": "0c0687e5d00b6d66",
+    "top_feature_ids": [
+      1788,
+      6996,
+      5595,
+      2113,
+      12736,
+      4446,
+      10522,
+      549,
+      173,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 731,
+    "sha256_first16": "95857a2a7eaa1eb2",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      6996,
+      4851,
+      2233,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 732,
+    "sha256_first16": "91325a082712cdbc",
+    "top_feature_ids": [
+      1788,
+      6996,
+      5595,
+      12736,
+      654,
+      2233,
+      12849,
+      173,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 733,
+    "sha256_first16": "5d818afec46f1312",
+    "top_feature_ids": [
+      1788,
+      6996,
+      5595,
+      12736,
+      2113,
+      654,
+      12849,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 734,
+    "sha256_first16": "e448cb781d114427",
+    "top_feature_ids": [
+      1788,
+      6996,
+      12849,
+      5595,
+      654,
+      2113,
+      4446,
+      10522,
+      9706,
+      173,
+      424,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 735,
+    "sha256_first16": "99fea4083351837b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      6996,
+      11587,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 736,
+    "sha256_first16": "7cf8b63d192859c0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      549,
+      9706,
+      6996
+    ]
+  },
+  {
+    "paragraph_idx": 737,
+    "sha256_first16": "b89158babbe70fe1",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      6996,
+      12849,
+      654,
+      173,
+      9706,
+      2113,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 738,
+    "sha256_first16": "fe4f76b3e3b010e7",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      12736,
+      2113,
+      6996,
+      10522,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 739,
+    "sha256_first16": "9bb7b937b3e91cf3",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      2113,
+      6996,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 740,
+    "sha256_first16": "9f7fd7b85d65ddff",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      6996,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 741,
+    "sha256_first16": "3d4e3ad2a47869ce",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      3768
+    ]
+  },
+  {
+    "paragraph_idx": 742,
+    "sha256_first16": "71bd147c129c9df2",
+    "top_feature_ids": [
+      1788,
+      6996,
+      5595,
+      11587,
+      12736,
+      654,
+      12849,
+      173,
+      2113,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 743,
+    "sha256_first16": "15dc76232e19854c",
+    "top_feature_ids": [
+      1788,
+      5595,
+      6996,
+      2113,
+      654,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 744,
+    "sha256_first16": "1d47e88de87d6eba",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      6996,
+      11587,
+      2113,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 745,
+    "sha256_first16": "463c9cdbf586a8ac",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      6996,
+      654,
+      11964,
+      11587,
+      173
+    ]
+  },
+  {
+    "paragraph_idx": 746,
+    "sha256_first16": "2e5be2b8339e302d",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      6996,
+      12736,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 747,
+    "sha256_first16": "6f20ea36d9166652",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      6996,
+      2233,
+      549,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 748,
+    "sha256_first16": "c8cf3ac427a0e457",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      2233,
+      6996,
+      11587,
+      2367,
+      654,
+      4851,
+      14960,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 749,
+    "sha256_first16": "51d87880c631bbc6",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      6996,
+      12736,
+      654,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 750,
+    "sha256_first16": "2476bf98ae555c25",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      6996,
+      11964,
+      2113,
+      654,
+      549,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 751,
+    "sha256_first16": "71390340a6935015",
+    "top_feature_ids": [
+      1788,
+      11964,
+      5595,
+      6996,
+      654,
+      2113,
+      12736,
+      12849,
+      173
+    ]
+  },
+  {
+    "paragraph_idx": 752,
+    "sha256_first16": "734ab2182f624e9a",
+    "top_feature_ids": [
+      1788,
+      9280,
+      1120,
+      5595,
+      10522,
+      6996,
+      3864,
+      7582,
+      12736,
+      173,
+      9955,
+      8722,
+      6976
+    ]
+  },
+  {
+    "paragraph_idx": 753,
+    "sha256_first16": "6c5777698de76946",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      12074,
+      173,
+      10522,
+      6996,
+      7861,
+      12779,
+      16216
+    ]
+  },
+  {
+    "paragraph_idx": 754,
+    "sha256_first16": "803f5c694c141428",
+    "top_feature_ids": [
+      1788,
+      9280,
+      5595,
+      8756,
+      9955,
+      10950,
+      12736,
+      1120,
+      8722
+    ]
+  },
+  {
+    "paragraph_idx": 755,
+    "sha256_first16": "13765d312b620357",
+    "top_feature_ids": [
+      1788,
+      5595,
+      4851,
+      12736,
+      11005,
+      14960,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 756,
+    "sha256_first16": "9e5e565182948543",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2233,
+      2367,
+      14246,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 757,
+    "sha256_first16": "12d9beb5f237bc98",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 758,
+    "sha256_first16": "d9a752bc2206a419",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      5851,
+      654,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 759,
+    "sha256_first16": "8572b2f3ae17f9ea",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736,
+      4851,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 760,
+    "sha256_first16": "3f984ed5a0e4ddf5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2442
+    ]
+  },
+  {
+    "paragraph_idx": 761,
+    "sha256_first16": "76cc108e59223b93",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 762,
+    "sha256_first16": "614e4178bc26f27e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      11587,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 763,
+    "sha256_first16": "f11e6863d5ad3022",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      11587,
+      654,
+      5851,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 764,
+    "sha256_first16": "99b8654ff89e38ee",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      9706,
+      12736,
+      12849,
+      10522,
+      4446,
+      173,
+      9036,
+      11764
+    ]
+  },
+  {
+    "paragraph_idx": 765,
+    "sha256_first16": "a7fac382d495e06f",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      4851,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 766,
+    "sha256_first16": "aec081de32bd5e56",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 767,
+    "sha256_first16": "d15ff3d63c2ecdd5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2367,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 768,
+    "sha256_first16": "5f84575402047d49",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      654,
+      9706
+    ]
+  },
+  {
+    "paragraph_idx": 769,
+    "sha256_first16": "c825a56a80a03014",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      549,
+      4851,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 770,
+    "sha256_first16": "6d1a113fa3a583ef",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 771,
+    "sha256_first16": "9b11fdbacd2105da",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      4851,
+      2113,
+      14246,
+      2233
+    ]
+  },
+  {
+    "paragraph_idx": 772,
+    "sha256_first16": "35e03d62bebabf48",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      12736,
+      424,
+      2367,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 773,
+    "sha256_first16": "69b55a91f2e04d5b",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 774,
+    "sha256_first16": "c84bb3e1ccf7e7be",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      9706,
+      2113,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 775,
+    "sha256_first16": "5fd14e2251f9c4a1",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 776,
+    "sha256_first16": "f98e52077b75b7c5",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      2113,
+      12736,
+      6996
+    ]
+  },
+  {
+    "paragraph_idx": 777,
+    "sha256_first16": "5bf92eca787e8a3d",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2113,
+      549,
+      4851,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 778,
+    "sha256_first16": "b5fe1e5cbf5d6a50",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549,
+      4851,
+      2113
+    ]
+  },
+  {
+    "paragraph_idx": 779,
+    "sha256_first16": "547495e11a61c8be",
+    "top_feature_ids": [
+      1788,
+      2233,
+      5595,
+      12736,
+      15760,
+      6996,
+      14960,
+      9955,
+      222,
+      173
+    ]
+  },
+  {
+    "paragraph_idx": 780,
+    "sha256_first16": "0d070badf03ccd02",
+    "top_feature_ids": [
+      12736,
+      1788,
+      4851,
+      549,
+      5595,
+      14686
+    ]
+  },
+  {
+    "paragraph_idx": 781,
+    "sha256_first16": "d54b67bc17db9af5",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      549,
+      4851,
+      14960,
+      2113,
+      1570,
+      2367
+    ]
+  },
+  {
+    "paragraph_idx": 782,
+    "sha256_first16": "c7ff4c427e2cad54",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2367,
+      12736,
+      3279,
+      1570,
+      4851
+    ]
+  },
+  {
+    "paragraph_idx": 783,
+    "sha256_first16": "458cb0123e022e23",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      4851,
+      2367,
+      549,
+      14686,
+      14960,
+      2906
+    ]
+  },
+  {
+    "paragraph_idx": 784,
+    "sha256_first16": "a4f461be3d3a94f3",
+    "top_feature_ids": [
+      1788,
+      12736,
+      5595,
+      14960,
+      2367,
+      10522,
+      2113,
+      1120,
+      549
+    ]
+  },
+  {
+    "paragraph_idx": 785,
+    "sha256_first16": "622e4a6ed0ac2005",
+    "top_feature_ids": [
+      1788,
+      5595,
+      12736,
+      2367,
+      1570,
+      14960,
+      4851,
+      549,
+      3000
+    ]
+  },
+  {
+    "paragraph_idx": 786,
+    "sha256_first16": "38944ef3b7a8605e",
+    "top_feature_ids": [
+      14052,
+      5595,
+      1113,
+      2367,
+      1788,
+      7013,
+      11366,
+      12736,
+      884,
+      9955,
+      14166
+    ]
+  },
+  {
+    "paragraph_idx": 787,
+    "sha256_first16": "7454f080d66cfc11",
+    "top_feature_ids": [
+      2367,
+      5595,
+      14052,
+      1788,
+      12736,
+      7582,
+      6641,
+      7594
+    ]
+  },
+  {
+    "paragraph_idx": 788,
+    "sha256_first16": "c0a402dcc5afd320",
+    "top_feature_ids": [
+      1788,
+      2367,
+      5595,
+      10182,
+      1332,
+      14960,
+      4851,
+      3000,
+      1570
+    ]
+  },
+  {
+    "paragraph_idx": 789,
+    "sha256_first16": "750cafe4fb6d9f1e",
+    "top_feature_ids": [
+      1788,
+      2367,
+      5595,
+      12736,
+      14960,
+      4851,
+      1570,
+      11600,
+      3000
+    ]
+  },
+  {
+    "paragraph_idx": 790,
+    "sha256_first16": "1a3f1cafd0f8199a",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2367,
+      1332,
+      1570,
+      3279,
+      3097,
+      14960
+    ]
+  },
+  {
+    "paragraph_idx": 791,
+    "sha256_first16": "9c0dc60ccd5e2beb",
+    "top_feature_ids": [
+      1788,
+      654,
+      10522,
+      762,
+      5595,
+      12736,
+      2113,
+      16066,
+      3864
+    ]
+  },
+  {
+    "paragraph_idx": 792,
+    "sha256_first16": "96f87c946f006e00",
+    "top_feature_ids": [
+      1788,
+      2113,
+      16066,
+      654,
+      5595,
+      10522,
+      762
+    ]
+  },
+  {
+    "paragraph_idx": 793,
+    "sha256_first16": "249389730d89b101",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      12736,
+      4851,
+      549,
+      654
+    ]
+  },
+  {
+    "paragraph_idx": 794,
+    "sha256_first16": "4fae3aa9c034b401",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 795,
+    "sha256_first16": "db7eb537345d6d59",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 796,
+    "sha256_first16": "16216bbfb1018342",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      12736
+    ]
+  },
+  {
+    "paragraph_idx": 797,
+    "sha256_first16": "f06a962bb6cde5e2",
+    "top_feature_ids": [
+      1788,
+      2113,
+      5595,
+      762,
+      12736,
+      10522,
+      11742
+    ]
+  },
+  {
+    "paragraph_idx": 798,
+    "sha256_first16": "5aa6ee5a739348e0",
+    "top_feature_ids": [
+      1788,
+      5595,
+      2113,
+      654,
+      12736,
+      10522
+    ]
+  },
+  {
+    "paragraph_idx": 799,
+    "sha256_first16": "71af05fc267c032e",
+    "top_feature_ids": [
+      1788,
+      5595,
+      654,
+      2113,
+      12736,
+      10522,
+      1593
+    ]
+  }
+]

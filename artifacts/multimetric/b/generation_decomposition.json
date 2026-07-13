@@ -1,0 +1,89 @@
+{
+  "n": 1103,
+  "table": {
+    "Baseline": {
+      "hit_D_i": 0.40525838621940163,
+      "delta_pp": 0.0,
+      "pct_of_targeted": 0.0
+    },
+    "Targeted": {
+      "hit_D_i": 0.3372620126926564,
+      "delta_pp": -6.799637352674524,
+      "pct_of_targeted": 100.0,
+      "ci_pp": [
+        -8.43155031731641,
+        -5.167724388032639
+      ],
+      "mcnemar": {
+        "a_both_hit": 363,
+        "x_kills_only": 84,
+        "y_kills_only": 9,
+        "d_both_miss": 647,
+        "n_disc": 93,
+        "p": 1.0844307221272652e-16
+      },
+      "wilcoxon_p": 3.709191975840331e-15
+    },
+    "Shared-only": {
+      "hit_D_i": 0.37352674524025387,
+      "delta_pp": -3.1731640979147784,
+      "pct_of_targeted": 46.66666666666667,
+      "ci_pp": [
+        -4.623753399818677,
+        -1.813236627379873
+      ],
+      "mcnemar": {
+        "a_both_hit": 399,
+        "x_kills_only": 48,
+        "y_kills_only": 13,
+        "d_both_miss": 643,
+        "n_disc": 61,
+        "p": 3.8325841902227265e-06
+      },
+      "wilcoxon_p": 3.7096468567885243e-06
+    },
+    "Unique-only": {
+      "hit_D_i": 0.36627379873073435,
+      "delta_pp": -3.8984587488667275,
+      "pct_of_targeted": 57.333333333333336,
+      "ci_pp": [
+        -5.077062556663645,
+        -2.7198549410698094
+      ],
+      "mcnemar": {
+        "a_both_hit": 403,
+        "x_kills_only": 44,
+        "y_kills_only": 1,
+        "d_both_miss": 655,
+        "n_disc": 45,
+        "p": 1.3073986337985843e-12
+      },
+      "wilcoxon_p": 7.273045643139991e-11
+    },
+    "Sum (Sh+Un)": {
+      "delta_pp": -7.071622846781506,
+      "pct_of_targeted": 104.0
+    },
+    "Residual": {
+      "delta_pp": 0.2719854941069819,
+      "pct_of_targeted": -4.000000000000014
+    }
+  },
+  "flip_rates_from_baseline": {
+    "targeted": {
+      "n": 1103,
+      "n_flips": 152,
+      "flip_rate": 0.13780598368087035
+    },
+    "shared_only": {
+      "n": 1103,
+      "n_flips": 110,
+      "flip_rate": 0.09972801450589303
+    },
+    "unique_only": {
+      "n": 1103,
+      "n_flips": 58,
+      "flip_rate": 0.05258386219401632
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "layer": 41,
+  "top_k": 10,
+  "note": "Count-composition of shared/unique partition vs a_weight (model-free; selection effect only). Causal split needs forward passes.",
+  "cells": [
+    {
+      "a_weight": 0.0,
+      "n_units": 1103,
+      "mean_set_size": 9.70988213961922,
+      "pct_shared_by_count": 38.515406162464984,
+      "pct_unique_by_count": 61.484593837535016
+    },
+    {
+      "a_weight": 0.25,
+      "n_units": 1103,
+      "mean_set_size": 9.70988213961922,
+      "pct_shared_by_count": 42.810457516339866,
+      "pct_unique_by_count": 57.189542483660134
+    },
+    {
+      "a_weight": 0.5,
+      "n_units": 1103,
+      "mean_set_size": 9.70988213961922,
+      "pct_shared_by_count": 48.851540616246496,
+      "pct_unique_by_count": 51.148459383753504,
+      "faithfulness_mean_jaccard_vs_published": 0.9983516030660183
+    },
+    {
+      "a_weight": 0.75,
+      "n_units": 1103,
+      "mean_set_size": 9.70988213961922,
+      "pct_shared_by_count": 55.13538748832867,
+      "pct_unique_by_count": 44.86461251167133
+    },
+    {
+      "a_weight": 1.0,
+      "n_units": 1103,
+      "mean_set_size": 9.70988213961922,
+      "pct_shared_by_count": 60.91503267973856,
+      "pct_unique_by_count": 39.08496732026144
+    },
+    {
+      "a_weight": 2.0,
+      "n_units": 1103,
+      "mean_set_size": 9.70988213961922,
+      "pct_shared_by_count": 67.05882352941177,
+      "pct_unique_by_count": 32.94117647058823
+    }
+  ]
+}

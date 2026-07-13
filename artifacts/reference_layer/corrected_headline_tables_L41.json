@@ -1,0 +1,143 @@
+{
+  "source": "artifacts/layer_bookends/L41/results_main.json",
+  "n_self_pairs": 1103,
+  "note": "Recomputed from canonical L41 per-pair artifact. WikiText and Random are identical to baseline on all 1103 pairs.",
+  "table1_corrected": {
+    "Baseline": {
+      "hit1": 0.2928377153218495,
+      "delta_pp": 0.0,
+      "ci_pp": [
+        0.0,
+        0.0
+      ]
+    },
+    "Targeted": {
+      "hit1": 0.16047144152311876,
+      "delta_pp": -13.236627379873072,
+      "ci_pp": [
+        -15.41251133272892,
+        -11.060743427017226
+      ]
+    },
+    "Sibling": {
+      "hit1": 0.2023269870051375,
+      "delta_pp": -9.0510728316712,
+      "ci_pp": [
+        -11.106074342701723,
+        -7.1018434572378375
+      ]
+    },
+    "Shuffled-AmbigQA": {
+      "hit1": 0.2810516772438803,
+      "delta_pp": -1.1786038077969185,
+      "ci_pp": [
+        -1.9341190692051984,
+        -0.4533091568449684
+      ]
+    },
+    "WikiText-shuffled": {
+      "hit1": 0.2928377153218495,
+      "delta_pp": 0.0,
+      "ci_pp": [
+        0.0,
+        0.0
+      ]
+    },
+    "Random": {
+      "hit1": 0.2928377153218495,
+      "delta_pp": 0.0,
+      "ci_pp": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "table2_corrected": {
+    "T1_Targeted_vs_Random": {
+      "delta_pp": 13.236627379873072,
+      "ci_pp": [
+        11.060743427017226,
+        15.41251133272892
+      ],
+      "wilcoxon_p": 4.362917950428003e-29,
+      "mcnemar_p": 2.1137680746265134e-33,
+      "mcnemar_cells": {
+        "a_both_hit": 164,
+        "x_kills_only": 159,
+        "y_kills_only": 13,
+        "d_both_miss": 767,
+        "n_disc": 172
+      }
+    },
+    "T2_Sibling_vs_ShuffledAmbigQA": {
+      "delta_pp": 7.872469023874282,
+      "ci_pp": [
+        5.998791175581747,
+        9.821698398307644
+      ],
+      "wilcoxon_p": 8.580971938240274e-15,
+      "mcnemar_p": 2.427993892545967e-12,
+      "mcnemar_cells": {
+        "a_both_hit": 209,
+        "x_kills_only": 103,
+        "y_kills_only": 26,
+        "d_both_miss": 765,
+        "n_disc": 129
+      }
+    },
+    "T3_Sibling_vs_WikiText": {
+      "delta_pp": 9.0510728316712,
+      "ci_pp": [
+        7.1018434572378375,
+        11.106074342701723
+      ],
+      "wilcoxon_p": 1.0376029455995145e-16,
+      "mcnemar_p": 2.518361204225327e-15,
+      "mcnemar_cells": {
+        "a_both_hit": 212,
+        "x_kills_only": 111,
+        "y_kills_only": 23,
+        "d_both_miss": 757,
+        "n_disc": 134
+      }
+    },
+    "T4_ShuffledAmbigQA_vs_WikiText": {
+      "delta_pp": 1.1786038077969185,
+      "ci_pp": [
+        0.4533091568449684,
+        1.9341190692051984
+      ],
+      "wilcoxon_p": 6.168678316958022e-05,
+      "mcnemar_p": 0.052238985896110535,
+      "mcnemar_cells": {
+        "a_both_hit": 304,
+        "x_kills_only": 19,
+        "y_kills_only": 8,
+        "d_both_miss": 772,
+        "n_disc": 27
+      }
+    }
+  },
+  "published_stale_values": {
+    "table1": {
+      "Shuffled-AmbigQA": [
+        0.2853,
+        -0.75
+      ],
+      "WikiText-shuffled": [
+        0.2956,
+        0.27
+      ],
+      "Random": [
+        0.2937,
+        0.09
+      ]
+    },
+    "table2": {
+      "T1": 13.33,
+      "T2": 8.3,
+      "T3": 9.05,
+      "T4": 1.02
+    }
+  }
+}

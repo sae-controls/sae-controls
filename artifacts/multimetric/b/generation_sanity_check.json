@@ -1,0 +1,126 @@
+{
+  "n": 20,
+  "n_match": 20,
+  "results": [
+    {
+      "pair_id": "9181158827444377842",
+      "match": true,
+      "greedy_decode": "Margaret Anderson  \n",
+      "ablation_no_op": "Margaret Anderson  \n"
+    },
+    {
+      "pair_id": "-7799540469311883081",
+      "match": true,
+      "greedy_decode": "1959 \n",
+      "ablation_no_op": "1959 \n"
+    },
+    {
+      "pair_id": "-1250582699647840432",
+      "match": true,
+      "greedy_decode": "Sevilla  \n",
+      "ablation_no_op": "Sevilla  \n"
+    },
+    {
+      "pair_id": "3872128733372987564",
+      "match": true,
+      "greedy_decode": "Delta Tau Chi \n",
+      "ablation_no_op": "Delta Tau Chi \n"
+    },
+    {
+      "pair_id": "-6357015709702983334",
+      "match": true,
+      "greedy_decode": "\"When Doves Cry\" by Prince \n",
+      "ablation_no_op": "\"When Doves Cry\" by Prince \n"
+    },
+    {
+      "pair_id": "696323983676971285",
+      "match": true,
+      "greedy_decode": "2014  \n",
+      "ablation_no_op": "2014  \n"
+    },
+    {
+      "pair_id": "-5467022680404303503",
+      "match": true,
+      "greedy_decode": "Cecil Rhodes \n",
+      "ablation_no_op": "Cecil Rhodes \n"
+    },
+    {
+      "pair_id": "4943148846276714353",
+      "match": true,
+      "greedy_decode": "September 2, 1951 \n",
+      "ablation_no_op": "September 2, 1951 \n"
+    },
+    {
+      "pair_id": "-5983383719067050269",
+      "match": true,
+      "greedy_decode": "Chief Little Crow \n",
+      "ablation_no_op": "Chief Little Crow \n"
+    },
+    {
+      "pair_id": "-7777113122145346577",
+      "match": true,
+      "greedy_decode": "1912 \n",
+      "ablation_no_op": "1912 \n"
+    },
+    {
+      "pair_id": "1926852878923265818",
+      "match": true,
+      "greedy_decode": "Drake \n",
+      "ablation_no_op": "Drake \n"
+    },
+    {
+      "pair_id": "-2593047317812020187",
+      "match": true,
+      "greedy_decode": "1955 \n",
+      "ablation_no_op": "1955 \n"
+    },
+    {
+      "pair_id": "-4280032514854961256",
+      "match": true,
+      "greedy_decode": "A Dance with Dragons (2011) \n",
+      "ablation_no_op": "A Dance with Dragons (2011) \n"
+    },
+    {
+      "pair_id": "-228017844504433803",
+      "match": true,
+      "greedy_decode": "Jen Taylor \n",
+      "ablation_no_op": "Jen Taylor \n"
+    },
+    {
+      "pair_id": "590302661057746891",
+      "match": true,
+      "greedy_decode": "Thomas Hobbes \n",
+      "ablation_no_op": "Thomas Hobbes \n"
+    },
+    {
+      "pair_id": "4419645678340736053",
+      "match": true,
+      "greedy_decode": "Michael Gambon \n",
+      "ablation_no_op": "Michael Gambon \n"
+    },
+    {
+      "pair_id": "-3061814766630657819",
+      "match": true,
+      "greedy_decode": "November 15, 2023. \n",
+      "ablation_no_op": "November 15, 2023. \n"
+    },
+    {
+      "pair_id": "-2358252433866574475",
+      "match": true,
+      "greedy_decode": "Spider-Man \n",
+      "ablation_no_op": "Spider-Man \n"
+    },
+    {
+      "pair_id": "5881756658805354957",
+      "match": true,
+      "greedy_decode": "c. 2070 BCE - 220 CE ",
+      "ablation_no_op": "c. 2070 BCE - 220 CE "
+    },
+    {
+      "pair_id": "2422605926552012591",
+      "match": true,
+      "greedy_decode": "The Once-ler \n",
+      "ablation_no_op": "The Once-ler \n"
+    }
+  ]
+}

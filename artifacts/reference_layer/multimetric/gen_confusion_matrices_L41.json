@@ -1,0 +1,53 @@
+{
+  "targeted": {
+    "D_i": {
+      "D_i": 372,
+      "D_j": 20,
+      "no-match": 55
+    },
+    "D_j": {
+      "D_i": 16,
+      "D_j": 588,
+      "no-match": 49
+    },
+    "no-match": {
+      "D_i": 0,
+      "D_j": 0,
+      "no-match": 3
+    }
+  },
+  "shared_only": {
+    "D_i": {
+      "D_i": 399,
+      "D_j": 14,
+      "no-match": 34
+    },
+    "D_j": {
+      "D_i": 12,
+      "D_j": 590,
+      "no-match": 51
+    },
+    "no-match": {
+      "D_i": 0,
+      "D_j": 0,
+      "no-match": 3
+    }
+  },
+  "unique_only": {
+    "D_i": {
+      "D_i": 399,
+      "D_j": 13,
+      "no-match": 35
+    },
+    "D_j": {
+      "D_i": 4,
+      "D_j": 639,
+      "no-match": 10
+    },
+    "no-match": {
+      "D_i": 0,
+      "D_j": 0,
+      "no-match": 3
+    }
+  }
+}

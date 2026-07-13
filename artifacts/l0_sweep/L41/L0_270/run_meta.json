@@ -1,0 +1,17 @@
+{
+  "layer": 41,
+  "l0": 270,
+  "model": "google/gemma-2-9b-it",
+  "sae_meta": {
+    "repo": "google/gemma-scope-9b-pt-res",
+    "subpath": "layer_41/width_16k/average_l0_270/params.npz",
+    "local_path": "<HF_CACHE>/hub/models--google--gemma-scope-9b-pt-res/snapshots/f9b689815814972562d28082f9f7d65d7e01fdc8/layer_41/width_16k/average_l0_270/params.npz",
+    "sha256": "703f20b0dae5536d6adfcf5e0b33357588dbe811053d9c4c47b0ef070f49de32",
+    "d_model": 3584,
+    "d_sae": 16384,
+    "layer": 41,
+    "l0": 270
+  },
+  "n_self_pairs": 1103,
+  "elapsed_seconds": 390.02
+}

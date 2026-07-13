@@ -1,0 +1,25 @@
+{
+  "level": "feature appearances in (P, D_i) top-10 lists",
+  "n_total_appearances": 10982,
+  "cells_observed": {
+    "unique|content": 4642,
+    "unique|position": 1506,
+    "shared|content": 3910,
+    "shared|position": 924
+  },
+  "cells_expected": {
+    "unique|content": 4787.624840648334,
+    "unique|position": 1360.3751593516663,
+    "shared|content": 3764.3751593516663,
+    "shared|position": 1069.6248406483337
+  },
+  "marginal_totals": {
+    "unique": 6148,
+    "shared": 4834,
+    "content": 8552,
+    "position": 2430
+  },
+  "chi2_statistic": 45.477938883587505,
+  "chi2_p_value": 1.5436777975705668e-11,
+  "dof": 1
+}

@@ -1,0 +1,41 @@
+{
+  "bin_thresholds_q1_q2": [
+    69.48611111111111,
+    96.52380952380952
+  ],
+  "bins": {
+    "low": {
+      "uc_n": 642,
+      "sc_n": 41,
+      "uc_aggregate_pp": -2.4922118380062304,
+      "sc_aggregate_pp": -7.317073170731707,
+      "uc_mean_size": 3.8286604361370715,
+      "sc_mean_size": 3.1951219512195124,
+      "uc_per_feature_pp": -0.6509357200976403,
+      "sc_per_feature_pp": -2.2900763358778624,
+      "ratio_uc_over_sc": 0.28424193110930296
+    },
+    "mid": {
+      "uc_n": 362,
+      "sc_n": 321,
+      "uc_aggregate_pp": -6.629834254143646,
+      "sc_aggregate_pp": -0.6230529595015576,
+      "uc_mean_size": 5.54696132596685,
+      "sc_mean_size": 4.9034267912772584,
+      "uc_per_feature_pp": -1.1952191235059761,
+      "sc_per_feature_pp": -0.12706480304955528,
+      "ratio_uc_over_sc": 9.406374501992032
+    },
+    "high": {
+      "uc_n": 40,
+      "sc_n": 643,
+      "uc_aggregate_pp": -2.5,
+      "sc_aggregate_pp": -4.821150855365474,
+      "uc_mean_size": 4.4,
+      "sc_mean_size": 3.4292379471228616,
+      "uc_per_feature_pp": -0.5681818181818181,
+      "sc_per_feature_pp": -1.4058956916099772,
+      "ratio_uc_over_sc": 0.4041422287390029
+    }
+  }
+}

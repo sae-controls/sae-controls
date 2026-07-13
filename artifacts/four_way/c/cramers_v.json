@@ -1,0 +1,5 @@
+{
+  "cramers_v": 0.06435164708230948,
+  "phi_coefficient_signed": -0.06435164708230946,
+  "interpretation_phi_sign": "positive: unique appearances are over-represented in content; shared appearances over-represented in position. Negative: reverse."
+}

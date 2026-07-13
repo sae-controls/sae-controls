@@ -1,0 +1,22 @@
+{
+  "unique_content": {
+    "delta_pp_aggregate": -3.71713508612874,
+    "mean_subset_size_when_nonempty": 4.446360153256705,
+    "delta_per_feature_pp": -0.8359950516842749
+  },
+  "unique_position": {
+    "delta_pp_aggregate": -0.1813236627379873,
+    "mean_subset_size_when_nonempty": 1.9015151515151516,
+    "delta_per_feature_pp": -0.09535746406937977
+  },
+  "shared_content": {
+    "delta_pp_aggregate": -3.2638259292837715,
+    "mean_subset_size_when_nonempty": 3.890547263681592,
+    "delta_per_feature_pp": -0.8389117797775423
+  },
+  "shared_position": {
+    "delta_pp_aggregate": -0.8159564823209429,
+    "mean_subset_size_when_nonempty": 1.618213660245184,
+    "delta_per_feature_pp": -0.5042328478411887
+  }
+}

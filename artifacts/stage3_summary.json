@@ -1,0 +1,99 @@
+{
+  "n_self_pairs": 1103,
+  "table": {
+    "Baseline": {
+      "hit1": 0.2928377153218495,
+      "delta_pp": 0.0
+    },
+    "Targeted": {
+      "hit1": 0.19220308250226656,
+      "delta_pp": -10.063463281958294
+    },
+    "Sibling": {
+      "hit1": 0.24796010879419764,
+      "delta_pp": -4.487760652765186
+    },
+    "Shuffled (AmbigQA)": {
+      "hit1": 0.2828649138712602,
+      "delta_pp": -0.9972801450589264
+    },
+    "WikiText-shuffled": {
+      "hit1": 0.2928377153218495,
+      "delta_pp": 0.0
+    },
+    "Random": {
+      "hit1": 0.2931399214264128,
+      "delta_pp": 0.030220610456332953
+    }
+  },
+  "tests": [
+    {
+      "name": "T1 \u2014 Targeted vs Random (1-sided: T drops more)",
+      "delta_pp": 10.093683892414626,
+      "mcnemar": {
+        "a_both_hit": 200,
+        "x_kills_only": 123,
+        "y_kills_only": 12,
+        "d_both_miss": 768,
+        "n_disc": 135,
+        "p": 1.1742483526729222e-24
+      },
+      "wilcoxon_p": 6.203182257106632e-22,
+      "ci_pp_y_minus_x": [
+        8.159564823209429,
+        12.058023572076156
+      ]
+    },
+    {
+      "name": "T2 \u2014 Sibling vs Shuffled-AmbigQA (1-sided: Sib drops more)",
+      "delta_pp": 3.490480507706259,
+      "mcnemar": {
+        "a_both_hit": 245,
+        "x_kills_only": 68,
+        "y_kills_only": 39,
+        "d_both_miss": 751,
+        "n_disc": 107,
+        "p": 0.0032588823156394736
+      },
+      "wilcoxon_p": 3.538704371884609e-05,
+      "ci_pp_y_minus_x": [
+        1.85856754306437,
+        5.152614082804472
+      ]
+    },
+    {
+      "name": "T3 \u2014 Sibling vs WikiText-shuffled (1-sided: Sib drops more) [KEY]",
+      "delta_pp": 4.487760652765186,
+      "mcnemar": {
+        "a_both_hit": 251,
+        "x_kills_only": 72,
+        "y_kills_only": 33,
+        "d_both_miss": 747,
+        "n_disc": 105,
+        "p": 8.917861115506816e-05
+      },
+      "wilcoxon_p": 3.005787688766865e-07,
+      "ci_pp_y_minus_x": [
+        2.8105167724388034,
+        6.240556059232397
+      ]
+    },
+    {
+      "name": "T4 \u2014 Shuffled-AmbigQA vs WikiText-shuffled (2-sided)",
+      "delta_pp": 0.9972801450589264,
+      "mcnemar": {
+        "a_both_hit": 309,
+        "x_kills_only": 14,
+        "y_kills_only": 4,
+        "d_both_miss": 776,
+        "n_disc": 18,
+        "p": 0.0308837890625
+      },
+      "wilcoxon_p": 0.00019799806563754044,
+      "ci_pp_y_minus_x": [
+        0.392867935932306,
+        1.5714717437292236
+      ]
+    }
+  ]
+}

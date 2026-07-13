@@ -1,0 +1,177 @@
+Reproducibility note
+====================
+
+This file pins everything required to reproduce the published numbers.
+The frozen artifacts in `artifacts/` are what the paper cites; the
+hashes below are what you should expect after running the pipeline
+end-to-end on a single GPU. The CPU-side analysis stages (the
+decomposition scripts and figure rendering) are deterministic from the
+artifacts.
+
+
+Software environment
+--------------------
+
+The published runs used these exact pinned versions. Nothing in the
+pipeline depends on these exact versions; nearby versions should work
+if your environment differs, with the caveat that frozen-artifact
+hashes may shift slightly under different BLAS / CUDA stacks.
+
+  Python      3.11
+  torch       2.5.1
+  transformers 4.46.3
+  huggingface_hub 0.26.5
+  accelerate  1.1.1
+  datasets    3.0.2
+  numpy       1.26.4
+  scipy       1.14.1
+  tqdm        4.67.1
+  matplotlib  3.9.2   (paper figures only)
+
+Hardware (published runs):
+  NVIDIA A40 (48 GB), CUDA 12.4, bf16
+  Single-GPU is sufficient for every script.
+
+
+Models and SAEs
+---------------
+
+All models are public on the Hugging Face Hub. SAE checkpoints are pinned
+by SHA-256 of the underlying `params.npz` (Gemma Scope) or
+`final.safetensors` (Llama Scope) file.
+
+Gemma-2-9B-IT (paper reference)
+  HF repo:        google/gemma-2-9b-it
+  License:        gated; requires accepted Gemma license
+  Reference layer (paper): residual-stream layer 41 of 42 (final)
+  Legacy reference:        residual-stream layer 37 (used in Sec. 4.5, layer robustness)
+
+  Gemma Scope L37 SAE (legacy reference)
+    repo:    google/gemma-scope-9b-pt-res
+    subpath: layer_37/width_16k/average_l0_11/params.npz
+    sha256:  71491ae42b5c36760cf685ccd117c6cff81c573eda8dfd6d9baa21d8dc3a521e
+
+  Gemma Scope L41 SAE (paper reference)
+    repo:    google/gemma-scope-9b-pt-res
+    subpath: layer_41/width_16k/average_l0_10/params.npz
+    sha256:  65f7ea2b47901603fc09d5c5e8c8824b56fcfd630265b8832fca8da82a203013
+
+Gemma-2-2B-IT (cross-scale replication)
+  HF repo:        google/gemma-2-2b-it
+  Layer:          residual-stream layer 25 of 26 (final)
+  Gemma Scope L25 SAE
+    repo:    google/gemma-scope-2b-pt-res
+    subpath: layer_25/width_16k/average_l0_16/params.npz
+    sha256:  87da6636ca18a34ce6fd9d00c270613324b7b349bcbbd9a639fa2b0a69fe6383
+
+Llama-3.1-8B-Instruct (cross-architecture replication)
+  HF repo:        meta-llama/Llama-3.1-8B-Instruct
+  License:        gated; requires accepted Llama 3 license
+  Layer:          residual-stream layer 31 of 32 (final)
+  Llama Scope L31 SAE (8× expansion = 32k features)
+    repo:    fnlp/Llama3_1-8B-Base-LXR-8x
+    subpath: Llama3_1-8B-Base-L31R-8x/checkpoints/final.safetensors
+    sha256:  a26dc30d15305d26d582b6e0abfdd20a4553a3b1fa9b507ae34456da56786504
+    note:    trained on Llama-3.1-8B-Base; applied to -Instruct. See
+             the Limitations section of the paper.
+
+
+Datasets
+--------
+
+AmbigQA (Min et al., 2020)
+  HF repo:    sewon/ambig_qa
+  Splits:     train (10,036) + validation (2,002)
+  Filtered to multipleQAs with ≥ 2 short-answer (≤ 3 word) disambiguations.
+
+TriviaQA-Web (Joshi et al., 2017)
+  HF repo:    mandarjoshi/trivia_qa
+  Config:     rc.web.nocontext (no evidence documents — we use only
+              question + alias list; the full rc.web pulls ~10 GB of
+              evidence files we never read)
+  Splits:     train + validation
+
+WikiText-2 raw (Merity et al., 2017)
+  HF repo:    Salesforce/wikitext
+  Config:     wikitext-2-raw-v1, split=test
+  Used as the out-of-distribution reference for shuffle controls and for
+  the position-mode polysemy partition.
+
+
+Frozen artifact hashes
+----------------------
+
+These are what you should observe after running the pipeline end-to-end.
+They cover the artifacts the paper cites directly.
+
+  data/patching_pairs.jsonl
+    861c0cf9e1cad2f348b1a0458af2c969fc18809b296c6695bc390e587403d110
+
+  artifacts/expanded_dataset.json
+    e13476cb0e9be35a5c8d2a189681037662f9f5275db91b4022de161bc89a6727
+
+  artifacts/detected_pairs.json
+    828c5a680a07c29ed9232fa4ec97966c5fdfe0b095f07231f8d3a6e56734b850
+
+  artifacts/matched_controls/selection.json
+    84abd14789a6439c2193e2b6a35145356c191967a7e8dd68f21cc91f889717ea
+
+  artifacts/matched_controls/matched_controls_results.json
+    ffea68ed48c84339ada5fa22b771b097bb26c934dc06cd323d64aa16e33a8b3b
+
+  artifacts/matched_controls/summary.json
+    d67723d4102a71fdfd089195ebae15c403e4cde6a2d2bc6ef758a0a943f6e548
+
+  artifacts/results_main.json
+    2e794b5b1a0e23fa0d47c70f7253b6527f36c42f77bd45050954025a53ba5667
+
+  artifacts/wikitext_position_mode.json
+    66ef30ff4a9be1b7cac637bd2aecd2c9e1249ecbf8e0327ce0f88505d5984e2f
+
+  artifacts/reference_layer/L41_summary_table.json
+    1c2486acfbf6f4a92c70972cc886c7f4f680fe8179f49909e7c08438fe75a9e0
+
+  artifacts/reference_layer/corrected_headline_tables_L41.json
+    57b30a75d805032dbb9f9471c3aff41615d89913d497d7d8ef64bfb56e6d6c42
+
+  artifacts/layer_bookends/L41/results_main.json
+    87bdfdf6744ba5745194bf11f99f1243a2d2ee466cd938611b4c4802cbb37905
+
+  artifacts/layer_bookends/L41/unique_shared_decomp.json
+    e959505f2a6dcda1220a4fe2780fb3b83e9789e58158033fab992692de8fb74a
+
+  artifacts/layer_bookends/trajectory_summary.json
+    78485208217ebb4d3c8cd26f74f6085962a4fd911183f8c11c96d9e85d4d176e
+
+  artifacts/l0_sweep/l0_sweep_summary.json
+    55c7a44cca51bd082ebf469ef9f8a6d3d0a303f3ce6b33bda21344bf3e5fbdf8
+
+  artifacts/replication_gemma2b/summary.json
+    8dc8f515518bb333eaf0b6f6a93b939640a7adf357fcb8d14b43a262dfeb2259
+
+  artifacts/replication_triviaqa/summary.json
+    b990b9f424ed2dfd7a1a908bcf8361b0a1a3afadd4ab2f222ce734bf6101d2a4
+
+  artifacts/replication_llama/summary.json
+    0848cc6987ab348b3ee7aa7186d2751dd4cf4c3b1d2230853fa513ae1e65336c
+
+
+Determinism notes
+-----------------
+
+The slot-detection and forward-pass stages use bf16 on GPU and may
+exhibit small numerical drift across CUDA versions. The downstream
+discrete decisions (which alias the model commits to, which features
+the score function selects) are stable in practice but not guaranteed
+bit-identical. The downstream analysis stages (decomposition, paired
+tests, figures) are deterministic from the encoded SAE activations and
+will reproduce hashes exactly given the same input artifacts.
+
+Random seeds:
+  SEED            = 0    (data sampling, random-feature controls,
+                          per-pair shuffle draws within AmbigQA)
+  SHUFFLE_SEED    = 42   (WikiText-shuffled draws; intentionally
+                          distinct so that AmbigQA-shuffle and
+                          WikiText-shuffle streams do not correlate)
+  RANDOM_BASELINE_SEED = 1  (5-random-feature interpretability baseline,
+                          src/config.py; disclosed for completeness)

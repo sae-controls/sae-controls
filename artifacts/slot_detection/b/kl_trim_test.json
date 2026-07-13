@@ -1,0 +1,94 @@
+{
+  "T3_on_KL": [
+    {
+      "drop_pct": 0.0,
+      "n_dropped": 0,
+      "n_bulk": 1103,
+      "mean_diff_kl": 1.331410046689522,
+      "wilcoxon_p_x_greater_y": 3.8732415121939075e-182
+    },
+    {
+      "drop_pct": 0.1,
+      "n_dropped": 110,
+      "n_bulk": 993,
+      "mean_diff_kl": 0.7884579302260339,
+      "wilcoxon_p_x_greater_y": 3.35344790506074e-164
+    },
+    {
+      "drop_pct": 0.25,
+      "n_dropped": 276,
+      "n_bulk": 827,
+      "mean_diff_kl": 0.4013427257824242,
+      "wilcoxon_p_x_greater_y": 3.9806817657642188e-137
+    }
+  ],
+  "Targeted_vs_Baseline_on_KL": [
+    {
+      "drop_pct": 0.0,
+      "n_dropped": 0,
+      "n_bulk": 1103,
+      "mean_diff_kl": 1.3316989112767044,
+      "wilcoxon_p_x_greater_y": 2.660832420177967e-182
+    },
+    {
+      "drop_pct": 0.1,
+      "n_dropped": 110,
+      "n_bulk": 993,
+      "mean_diff_kl": 0.7232806407193719,
+      "wilcoxon_p_x_greater_y": 2.303630176616982e-164
+    },
+    {
+      "drop_pct": 0.25,
+      "n_dropped": 276,
+      "n_bulk": 827,
+      "mean_diff_kl": 0.3186880436280184,
+      "wilcoxon_p_x_greater_y": 2.7342313051706057e-137
+    }
+  ],
+  "Shared_vs_Baseline_on_KL": [
+    {
+      "drop_pct": 0.0,
+      "n_dropped": 0,
+      "n_bulk": 1103,
+      "mean_diff_kl": 0.8031281578973881,
+      "wilcoxon_p_x_greater_y": 4.515776492018472e-170
+    },
+    {
+      "drop_pct": 0.1,
+      "n_dropped": 110,
+      "n_bulk": 993,
+      "mean_diff_kl": 0.32639117281286506,
+      "wilcoxon_p_x_greater_y": 3.925285957354843e-152
+    },
+    {
+      "drop_pct": 0.25,
+      "n_dropped": 276,
+      "n_bulk": 827,
+      "mean_diff_kl": 0.1211100393936112,
+      "wilcoxon_p_x_greater_y": 4.6972369167335844e-125
+    }
+  ],
+  "Unique_vs_Baseline_on_KL": [
+    {
+      "drop_pct": 0.0,
+      "n_dropped": 0,
+      "n_bulk": 1103,
+      "mean_diff_kl": 0.4409147285252247,
+      "wilcoxon_p_x_greater_y": 1.227089637056569e-174
+    },
+    {
+      "drop_pct": 0.1,
+      "n_dropped": 110,
+      "n_bulk": 993,
+      "mean_diff_kl": 0.05981308338105142,
+      "wilcoxon_p_x_greater_y": 1.0649653875512749e-156
+    },
+    {
+      "drop_pct": 0.25,
+      "n_dropped": 276,
+      "n_bulk": 827,
+      "mean_diff_kl": 0.009838435732547564,
+      "wilcoxon_p_x_greater_y": 1.2703160228833557e-129
+    }
+  ]
+}

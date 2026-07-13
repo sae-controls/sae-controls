@@ -1,0 +1,116 @@
+{
+  "T3 (Sibling vs WT-shuffled)": [
+    {
+      "drop_pct": 0.0,
+      "n_dropped": 0,
+      "n": 1103,
+      "delta_pp": 4.487760652765186,
+      "ci_pp": [
+        2.8105167724388034,
+        6.240556059232397
+      ],
+      "mcnemar_p": 8.917861115506816e-05,
+      "wilcoxon_p": 3.0057876887668645e-07
+    },
+    {
+      "drop_pct": 0.1,
+      "n_dropped": 110,
+      "n": 993,
+      "delta_pp": 0.10070493454179263,
+      "ci_pp": [
+        -0.20140986908358505,
+        0.4028197381671702
+      ],
+      "mcnemar_p": 1.0,
+      "wilcoxon_p": 0.22484589898444546
+    },
+    {
+      "drop_pct": 0.25,
+      "n_dropped": 276,
+      "n": 827,
+      "delta_pp": 0.0,
+      "ci_pp": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p": NaN,
+      "wilcoxon_p": NaN
+    }
+  ],
+  "\u0394_unique vs baseline": [
+    {
+      "drop_pct": 0.0,
+      "n_dropped": 0,
+      "n": 1103,
+      "delta_pp": 3.9891205802357224,
+      "ci_pp": [
+        -5.349048050770626,
+        -2.7198549410698094
+      ],
+      "mcnemar_p": 5.091046889615924e-10,
+      "wilcoxon_p": 2.054466161616566e-09
+    },
+    {
+      "drop_pct": 0.1,
+      "n_dropped": 110,
+      "n": 993,
+      "delta_pp": 0.0,
+      "ci_pp": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p": NaN,
+      "wilcoxon_p": NaN
+    },
+    {
+      "drop_pct": 0.25,
+      "n_dropped": 276,
+      "n": 827,
+      "delta_pp": 0.0,
+      "ci_pp": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p": NaN,
+      "wilcoxon_p": NaN
+    }
+  ],
+  "\u0394_shared vs baseline": [
+    {
+      "drop_pct": 0.0,
+      "n_dropped": 0,
+      "n": 1103,
+      "delta_pp": 5.167724388032638,
+      "ci_pp": [
+        -6.799637352674524,
+        -3.535811423390753
+      ],
+      "mcnemar_p": 2.130268239423378e-10,
+      "wilcoxon_p": 4.949152582619318e-10
+    },
+    {
+      "drop_pct": 0.1,
+      "n_dropped": 110,
+      "n": 993,
+      "delta_pp": 0.0,
+      "ci_pp": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p": NaN,
+      "wilcoxon_p": NaN
+    },
+    {
+      "drop_pct": 0.25,
+      "n_dropped": 276,
+      "n": 827,
+      "delta_pp": 0.0,
+      "ci_pp": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p": NaN,
+      "wilcoxon_p": NaN
+    }
+  ]
+}
